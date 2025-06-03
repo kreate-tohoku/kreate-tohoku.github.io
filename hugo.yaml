@@ -1,6 +1,5 @@
-baseURL: "https://kreate-tohoku.github.io/page/"
+baseURL: "https://kreate-tohoku.github.io/"
 title: KREATE
-
 publishDir: "docs"
 languageCode: en-us
 DefaultContentLanguage: en

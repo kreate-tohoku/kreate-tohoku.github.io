@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kreate-tohoku.github.io/page/categories/</loc>
+    <loc>http://localhost:33207/categories/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/categories/blog/</loc>
+    <loc>http://localhost:33207/categories/blog/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/</loc>
+    <loc>http://localhost:33207/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/posts/</loc>
+    <loc>http://localhost:33207/posts/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/tags/</loc>
+    <loc>http://localhost:33207/tags/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/tags/blog/</loc>
+    <loc>http://localhost:33207/tags/blog/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/posts/example/</loc>
+    <loc>http://localhost:33207/posts/example/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/about/</loc>
+    <loc>http://localhost:33207/about/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/members/</loc>
+    <loc>http://localhost:33207/members/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/news/</loc>
+    <loc>http://localhost:33207/news/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>https://kreate-tohoku.github.io/page/publications/</loc>
+    <loc>http://localhost:33207/publications/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url>
 </urlset>
