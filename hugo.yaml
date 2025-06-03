@@ -1,0 +1,246 @@
+baseURL: ''
+title: KREATE
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+pagination:
+  pagerSize: 6
+darkmode_js:
+  - assets/js/darkmode.js
+enableInlineShortcodes: true
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+params:
+  author: 地殻進化
+  # authorimage: ../assets/images/global/author.webp
+  # og_image: /images/tailbliss-cover.png
+  moto: 東北大学地殻進化学研究室
+  description: Key Research in Earth, Astrogeology, and Tectonic Evolution
+  disable_theme_toggle: True
+  disable_stay_uptodate: True
+
+  p1:
+    heading: "Our study"
+    image: "images/pages/topimage.jpg"
+    content:
+      - text: 私たちが住んでいる地球。その内部はどのようになっているのでしょうか？6400 kmの半径を持つ地球に対し実際に人類が掘削出来た深さはわずか10 kmでほとんど直接内部を見ることは出来ていません。しかし、私たちの生活を脅かす巨大地震はそれよりずっと深いところで起きています。 ところで、地球表層を覆う地殻の岩石は多様な姿をしています。これら地殻の岩石はプレート運動によって出来たり、火山噴火によって誕生したり成因は色々ですが、地球のダイナミックな活動の結果として生み出されたものであることは間違いありません。そして、これらを1つずつ調べ、成因や起源を解き明かせば岩石を生み出した地球のダイナミックなすがたを知ることができます。私たち地殻化学講座 (PRG)は大きなスケールで地球内部の様子と動きを捉えるため、岩石や鉱物という小さい世界に目を向けて活動しています。
+  p2:
+    heading: "Just in time for Hacktoberfest with JIT Tailwind."
+    image: "images/pages/hacktoberfest.jpg"
+    content:
+      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+  p3:
+    content_list:
+      - heading: プレート境界岩(変成岩)
+        text: プレートテクトニクスは固体地球の化学分別様式に多様性をもたらし、表層環境に複雑性を与えてきました。様々な時代のプレート境界岩（変成岩）と地殻・上部マントル構成岩が記録した情報（鉱物組成共生関係、元素・同位体組成、構造・組織）を直接解析し、プレート収束域の様々なプロセスの実像と時空間スケール、さらに地球史を通したそれら変遷を読み解くことで、固体地球の巨視的な化学進化とその表層環境への影響の総合理解を目指しています。
+        image: "images/featured/blueschist2.jpg"
+
+      - heading: 大陸地殻の進化
+        text: 惑星「地球」の大陸地殻は太古代・古原生代の古い地殻の一部を保持し、２億年より若い海洋地殻とは化学組成と形成年代に関して極めて対照的な存在です。島弧火成活動による大陸地殻形成とその改変、プレート収束域での構造浸食によるマントルへの輸送、大陸地殻の安定化とクラトンを核とした造山帯累帯成長、クラトンの「根」の実像などに関して、花崗岩、砕屑性ジルコン、下部地殻・リソスフェアマントル捕獲岩を総合的に解析しています。
+        image: "images/featured/bigsur.jpg"
+
+
+      - heading: 数理地球科学
+        text: 計算機技術の進歩と数理・情報科学の進展は固体地球科学の分野にも大きな恩恵をもたらしています。プログラミング言語を用いた統計解析法・データ駆動型解析手法の開発、スペクトル解析のためのUIソフトウェア開発・改良に積極的に挑戦し、実践の研究に応用しています。さらに、先端的な分析に耐えうる前処理システム環境整備・ハードウェア開発・改良などにも取り組んでいます。
+        image: "images/featured/mathmatics2.png"
+
+    # links:
+    #   - text: Meet our investors and advisors
+    #     url: "#"
+    logos:
+      - identifier: a
+        image: "images/global/sample-logo.svg"
+        alt: "a"
+      - identifier: b
+      - identifier: c
+      - identifier: d
+      - identifier: e
+      - identifier: f
+  p4:
+    heading: "Updates"
+    content:
+      # - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+  p5:
+    heading: "Stay Up to Date"
+    content:
+      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+    action: "#"
+    label: "Email address"
+    placeholder: "Enter your email"
+    button: "Notify me"
+
+  social_media:
+    github:
+      enabled: true
+      url: https://github.com/kreate-tohoku
+    facebook:
+      enabled: false
+      url: 'https://facebook.com/nusserstudios'
+    instagram:
+      enabled: false
+      url: 'https://instagram.com/nusserstudios'
+    twitter:
+      enabled: false
+      url: 'https://twitter.com/nusserstudios'
+
+menu:
+  main:
+    # - identifier: Prose
+    #   name: Prose
+    #   url: /prose/
+    #   weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 20
+    - identifier: members
+      name: Members
+      url: /members/
+      weight: 20
+    - identifier: publications
+      name: Publications
+      url: /publications/
+    # - identifier: Outreach
+    #   name: Outreach
+    #   url: /Outreach/
+    - identifier: posts
+      name: Posts
+      url: /posts/
+    # - identifier: categories
+    #   pre: dropdown
+    #   name: Categories
+    #   weight: 30
+    # - identifier: dropdown
+    #   pre: complexdropdown
+    #   name: Dropdown
+    #   weight: 40
+    # - identifier: contact
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 50
+  # categories:
+  #   - identifier: prose
+  #     name: Prose
+  #     url: /prose/
+  #     weight: 10
+  #   - identifier: about
+  #     name: About
+  #     url: /about/
+  #     weight: 20
+  # dropdown:
+  #   - identifier: appearance
+  #     pre: stars # can be stars, comments or piechart
+  #     name: Appearance
+  #     post: "Easy customization"
+  #     url: "#"
+  #     weight: 10
+  #   - identifier: comments
+  #     pre: comments # can be stars, comments or piechart
+  #     name: Comments
+  #     post: "Check your latest comments"
+  #     url: "#"
+  #     weight: 20
+  #   - identifier: analytics
+  #     pre: piechart # can be stars, comments or piechart
+  #     name: Analytics
+  #     post: "Take a look at your statistics"
+  #     url: "#"
+  #     weight: 30
+  footer:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    # - identifier: blog
+    #   name: Blog
+    #   url: /categories/blog/
+    #   weight: 20
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 30
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 40
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 50
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.114.0"
