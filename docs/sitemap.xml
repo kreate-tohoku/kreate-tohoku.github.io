@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://kreate-tohoku.github.io/page/categories/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/categories/blog/</loc>
+    <loc>https://kreate-tohoku.github.io/page/categories/blog/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://kreate-tohoku.github.io/page/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://kreate-tohoku.github.io/page/posts/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kreate-tohoku.github.io/page/tags/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
+    <loc>https://kreate-tohoku.github.io/page/tags/blog/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/posts/example/</loc>
+    <loc>https://kreate-tohoku.github.io/page/posts/example/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://kreate-tohoku.github.io/page/about/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/members/</loc>
+    <loc>https://kreate-tohoku.github.io/page/members/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/news/</loc>
+    <loc>https://kreate-tohoku.github.io/page/news/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url><url>
-    <loc>/publications/</loc>
+    <loc>https://kreate-tohoku.github.io/page/publications/</loc>
     <lastmod>2025-06-03T18:12:32+09:00</lastmod>
   </url>
 </urlset>
