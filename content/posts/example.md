@@ -1,10 +1,10 @@
 ---
-title: "秋の味覚"
+title: "てすとてすと"
 date: 2025-04-18T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/posts/example/acon.jpg
-summary: 秋の味覚のどんぐり。スダジイは美味。電子レンジに入れると爆発するので注意。
+summary: てすとてすとてすと
 author: Furukawa Tan
 categories: blog
 tags: blog
