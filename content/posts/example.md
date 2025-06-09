@@ -20,7 +20,7 @@ tags: blog
 
 ## Horizontal Rules
 
-***
+*******
 
 ---
 
