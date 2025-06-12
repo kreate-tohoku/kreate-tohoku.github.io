@@ -6,3 +6,10 @@ language: en
 description: news
 featured_image: ../assets/images/featured/flower.jpg
 ---
+
+Metamorphic Rocks and Beyond Symposium 2025
+2025 変成岩などシンポジウム 青葉山大会
+Jan 1, 2025 12:00 AM
+Tatsuki Tsujimori
+
+
