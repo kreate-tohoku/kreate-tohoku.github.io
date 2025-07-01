@@ -118,8 +118,41 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 滝野 なおかた（Naokata Takino）B4  
-![滝野 なおかた](../assets/images/members/takino.jpg)  
+###  滝野　直峻（Naokata Takino）B4  
+![](../assets/images/members/takino.jpg)  
 - **所属**：  
 - **専門**：  
 - **趣味**：  
+
+
+
+---
+
+###　橋本　朋弥 （tomoya hashimoto）B3             
+![](../assets/images/members/takino.jpg)             
+- **所属**：
+- **専門**：
+- **趣味**： 
+
+---
+
+###  北和田　浩人（hiroto kitawada）B3             
+![](../assets/images/members/takino.jpg)             
+- **所属**：
+- **専門**：
+- **趣味**： 
+
+---
+
+###　鈴木　那菜 （nana suzuki）B3             
+![](../assets/images/members/takino.jpg)             
+- **所属**：
+- **専門**：
+- **趣味**： 
+
+ 
+
+
+
+
+
