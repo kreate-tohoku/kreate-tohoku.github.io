@@ -18,26 +18,40 @@ Rutile solubility in sodium carbonate, sulfate, and fluoride solutions at high p
 https://doi.org/10.1186/s40645-025-00683-w
 
 
+
+
 Wu, Guoji, Huang, Yongsheng, Nakamura, Michihiko, Tsujimori, Tatsuki, Lie, Yuan (2025)
 Sequestration of carbon in the forearc mantle wedge.
 https://doi.org/10.17632/jhr3rcm8ry.1
 
+
+
+
 Wakabayashi, John, Tsujimoi, Tatsuki, Page, Zeb (2025)
 Field trip guide to Franciscan Complex: Geology of Sonoma and Marin Counties 
+
+
 
 
 Chen, Kun, Chen, Yi-Xiang, Yu, Hui-Min, Schertl, Hans-Peter, Tsujimori, Tatsuki, Skuzovatov, Sergei (2025)
 Heavy Si isotope compositions of subduction zone fluids controlled by fluid-rock interaction and fluid evolution 
 https://doi.org/10.1016/j.gsf.2025.102071
 
+
+
+
+
 Zhao, Mei-Shan, Xu, Jia-Le, Chen, Xiong, Jia-Wei, Qiao, Xin-Yue, Tsujimori, Tatsuki, Scambelluri, Marco (2025)
 Extremely heavy Ca isotope compositions of rodingites in the oceanic lithosphere formed by fluid-rock interaction: Implications for the discrimination of light Mg isotope components 
 https://doi.org/10.1016/j.chemgeo.2025.122697
 
 
+
+
 Peverelli, Veronica, Olivieri, Sébastien Olivieri, Tsujimori, Tatsuki, Giovannelli, Donato, Shi, Guang-Hai, Cannaó, Enrico, Piccoli, Francesca, Vitale Brovarone, Alberto (2025)
 Cold-subduction biogeodynamics boost deep energy delivery to the forearc 
 https://doi.org/10.1016/j.gca.2024.10.004
+
 
 ---
 # 2024

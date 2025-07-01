@@ -15,4 +15,9 @@ KR8では、地質学的なフィールド観察に加え、岩石学・鉱物�
 
 私たちは、世界中の学生、ポスドク研究者、そして共同研究者の皆さんの参加を心より歓迎します。
 
+About KREATE
+KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the Division of Geoenvironmental Science, Department of Earth Science, Graduate School of Science, Tohoku University. The name “KREATE” stands for “Key Research in Earth, Astrogeology, and Tectonic Evolution,” reflecting our dedication to fostering creativity (Create) and undertaking flexible challenges in research. The simplified abbreviation “KR8” combines “KR” and “EATE”—the latter part of “KREATE,” which is phonetically similar to “8 (eight).”
 
+In KR8, we integrate geological field observations, petrological, mineralogical, and geochemical approaches, as well as numerical simulations and laboratory experiments, to advance our understanding of diverse geological processes, not limited to Earth.
+
+We warmly invite prospective students, postdoctoral researchers, and collaborators from around the world to join us.
