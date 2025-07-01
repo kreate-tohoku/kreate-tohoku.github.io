@@ -8,7 +8,7 @@ featured_image: ../assets/images/featured/animal.jpg
 ---
 ## 教員 / Faculty Members
 
-### 辻森 樹（Itsuki Tsujimori）教授  
+### 辻森 樹（Tsujimori, Tatsuki）教授  
 ![辻森 樹](../assets/images/members/tsujimori.jpg)  
 - **所属**：  
 - **専門**：  
@@ -16,7 +16,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 高橋 奈緒子（Naoko Takahashi）助教  
+### 高橋 奈緒子（Takahashi, Naoko）助教  
 ![高橋 奈緒子](../assets/images/members/takahashi.jpg)  
 - **所属**：  
 - **専門**：  
@@ -26,7 +26,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ## 博士課程 / Doctoral Course
 
-### 古川 旦（Asa Furukawa）D2  
+### 古川 旦（Furukawa, Tan）D2  
 ![古川 旦](../assets/images/members/furukawa.jpg)  
 - **所属**：  
 - **専門**：  
@@ -34,7 +34,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### BOLD Munkhdelger（ボルド ムンフデルゲル）D2  
+### ボルド ムンフデルゲル（Bold, Munkhdelger）D2  
 ![BOLD Munkhdelger](../assets/images/members/bold.jpg)  
 - **所属**：  
 - **専門**：  
@@ -42,7 +42,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 志関 弘平（Kohei Shizeki）D2  
+### 志関 弘平（Shizeki, Kohei）D2  
 ![志関 弘平](../assets/images/members/shizeki.jpg)  
 - **所属**：  
 - **専門**：  
@@ -50,7 +50,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### Chen Kun（D3）  
+### 陈 坤 (Chen, Kun)（特別研究生）  
 ![Chen Kun](../assets/images/members/chen.jpg)  
 - **所属**：  
 - **専門**：  
@@ -60,7 +60,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ## 修士課程 / Master’s Course
 
-### 杉浦 慶（Kei Sugiura）M2  
+### 杉浦 慶（Sugiura, Kei）M2  
 ![杉浦 慶](../assets/images/members/sugiura.jpg)  
 - **所属**：  
 - **専門**：  
@@ -68,7 +68,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 相馬 耕助（Kosuke Soma）M2  
+### 相馬 耕助（Soma, Kosuke）M2  
 ![相馬 耕助](../assets/images/members/soma.jpg)  
 - **所属**：  
 - **専門**：  
@@ -76,7 +76,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 梅宮 穂花（Honoka Umemiya）M2  
+### 梅宮 穂花（Umemiya, Honoka）M2  
 ![梅宮 穂花](../assets/images/members/umemiya.jpg)  
 - **所属**：  
 - **専門**：  
@@ -84,7 +84,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 田村 航遥（Koyo Tamura）M1  
+### 田村 航遥（Tamura, Yoko）M1  
 ![田村 航遥](../assets/images/members/tamura.jpg)  
 - **所属**：  
 - **専門**：  
@@ -92,7 +92,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### Floura（M1）  
+### ミンディ フローラ (Mhindi, Flora)（M1）  
 ![Floura](../assets/images/members/floura.jpg)  
 - **所属**：  
 - **専門**：  
@@ -102,7 +102,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ## 学部生 / Undergraduate
 
-### 河野 晴大（Haruto Kono）B4  
+### 河野 晴大（Kono, Haruto）B4  
 ![河野 晴大](../assets/images/members/kono.jpg)  
 - **所属**：  
 - **専門**：  
@@ -110,7 +110,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-### 帆足 碧夏（Honoka Hoashi）B4  
+### 帆足 碧夏（Hoashi, Aoka）B4  
 ![帆足 碧夏](../assets/images/members/hoashi.jpg)  
 - **所属**：  
 - **専門**：  
@@ -118,7 +118,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-###  滝野　直峻（Naokata Takino）B4  
+###  滝野　直峻（Takino, Naokata）B4  
 ![](../assets/images/members/takino.jpg)  
 - **所属**：  
 - **専門**：  
@@ -128,7 +128,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-###　橋本　朋弥 （tomoya hashimoto）B3             
+###　橋本　朋弥 （Hashimoto, Tomoya）B3             
 ![](../assets/images/members/takino.jpg)             
 - **所属**：
 - **専門**：
@@ -136,7 +136,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-###  北和田　浩人（hiroto kitawada）B3             
+###  北和田　浩人（Kitawada, Hiroto）B3             
 ![](../assets/images/members/takino.jpg)             
 - **所属**：
 - **専門**：
@@ -144,7 +144,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ---
 
-###　鈴木　那菜 （nana suzuki）B3             
+###　鈴木　那菜 （Suzuki, Nana）B3             
 ![](../assets/images/members/takino.jpg)             
 - **所属**：
 - **専門**：
