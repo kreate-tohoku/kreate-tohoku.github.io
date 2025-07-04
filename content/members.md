@@ -6,140 +6,215 @@ language: en
 description: Tailwind Typography @tailwindcss/typography & Prose
 featured_image: ../assets/images/featured/animal.jpg
 ---
+<!-- Markdown の上部などで <style> を書ける環境なら -->
+<style>
+.img-left {
+  float: left;
+  width: 120px;          /* 写真サイズ */
+  margin: 0 1rem 1rem 0; /* 右と下に余白 */
+}
+.photo-box{
+  /* ↓ これだけで内部の float が div の外へはみ出さない */
+  overflow: hidden;        /* 親に BFC を作らせる */
+  margin-bottom: 1rem;     /* ブロック間の余白 */
+}
+
+.thumb{
+  float: left;
+  width: 120px;
+  margin: 0 1rem 1rem 0;   /* 右と下に余白 */
+}
+.boldsymbol {
+   font-weight:bold 
+}
+
+</style>
+
 ## 教員 / Faculty members
 
-### 辻森 樹 (Tsujimori, Tatsuki) | 教授
-<!-- static/images/KR8_logo.svg -->
 
-<!-- パターン 1: align 属性 -->
-<img src="/images/KR8_logo.svg" align="left" width="200">
-<p>
+
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class = boldsymbol>辻森 樹 (Tsujimori Tatsuki) | 教授</span>
+
 専門:
-<br>
 趣味:
-</p>
+<br>
+ORCID:
+</div>
 
----
 
-### 高橋 奈緒子 (Takahashi, Naoko) | 助教
-![高橋 奈緒子](../assets/images/members/takahashi.jpg)  
-- **専門**： 
-- **趣味**：  
 
----
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class = boldsymbol>高橋 奈緒子 (Takahashi Naoko) | 助教 </span>
+
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+
 
 ## 博士課程 / Doctoral student 
 
-### 古川 旦 (Furukawa, Tan) | D2  
-![古川 旦](../assets/images/members/furukawa.jpg)  
-- **専門**：  
-- **趣味**：  
 
----
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>古川 旦 (Furukawa Tan) | D2 </span>
 
-### ボルド ムンフデルゲル (Bold, Munkhdelger) | D2  
-![BOLD Munkhdelger](../assets/images/members/bold.jpg)  
-- **専門**：  
-- **趣味**：  
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
----
 
-### 志関 弘平 (Shizeki, Kohei) |  D2  
-![志関 弘平](../assets/images/members/shizeki.jpg)  
-- **専門**：  
-- **趣味**：  
 
----
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>ボルド ムンフデルゲル (Bold, Munkhdelger) | D2</span>
 
-### 陈 坤 (Chen, Kun) | 特別研究生 
-![Chen Kun](../assets/images/members/chen.jpg)  
-- **専門**：  
-- **趣味**：  
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
----
+
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>志関 弘平 (Shizeki, Kohei) |  D2</span>
+
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+
+
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>陈 坤 (Chen, Kun) | 特別研究生</span>
+
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+
 
 ## 修士課程 / Master's student 
 
-### 杉浦 慶 (Sugiura, Kei) | M2 
-![杉浦 慶](../assets/images/members/sugiura.jpg)  
-- **専門**：  
-- **趣味**：  
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>杉浦 慶 (Sugiura, Kei) | M2</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>相馬 耕助 (Soma, Kosuke) | M2</span>
 
-### 相馬 耕助 (Soma, Kosuke) | M2  
-![相馬 耕助](../assets/images/members/soma.jpg)  
-- **専門**：  
-- **趣味**：  
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>梅宮 穂花 (Umemiya, Honoka) | M2</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>田村 航遥 (Tamura, Yoko) | M1</span>
 
-### 梅宮 穂花 (Umemiya, Honoka) | M2  
-![梅宮 穂花](../assets/images/members/umemiya.jpg)  
-- **専門**：  
-- **趣味**：  
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
----
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>ミンディ フローラ (Mhindi, Flora) | M1</span>
 
-### 田村 航遥 (Tamura, Yoko) | M1  
-![田村 航遥](../assets/images/members/tamura.jpg)  
-- **専門**：  
-- **趣味**：  
-
----
-
-### ミンディ フローラ (Mhindi, Flora) | M1  
-![Floura](../assets/images/members/floura.jpg)  
-- **専門**：  
-- **趣味**：  
-
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
 ## 学部生 / Undergraduate student
 
-### 河野 晴大 (Kono, Haruto) | B4  
-![河野 晴大](../assets/images/members/kono.jpg)  
-- **専門**：  
-- **趣味**：  
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>河野 晴大 (Kono, Haruto) | B4</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
-### 帆足 碧夏 (Hoashi, Aoka) | B4  
-![帆足 碧夏](../assets/images/members/hoashi.jpg)  
-- **専門**：  
-- **趣味**：  
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>帆足 碧夏 (Hoashi, Aoka) | B4</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
-###  滝野　直峻 (Takino, Naokata) | B4  
-![](../assets/images/members/takino.jpg)  
-- **専門**：  
-- **趣味**：  
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>滝野　直峻 (Takino, Naokata) | B4</span>
 
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya) | B3</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
-### 橋本　朋弥 (Hashimoto, Tomoya) | B3             
-![](../assets/images/members/takino.jpg)             
-- **専門**：
-- **趣味**： 
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto) | B3</span>
 
----
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
-###  北和田　浩人 (Kitawada, Hiroto) | B3             
-![](../assets/images/members/takino.jpg)             
-- **専門**：
-- **趣味**： 
+<div class="photo-box">
+<img src="/images/acon.jpg" class="thumb">
+<span class=boldsymbol>鈴木　那菜 (Suzuki, Nana) | B3</span>
 
----
-
-### 鈴木　那菜 (Suzuki, Nana) | B3             
-![](../assets/images/members/takino.jpg)             
-- **専門**：
-- **趣味**： 
-
- 
+専門:
+趣味:
+<br>
+ORCID:
+</div>
 
 
 
