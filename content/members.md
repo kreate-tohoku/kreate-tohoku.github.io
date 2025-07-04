@@ -4,7 +4,7 @@ date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en
 description: Tailwind Typography @tailwindcss/typography & Prose
-featured_image: ../assets/images/featured/animal.jpg
+featured_image: ../assets/images/featured/bird.JPG
 ---
 <!-- Markdown の上部などで <style> を書ける環境なら -->
 <style>
@@ -61,13 +61,14 @@ ORCID:
 
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/TanFurukawa.jpg" class="thumb">
 <span class=boldsymbol>古川 旦 (Furukawa Tan) | D2 </span>
-
-専門:
-趣味:
 <br>
-ORCID:
+<small>高等大学院国際卓越研究者育成支援プログラム（AGS RISE Program）</small>
+
+**研究内容**: 岩石組織の数理　**趣味**: 砂金・化石・野草・きのこ・園芸・鳥
+<br>
+**ORCID**: https://orcid.org/0000-0002-8512-6985
 </div>
 
 

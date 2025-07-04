@@ -144,48 +144,6 @@
     {{ end }}
 
 
-    <!-- Sponsors section -->
-    <!-- <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div>
-                {{ range .Site.Params.P3.Content_list }}
-
-                <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                    {{ .heading }}
-                </h2>
-                <p class="max-w-3xl mt-6 text-lg leading-7 text-gray-900 dark:text-white">
-                    {{ .text }}
-                </p>
-                <br>
-                <br>
-                {{ range .Site.Params.P3.Links }}
-                <div class="my-6">
-                    <a href="{{ .url }}" class="text-base font-medium text-primary-400 dark:text-primary-100">
-                        {{ .text }}&nbsp&rarr;
-                    </a>
-                </div>
-                {{ end }}
-                {{ end }}
-            </div>
-        </div>
-    </div> -->
-
-    <!-- <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
-                {{ range .Site.Params.P3.Logos }}
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    {{ if .image }}
-                    {{ $sponsor := resources.Get .image }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}"
-                        loading="lazy" />
-                    {{ else }}
-                    {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}"
-                        loading="lazy" />
-                    {{ end }}
-                </div>
-                {{ end }}
-            </div> -->
-
     <!-- Blog section -->
     <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
         <div class="absolute inset-0">
@@ -208,6 +166,15 @@
                     <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
                         {{ range (.Paginator 3).Pages }}
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+
+
+
+
+
+
+
+
+                            {{ if .Params.Featured_image}}
                             <a href="{{.Permalink}}">
                                 {{ with .Params.featured_image }}
                                 {{ with resources.Get . }}
@@ -218,6 +185,17 @@
                                 {{ end }}
                                 {{ end }}
                             </a>
+                            {{ else }}
+                            <a href="{{.Permalink}}">
+                                <img src="images/others/acon.jpg" class="object-fill overflow-hidden rounded-t-lg" width="100%"
+                                    height="" />
+                            </a>
+                            {{ end }}
+
+
+
+
+
                             <div class="p-6">
                                 <div class="flex-1">
                                     <a href="{{.Permalink}}"
@@ -228,15 +206,7 @@
                                         {{ .Params.summary }}
                                     </p>
                                 </div>
-                                <!-- <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
-                                    {{- if gt $elem_index 0 }}, {{ end -}}
-                                    <a href="{{ .Permalink }}"
-                                        class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 ">{{
-                                        .LinkTitle }}</a>
-                                    {{- end -}}
-                                </div> -->
+
                                 <div class="flex items-center mt-6">
                                     <div class="flex-shrink-0">
                                         <span class="sr-only">{{ .Params.author }}</span>
@@ -254,8 +224,8 @@
                                         <div class="flex space-x-1 text-sm text-gray-500 dark:text-white">
                                             <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{
                                                 .Date.Format "2006-01-02" }}</time>
-                                            <span aria-hidden="true">&middot;</span>
-                                            <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span>
+                                            <!-- <span aria-hidden="true">&middot;</span>
+                                            <span>{{ math.Round (div (countwords .Content) 220.0) }} min read</span> -->
                                         </div>
                                     </div>
                                 </div>
