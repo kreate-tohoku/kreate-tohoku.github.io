@@ -8,18 +8,22 @@ featured_image: ../assets/images/featured/animal.jpg
 ---
 ## 教員 / Faculty members
 
-### 辻森 樹 (Tsujimori, Tatsuki) | 教授  
-![辻森 樹](../assets/images/members/tsujimori.jpg)  
-- **所属**：  
-- **専門**：  
-- **趣味**：  
+### 辻森 樹 (Tsujimori, Tatsuki) | 教授
+<!-- static/images/KR8_logo.svg -->
+
+<!-- パターン 1: align 属性 -->
+<img src="/images/KR8_logo.svg" align="left" width="200">
+<p>
+専門:
+<br>
+趣味:
+</p>
 
 ---
 
-### 高橋 奈緒子 (Takahashi, Naoko) | 助教  
+### 高橋 奈緒子 (Takahashi, Naoko) | 助教
 ![高橋 奈緒子](../assets/images/members/takahashi.jpg)  
-- **所属**：  
-- **専門**：  
+- **専門**： 
 - **趣味**：  
 
 ---
@@ -28,7 +32,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 古川 旦 (Furukawa, Tan) | D2  
 ![古川 旦](../assets/images/members/furukawa.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -36,7 +39,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### ボルド ムンフデルゲル (Bold, Munkhdelger) | D2  
 ![BOLD Munkhdelger](../assets/images/members/bold.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -44,7 +46,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 志関 弘平 (Shizeki, Kohei) |  D2  
 ![志関 弘平](../assets/images/members/shizeki.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -52,7 +53,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 陈 坤 (Chen, Kun) | 特別研究生 
 ![Chen Kun](../assets/images/members/chen.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -62,7 +62,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 杉浦 慶 (Sugiura, Kei) | M2 
 ![杉浦 慶](../assets/images/members/sugiura.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -70,7 +69,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 相馬 耕助 (Soma, Kosuke) | M2  
 ![相馬 耕助](../assets/images/members/soma.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -78,7 +76,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 梅宮 穂花 (Umemiya, Honoka) | M2  
 ![梅宮 穂花](../assets/images/members/umemiya.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -86,7 +83,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 田村 航遥 (Tamura, Yoko) | M1  
 ![田村 航遥](../assets/images/members/tamura.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -94,7 +90,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### ミンディ フローラ (Mhindi, Flora) | M1  
 ![Floura](../assets/images/members/floura.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -104,7 +99,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 河野 晴大 (Kono, Haruto) | B4  
 ![河野 晴大](../assets/images/members/kono.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -112,7 +106,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 帆足 碧夏 (Hoashi, Aoka) | B4  
 ![帆足 碧夏](../assets/images/members/hoashi.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -120,7 +113,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ###  滝野　直峻 (Takino, Naokata) | B4  
 ![](../assets/images/members/takino.jpg)  
-- **所属**：  
 - **専門**：  
 - **趣味**：  
 
@@ -130,7 +122,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 橋本　朋弥 (Hashimoto, Tomoya) | B3             
 ![](../assets/images/members/takino.jpg)             
-- **所属**：
 - **専門**：
 - **趣味**： 
 
@@ -138,7 +129,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ###  北和田　浩人 (Kitawada, Hiroto) | B3             
 ![](../assets/images/members/takino.jpg)             
-- **所属**：
 - **専門**：
 - **趣味**： 
 
@@ -146,7 +136,6 @@ featured_image: ../assets/images/featured/animal.jpg
 
 ### 鈴木　那菜 (Suzuki, Nana) | B3             
 ![](../assets/images/members/takino.jpg)             
-- **所属**：
 - **専門**：
 - **趣味**： 
 
