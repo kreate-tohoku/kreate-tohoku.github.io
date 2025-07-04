@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on KREATE</title><link>https://kreate-tohoku.github.io/categories/</link><description>Recent content in Categories on KREATE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 10:37:50 +0900</lastBuildDate><atom:link href="https://kreate-tohoku.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Categories/Blog</title><link>https://kreate-tohoku.github.io/categories/blog/</link><pubDate>Fri, 18 Apr 2025 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/categories/blog/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on KREATE</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on KREATE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jul 2025 10:37:50 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories/Blog</title>
+      <link>http://localhost:1313/categories/blog/</link>
+      <pubDate>Fri, 18 Apr 2025 11:10:36 +0800</pubDate>
+      <guid>http://localhost:1313/categories/blog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

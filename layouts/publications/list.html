@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+<style>
+  .publication-link {
+    font-size: 0.9em;
+    border: 1px solid #9cc0f5;
+    /* Bootstrap primary */
+    border-radius: 0.5rem;
+    /* お好みの角丸 */
+    color: #9cc0f5;
+    /* テキスト色も primary */
+    padding: 0.2rem 0.4rem;
+    text-decoration: none;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .publication-link:hover {
+    background-color: #055de2;
+    color: #fff;
+  }
+</style>
+
+<div class="relative w-full">
+
+  {{ $featured_image := resources.GetMatch "images/featured/microscope.jpg" }}
+  {{ $large := ($featured_image.Fill "1500x300 webp q90").RelPermalink }}
+
+  <img src="{{ $large }}" alt="{{ .Title }}" class="w-full h-[60vh] object-cover" />
+
+
+  {{/* テキストオーバーレイ */}}
+  <div class="absolute inset-0 flex flex-col items-center justify-center text-center space-y-4">
+    <h1
+      class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
+      {{ .Title }}
+    </h1>
+  </div>
+
+
+</div>
+<main class="max-w-3xl mx-auto py-12 dark:text-white">
+  <section>
+    <ul class="space-y-4">
+      {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <article class="flex flex-col md:flex-row md:items-center md:justify-between">
+          <div>
+            <p class="text-gray-400">
+              {{ with .Params.authors }}
+              {{ delimit . ", " }}
+              {{ end }}
+              <span class="dark:text-gray-500">({{ .Date.Format "2006" }}) </span>
+            </p>
+            <a href="{{ .RelPermalink }}" class="text-xl font-semibold dark:text-blue-600 hover:underline">
+              {{ .Title }}
+            </a>
+
+            {{ with .Params.doi }}
+            <div class="mt-1 d-flex">
+              <a href="https://doi.org/{{ . }}" class="publication-link" target="_blank" rel="noopener">
+                DOI
+              </a>
+            </div>
+            {{ end }}
+          </div>
+        </article>
+        <br>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</main>
+{{ end }}

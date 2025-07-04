@@ -1,0 +1,51 @@
+{{ define "main" }}
+<main class="max-w-2xl mx-auto py-12 prose dark:prose-invert dark:text-white">
+  <article>
+    <header class="mb-8">
+      <h1 class="text-4xl font-bold mb-2">{{ .Title }}</h1>
+      <p class="text-sm text-gray-500 mb-4">
+        {{ with .Date }}{{ .Format "2006-01-02" }}{{ end }}
+        {{ with .Params.authors }} | By {{ delimit . ", " }}{{ end }}
+      </p>
+
+      {{ with .Params.doi }}
+      <p class="mb-4">
+        DOI: <a href="https://doi.org/{{ . }}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">{{ . }}</a>
+      </p>
+      {{ end }}
+
+      {{ with .Params.publication }}
+      <p class="italic mb-6">{{ . | safeHTML }}</p>
+      {{ end }}
+    </header>
+
+    {{ with .Params.abstract }}
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">Abstract</h2>
+      <div>{{ . }}</div>
+    </section>
+    {{ end }}
+
+    <section class="mb-8">
+      {{ .Content }}
+    </section>
+
+    {{ with .Params.links }}
+    <section class="mb-8">
+      <h2 class="text-2xl font-semibold mb-2">Links</h2>
+      <ul class="list-disc list-inside">
+        {{ range . }}
+        <li>
+          <a href="{{ .url }}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">{{ .name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+    {{ end }}
+
+    <p>
+      <a href="/publications/" class="text-blue-600 hover:underline">&larr; Back to Publications</a>
+    </p>
+  </article>
+</main>
+{{ end }}

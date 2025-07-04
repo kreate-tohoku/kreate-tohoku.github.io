@@ -35,7 +35,7 @@ featured_image: ../assets/images/featured/animal.jpg
 
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/TatsukiTsujimori.jpg" class="thumb">
 <span class = boldsymbol>辻森 樹 (Tsujimori Tatsuki) | 教授</span>
 
 専門:
@@ -57,7 +57,7 @@ ORCID:
 </div>
 
 
-## 博士課程 / Doctoral student 
+## 博士課程 / Doctoral student
 
 
 <div class="photo-box">
