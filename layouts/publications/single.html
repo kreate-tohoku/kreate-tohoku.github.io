@@ -1,5 +1,6 @@
+
 {{ define "main" }}
-<main class="max-w-2xl mx-auto py-12 prose dark:prose-invert dark:text-white">
+<main class="max-w-3xl mx-auto py-12 prose dark:prose-invert dark:text-white">
   <article>
     <header class="mb-8">
       <h1 class="text-4xl font-bold mb-2">{{ .Title }}</h1>
@@ -15,7 +16,9 @@
       {{ end }}
 
       {{ with .Params.publication }}
-      <p class="italic mb-6">{{ . | safeHTML }}</p>
+      <p class="mb-6">
+        {{ replaceRE `\*(.*?)\*` `<em>$1</em>` . | safeHTML }}
+      </p>
       {{ end }}
     </header>
 
