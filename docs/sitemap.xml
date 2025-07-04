@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://kreate-tohoku.github.io/categories/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/categories/blog/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/</loc><lastmod>2025-07-02T08:14:02+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/posts/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/tags/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/tags/blog/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/posts/test/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/about/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/members/</loc><lastmod>2025-07-02T08:14:02+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/news/</loc><lastmod>2025-06-12T14:06:16+09:00</lastmod></url><url><loc>https://kreate-tohoku.github.io/publications/</loc><lastmod>2025-07-01T12:53:08+09:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/blog/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2025-07-02T10:37:50+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-07-01T12:53:08+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/members/</loc>
+    <lastmod>2025-07-02T08:14:02+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2025-06-12T14:06:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2025-07-01T12:53:08+09:00</lastmod>
+  </url>
+</urlset>
