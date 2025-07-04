@@ -9,6 +9,32 @@
     ```
     npm install
     ```
+## 画像をいれたいとき
+
+ヘッダー画像は、`assets/images/`に入れましょう。とくに、postsを更新した場合は、 `assets/images/posts/`にいれましょう。**画像は勝手にリサイズされるので、サイズ調節は必要ありません。**
+
+
+
+```markdown
+<!-- 例 -->
+
+---
+date: 2021-12-18T11:10:36+08:00
+draft: false
+description: わわわわに関する記事
+featured_image: ../assets/images/posts/wawawawa.jpg
+
+---
+```
+
+
+記事の中に使用する画像は、`static/images/`に入れましょう。とくに、postsを更新した場合は、 `static/images/posts/`にいれましょう。**画像はそのままのサイズで入るので、リサイズしてから入れましょう**
+
+```markdown
+<!-- 例 -->
+![](/images/posts/acon.jpg)
+```
+
 
 ## HPを更新するときのワークフロー
 - 直接編集するのは、/content, /assets, hugo.yamlのどれかです。github上にある/docsの内容が自動的にHPになります。

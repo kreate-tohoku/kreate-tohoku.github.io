@@ -11,8 +11,6 @@
 
   <div class="relative w-full">
 
-    {{ $hero := resources.GetMatch "images/pages/tjm_jade.jpg" }}
-    {{ $large := ($hero.Fill "2000x300 webp q90") }}
     {{ $title := .Site.Title }}
 
     {{ with .Params.featured_image }}
