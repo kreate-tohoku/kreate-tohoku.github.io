@@ -1,62 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KREATE</title><link>https://kreate-tohoku.github.io/</link><description>Recent content on KREATE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 08:14:02 +0900</lastBuildDate><atom:link href="https://kreate-tohoku.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>てすとてすと</title><link>https://kreate-tohoku.github.io/posts/test/</link><pubDate>Fri, 18 Apr 2025 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/posts/test/</guid><description>vim を使いましょう</description></item><item><title>About</title><link>https://kreate-tohoku.github.io/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/about/</guid><description>&lt;p>KR8の紹介&lt;/p>
-&lt;p>KREATE（KR8）は、2024年12月1日に東北大学大学院理学研究科 地球科学専攻 地圏環境科学講座に新たに設立された研究グループです。KREATEという名称は、「Key Research in Earth, Astrogeology, and Tectonic Evolution（地球・宇宙地質学・テクトニクス進化に関する重要研究）」の頭文字を取ったもので、「創造（Create）」を重視し、柔軟な発想で研究に挑む姿勢を表しています。略称の「KR8」は、“KR”と、“KREATE”の後半部分“EATE”を組み合わせたもので、“EATE”の発音が数字の“8（エイト）”に似ていることに由来します。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KREATE</title><link>https://kreate-tohoku.github.io/</link><description>Recent content on KREATE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 02 Jul 2025 10:37:50 +0900</lastBuildDate><atom:link href="https://kreate-tohoku.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>てすとてすと</title><link>https://kreate-tohoku.github.io/posts/test/</link><pubDate>Fri, 18 Apr 2025 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/posts/test/</guid><description>vim を使いましょう</description></item><item><title>About</title><link>https://kreate-tohoku.github.io/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/about/</guid><description>&lt;p>KREATE（KR8）は、2024年12月1日に東北大学大学院理学研究科 地球科学専攻 地圏環境科学講座に新たに設立された研究グループです。KREATEという名称は、「Key Research in Earth, Astrogeology, and Tectonic Evolution（地球・宇宙地質学・テクトニクス進化に関する重要研究）」の頭文字を取ったもので、「創造（Create）」を重視し、柔軟な発想で研究に挑む姿勢を表しています。略称の「KR8」は、“KR”と、“KREATE”の後半部分“EATE”を組み合わせたもので、“EATE”の発音が数字の“8（エイト）”に似ていることに由来します。&lt;/p>
 &lt;p>KR8では、地質学的なフィールド観察に加え、岩石学・鉱物学・地球化学的手法、数値シミュレーションや実験的アプローチを融合させて、地球に限らず多様な地質プロセスの理解を深めることを目指しています。&lt;/p>
 &lt;p>私たちは、世界中の学生、ポスドク研究者、そして共同研究者の皆さんの参加を心より歓迎します。&lt;/p>
 &lt;p>About KREATE
-KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the Division of Geoenvironmental Science, Department of Earth Science, Graduate School of Science, Tohoku University. The name “KREATE” stands for “Key Research in Earth, Astrogeology, and Tectonic Evolution,” reflecting our dedication to fostering creativity (Create) and undertaking flexible challenges in research. The simplified abbreviation “KR8” combines “KR” and “EATE”—the latter part of “KREATE,” which is phonetically similar to “8 (eight).”&lt;/p></description></item><item><title>Members</title><link>https://kreate-tohoku.github.io/members/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/members/</guid><description>&lt;h2 id="教員--faculty-members">教員 / Faculty members&lt;/h2>
-&lt;h3 id="辻森-樹-tsujimori-tatsuki--教授">辻森 樹 (Tsujimori, Tatsuki) | 教授&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/tsujimori.jpg" alt="辻森 樹">&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>所属&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>専門&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>趣味&lt;/strong>：&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="高橋-奈緒子-takahashi-naoko--助教">高橋 奈緒子 (Takahashi, Naoko) | 助教&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/takahashi.jpg" alt="高橋 奈緒子">&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>所属&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>専門&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>趣味&lt;/strong>：&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="博士課程--doctoral-student">博士課程 / Doctoral student&lt;/h2>
-&lt;h3 id="古川-旦-furukawa-tan--d2">古川 旦 (Furukawa, Tan) | D2&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/furukawa.jpg" alt="古川 旦">&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>所属&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>専門&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>趣味&lt;/strong>：&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="ボルド-ムンフデルゲル-bold-munkhdelger--d2">ボルド ムンフデルゲル (Bold, Munkhdelger) | D2&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/bold.jpg" alt="BOLD Munkhdelger">&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>所属&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>専門&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>趣味&lt;/strong>：&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="志関-弘平-shizeki-kohei---d2">志関 弘平 (Shizeki, Kohei) | D2&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/shizeki.jpg" alt="志関 弘平">&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>所属&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>専門&lt;/strong>：&lt;/li>
-&lt;li>&lt;strong>趣味&lt;/strong>：&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="陈-坤-chen-kun--特別研究生">陈 坤 (Chen, Kun) | 特別研究生&lt;/h3>
-&lt;p>&lt;img src="../assets/images/members/chen.jpg" alt="Chen Kun">&lt;/p></description></item><item><title>News</title><link>https://kreate-tohoku.github.io/news/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/news/</guid><description>&lt;p>Metamorphic Rocks and Beyond Symposium 2025
+KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the Division of Geoenvironmental Science, Department of Earth Science, Graduate School of Science, Tohoku University. The name “KREATE” stands for “Key Research in Earth, Astrogeology, and Tectonic Evolution,” reflecting our dedication to fostering creativity (Create) and undertaking flexible challenges in research. The simplified abbreviation “KR8” combines “KR” and “EATE”—the latter part of “KREATE,” which is phonetically similar to “8 (eight).”&lt;/p></description></item><item><title>Members</title><link>https://kreate-tohoku.github.io/members/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/members/</guid><description>&lt;!-- Markdown の上部などで &lt;style> を書ける環境なら -->
+&lt;style>
+.img-left {
+ float: left;
+ width: 120px; /* 写真サイズ */
+ margin: 0 1rem 1rem 0; /* 右と下に余白 */
+}
+.photo-box{
+ /* ↓ これだけで内部の float が div の外へはみ出さない */
+ overflow: hidden; /* 親に BFC を作らせる */
+ margin-bottom: 1rem; /* ブロック間の余白 */
+}
+
+.thumb{
+ float: left;
+ width: 120px;
+ margin: 0 1rem 1rem 0; /* 右と下に余白 */
+}
+.boldsymbol {
+ font-weight:bold 
+}
+
+&lt;/style>
+&lt;h2 id="教員--faculty-members">教員 / Faculty members&lt;/h2>
+&lt;div class="photo-box">
+&lt;img src="https://kreate-tohoku.github.io/images/acon.jpg" class="thumb">
+&lt;span class = boldsymbol>辻森 樹 (Tsujimori Tatsuki) | 教授&lt;/span>
+&lt;p>専門:
+趣味:
+&lt;br>
+ORCID:&lt;/p></description></item><item><title>News</title><link>https://kreate-tohoku.github.io/news/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/news/</guid><description>&lt;p>Metamorphic Rocks and Beyond Symposium 2025
 2025 変成岩などシンポジウム 青葉山大会
 Jan 1, 2025 12:00 AM
 Tatsuki Tsujimori&lt;/p></description></item><item><title>Publications</title><link>https://kreate-tohoku.github.io/publications/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/publications/</guid><description>&lt;hr>
 &lt;h1 id="2025">2025&lt;/h1>
-&lt;h3 id="takahashi-n-tsujimori-t-kamada-s--nakamura-m-2025">&lt;strong>Takahashi, N.&lt;/strong>, &lt;strong>Tsujimori, T.&lt;/strong>, Kamada, S., &amp;amp; Nakamura, M. (2025)&lt;/h3>
-&lt;p>Rutile solubility in sodium carbonate, sulfate, and fluoride solutions at high pressures and high temperatures: In-situ observation using a diamond anvil cell.&lt;/p>
-&lt;p>&lt;em>Progress in Earth and Planetary Science&lt;/em>, 12, in press.&lt;/p>
-&lt;p>&lt;a href="https://doi.org/10.1186/s40645-025-00683-w">https://doi.org/10.1186/s40645-025-00683-w&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Takahashi, N., Tsujimori, T., Kamada, S., &amp;amp; Nakamura, M. (2025). Rutile solubility in aqueous sodium salt solutions at high pressures and temperatures: in-situ observations using a diamond anvil cell. &lt;em>Progress in Earth and Planetary Science&lt;/em>, 12(1), 26. &lt;a href="https://doi.org/10.1186/s40645-025-00683-w">https://doi.org/10.1186/s40645-025-00683-w&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>Wu, Guoji, Huang, Yongsheng, Nakamura, Michihiko, Tsujimori, Tatsuki, Lie, Yuan (2025)
-Sequestration of carbon in the forearc mantle wedge.
-&lt;a href="https://doi.org/10.17632/jhr3rcm8ry.1">https://doi.org/10.17632/jhr3rcm8ry.1&lt;/a>&lt;/p>
+Sequestration of carbon in the forearc mantle wedge. &lt;a href="https://doi.org/10.17632/jhr3rcm8ry.1">https://doi.org/10.17632/jhr3rcm8ry.1&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>Wakabayashi, John, Tsujimoi, Tatsuki, Page, Zeb (2025)
 Field trip guide to Franciscan Complex: Geology of Sonoma and Marin Counties&lt;/p></description></item></channel></rss>

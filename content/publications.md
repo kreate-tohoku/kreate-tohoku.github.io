@@ -10,47 +10,22 @@ featured_image: ../assets/images/featured/microscope.jpg
 ___
 # 2025
 
-### **Takahashi, N.**, **Tsujimori, T.**, Kamada, S., & Nakamura, M. (2025)
-Rutile solubility in sodium carbonate, sulfate, and fluoride solutions at high pressures and high temperatures: In-situ observation using a diamond anvil cell.
+- Takahashi, N., Tsujimori, T., Kamada, S., & Nakamura, M. (2025). Rutile solubility in aqueous sodium salt solutions at high pressures and temperatures: in-situ observations using a diamond anvil cell. *Progress in Earth and Planetary Science*, 12(1), 26. https://doi.org/10.1186/s40645-025-00683-w
 
-*Progress in Earth and Planetary Science*, 12, in press.
-
-https://doi.org/10.1186/s40645-025-00683-w
+- Wu, Guoji, Huang, Yongsheng, Nakamura, Michihiko, Tsujimori, Tatsuki, Lie, Yuan (2025)
+Sequestration of carbon in the forearc mantle wedge. https://doi.org/10.17632/jhr3rcm8ry.1
 
 
+- Wakabayashi, John, Tsujimoi, Tatsuki, Page, Zeb (2025)
+Field trip guide to Franciscan Complex: Geology of Sonoma and Marin Counties
+
+- Chen, Kun, Chen, Yi-Xiang, Yu, Hui-Min, Schertl, Hans-Peter, Tsujimori, Tatsuki, Skuzovatov, Sergei (2025) Heavy Si isotope compositions of subduction zone fluids controlled by fluid-rock interaction and fluid evolution https://doi.org/10.1016/j.gsf.2025.102071
 
 
-Wu, Guoji, Huang, Yongsheng, Nakamura, Michihiko, Tsujimori, Tatsuki, Lie, Yuan (2025)
-Sequestration of carbon in the forearc mantle wedge.
-https://doi.org/10.17632/jhr3rcm8ry.1
+- Zhao, Mei-Shan, Xu, Jia-Le, Chen, Xiong, Jia-Wei, Qiao, Xin-Yue, Tsujimori, Tatsuki, Scambelluri, Marco (2025)
+Extremely heavy Ca isotope compositions of rodingites in the oceanic lithosphere formed by fluid-rock interaction: Implications for the discrimination of light Mg isotope components https://doi.org/10.1016/j.chemgeo.2025.122697
 
-
-
-
-Wakabayashi, John, Tsujimoi, Tatsuki, Page, Zeb (2025)
-Field trip guide to Franciscan Complex: Geology of Sonoma and Marin Counties 
-
-
-
-
-Chen, Kun, Chen, Yi-Xiang, Yu, Hui-Min, Schertl, Hans-Peter, Tsujimori, Tatsuki, Skuzovatov, Sergei (2025)
-Heavy Si isotope compositions of subduction zone fluids controlled by fluid-rock interaction and fluid evolution 
-https://doi.org/10.1016/j.gsf.2025.102071
-
-
-
-
-
-Zhao, Mei-Shan, Xu, Jia-Le, Chen, Xiong, Jia-Wei, Qiao, Xin-Yue, Tsujimori, Tatsuki, Scambelluri, Marco (2025)
-Extremely heavy Ca isotope compositions of rodingites in the oceanic lithosphere formed by fluid-rock interaction: Implications for the discrimination of light Mg isotope components 
-https://doi.org/10.1016/j.chemgeo.2025.122697
-
-
-
-
-Peverelli, Veronica, Olivieri, Sébastien Olivieri, Tsujimori, Tatsuki, Giovannelli, Donato, Shi, Guang-Hai, Cannaó, Enrico, Piccoli, Francesca, Vitale Brovarone, Alberto (2025)
-Cold-subduction biogeodynamics boost deep energy delivery to the forearc 
-https://doi.org/10.1016/j.gca.2024.10.004
+- Peverelli, Veronica, Olivieri, Sébastien Olivieri, Tsujimori, Tatsuki, Giovannelli, Donato, Shi, Guang-Hai, Cannaó, Enrico, Piccoli, Francesca, Vitale Brovarone, Alberto (2025) Cold-subduction biogeodynamics boost deep energy delivery to the forearc. https://doi.org/10.1016/j.gca.2024.10.004
 
 
 ---
@@ -135,13 +110,6 @@ Progress in Earth and Planetary Science, 11, 6.
 
 https://doi.org/10.1186/s40645-024-00609-y
 
-Mikuni, K., Hirano, N., Machida, S., Sumino, H., Akizawa, N., Tamura, A., Morishita, T., & Kato, Y. (2024)
-
-Contribution of carbonatite and recycled oceanic crust to petit-spot lavas on the western Pacific Plate.
-
-Solid Earth, 15, 167–196.
-
-https://doi.org/10.5194/se-15-167-2024
 
 Yoshida, S., Mayika, K.B., Ishihara, Y., Moussavou, M., Asanuma, H., Sato, T., Hirata, T., Ligna, C., Sawaki, Y. (2024)
 
@@ -178,13 +146,6 @@ Geology, 51(7), 678–682.
 
 https://doi.org/10.1130/G51052.1
 
-Yutani, T., Hirano, N., Tanaka, H., Sumino, H., Machida, S., Sekimoto, S., Yoneda, S. & Kato, Y. (2023)
-
-An intraoceanic juvenile arc of shoshonite and adakitic andesite in the Nemuro Belt, the Lesser Kuril Arc, across the K/Pg boundary.
-
-Cretaceous Research, 147, 105510.
-
-https://doi.org/10.1016/j.cretres.2023.105510
 
 Takeshima, Y., Hyodo, H., Tsujimori, T., Gouzu, C. & Itaya, T. (2023)
 
@@ -237,21 +198,7 @@ https://doi.org/10.1016/j.lithos.2022.106951
 --- 
 # 2022年
 
-Shimizu, K., Ushikubo, T., Kuritani, T., Hirano, N. & Yamashita, Y. (2022)
 
-Modification for the matrix effect in SIMS-derived water contents of silicate glasses.
-
-Geochemical Journal, GJ22019.
-
-https://doi.org/10.2343/geochemj.GJ22019
-
-Akizawa, N., Hirano, N., Machida, S., Ishikawa, A., Niwa, Y., Shimoda, G., Yasukawa, K., Matsuzaki, K. M., Tamura, C. & Kaneko, J. (2022)
-
-Rock and sediment dataset of petit-spots in the northwestern Pacific.
-
-Data in Brief, 108764.
-
-https://doi.org/10.1016/j.dib.2022.108764
 
 Iryu, Y., Tsujimori, T., Hirano, N. & Ichiyama, Y. (2022)
 
@@ -261,13 +208,6 @@ Island Arc, 31, e12468.
 
 https://doi.org/10.1111/iar.12468
 
-Mikuni, K., Hirano, N., Akizawa, N., Yamamoto, J., Machida, S., Tamura, A., Hagiwara, Y. & Morishita, T. (2022)
-
-Lithological structure of western Pacific lithosphere reconstructed from mantle xenoliths in a petit-spot volcano.
-
-Progress in Earth and Planetary Science, 9, 62.
-
-https://doi.org/10.1186/s40645-022-00518-y
 
 Ganbat, A., Tsujimori, T., Miao, L.-C., Safonova, I., Pastor-Galán, D., Anaad, C., Baatar, M., Aoki, S., Aoki, K. & Chimedsuren, M. (2022)
 
@@ -293,14 +233,6 @@ Frontiers in Earth Science, 10, 989889.
 
 https://doi.org/10.3389/feart.2022.989889
 
-Azami, K., Hirano, N., Kimura, J.-I., Chang, Q., Sumino, H., Machida, S., Yasukawa, K., & Kato, Y. (2022)
-
-87Sr/86Sr isotopic ratio of ferromanganese crusts as a record of detrital influx to the western North Pacific Ocean.
-
-Minerals, 12 (8), 943.
-
-https://doi.org/10.3390/min12080943
-
 Tsujimori, T. (2022)
 
 プレート境界岩総合解析によるオロゲン地質記録と変成プロセスの研究 [Orogenic and metamorphic processes in plate boundaries: Synopsis and future directions].
@@ -309,13 +241,6 @@ Ganseki Koubutsu Kagaku (Japanese Magazine of Mineralogical and Petrological Sci
 
 https://doi.org/10.2465/gkk.220310
 
-Hirano, N. & Machida, S. (2022)
-
-The mantle structure below petit-spot volcanoes.
-
-Communications Earth & Environment, 3: 110.
-
-https://doi.org/10.1038/s43247-022-00438-1
 
 Morita, I., Tsujimori, T., Boniface, N., Flores, K.E., Aoki, S. & Aoki, K. (2022)
 
@@ -333,13 +258,6 @@ Contributions to Mineralogy and Petrology, 177, 36.
 
 https://doi.org/10.1007/s00410-022-01892-y
 
-Akizawa, N., Hirano, N., Matsuzaki, K., Machida, S., Tamura, C., Kaneko, J., Iwano, H., Danhara, T. & Hirata, T. (2022)
-
-A direct evidence for disturbance of whole sediment layer in the subducting Pacific plate by petit-spot magma–water/sediment interaction.
-
-Marine Geology, 444, 106712.
-
-https://doi.org/10.1016/j.margeo.2021.106712
 
 ---
 # 2021年
@@ -392,13 +310,6 @@ Lithos, 398–399, 106256.
 
 https://doi.org/10.1016/j.lithos.2021.106256
 
-Aftabuzzaman, M., Yomogida, K., Suzuki, S., Takayanagi, H., Ishigaki, A., Machida, S., Asahara, Y., Yamamoto, K., Hirano, N., Sano, S. -I., Chiyonobu, S., Bassi, D., & Iryu, Y. (2021)
-
-Multi‐approach characterization of shallow‐water carbonates off Minamitorishima and their depositional settings/history.
-
-Island Arc, 30, e12400.
-
-https://doi.org/10.1111/iar.12400
 
 Gutiérrez-Alonso, G., López-Carmona, A., Núñez-Guerrero, E., García, A. M., Fernández-Suárez, J., Pastor-Galán, D., Gutiérrez-Marco, J. C., Bernárdez, E., Colmenero, J. R., Hofmann, M., & Linnemann, U. (2021)
 
@@ -472,21 +383,7 @@ Gondwana Research, 91, 286–301.
 
 https://doi.org/10.1016/j.gr.2020.12.009
 
-Sakai, S., Hirano, N., Dilek, Y., Machida, S., Yasukawa, K., & Kato, Y. (2021).
 
-Tokoro Belt (NE Hokkaido): an exhumed, Jurassic–Early Cretaceous seamount in the Late Cretaceous accretionary prism of northern Japan.
-
-Geological Magazine, 158, 72–83.
-
-https://doi.org/10.1017/S0016756819000633
-
-Hirano, N., Sumino, H., Morishita, T., Machida, S., Kawano, T., Yasukawa, K., Hirata, T., Kato, Y., & Ishii, T. (2021).
-
-A Paleogene magmatic overprint on Cretaceous seamounts of the western Pacific.
-
-Island Arc, 30, e12386.
-
-https://doi.org/10.1111/iar.12386
 
 Mendes, B. D. L., Pastor-Galán, D., Dekkers, M. J., & Krijgsman, W. (2021).
 
@@ -553,37 +450,9 @@ Lithos, 370–371, 105659.
 
 https://doi.org/10.1016/j.lithos.2020.105659
 
-Morishita, T., Hirano, N., Sumino, H., Sato, H., Shibata, T., Yoshikawa, M., Arai, S., Nauchi, R., & Tamura, A. (2020).
 
-Alkali basalt from the Seifu Seamount in the Sea of Japan: post-spreading magmatism in a back-arc setting.
 
-Solid Earth, 11, 23–36.
 
-https://doi.org/10.5194/se-11-23-2020
-
-Liu, J., Hirano, N., Machida, S., Xia, Q., Tao, C., Liao, S., Liang, J., Li, W., Yang, W., Zhang, G., & Ding, T. (2020).
-
-Melting of recycled ancient crust responsible for the Gutenberg discontinuity.
-
-Nature Communications, 11, 1–9.
-
-https://doi.org/10.1038/s41467-019-13958-w
-
-Miyata, J., Takayanagi, H., Ishigaki, A., Hirano, N., Shiokawa, S., Nishimura, A., Nakazawa, T., Ishikawa, T., Nagaishi, K., Tokuyama, H., Ishiwatari, A., & Iryu, Y. (2020).
-
-Tectonic implications of carbonate deposits on the eastern slope of the Hahajima Seamount in the collision zone between the Izu–Bonin Arc on the Philippine Sea Plate and the Ogasawara Plateau on the Pacific Plate.
-
-Island Arc, 29, e12368.
-
-https://doi.org/10.1111/iar.12368
-
-Yamamoto, J., Hirano, N., & Kurz, M. D. (2020).
-
-Noble gas isotopic compositions of seamount lavas from the central Chile trench: Implications for petit-spot volcanism and the lithosphere asthenosphere boundary.
-
-Earth and Planetary Science Letters, 552, 116611.
-
-https://doi.org/10.1016/j.epsl.2020.116611
 
 Okumura, S., Uesugi, K., Sakamaki, T., Goto, A., Uesugi, M., & Takeuchi, A. (2020).
 
@@ -682,13 +551,6 @@ Journal of Mineralogical and Petrological Sciences, 114, 302–307.
 
 https://doi.org/10.2465/jmps.190729
 
-Hirano, N., Machida, S., Sumino, H., Shimizu, K., Tamura, A., Morishita, T., Iwano, H., Sakata, S., Ishii, T., Arai, S., Yoneda, S., Danhara, T., & Hirata, T. (2019).
-
-Petit-spot volcanoes on the oldest portion of the Pacific plate.
-
-Deep Sea Research Part I: Oceanographic Research Papers, 154, 103142.
-
-https://doi.org/10.1016/j.dsr.2019.103142
 
 Dandar, O., Okamoto, A., Uno, M., Oyanagi, R., Nagaya, T., Burenjargal, U., Miyamoto, T., & Tsuchiya, N. (2019).
 
@@ -747,21 +609,7 @@ Journal of Mineralogical and Petrological Sciences, 113, 316–321.
 
 https://doi.org/10.2465/jmps.180713
 
-Sato, Y., Hirano, N., Machida, S., Yamamoto, J., Nakanishi, M., Ishii, T., Taki, A., Yasukawa, K., & Kato, Y. (2018).
 
-Direct ascent to the surface of asthenospheric magma in a region of convex lithospheric flexure.
-
-International Geology Review, 60, 1231–1243.
-
-https://doi.org/10.1080/00206814.2017.1379912
-
-Azami, K., Hirano, N., Machida, S., Yasukawa, K., & Kato, Y. (2018).
-
-Rare earth elements and yttrium (REY) variability with water depth in hydrogenetic ferromanganese crusts.
-
-Chemical Geology, 493, 224–233.
-
-https://doi.org/10.1016/j.chemgeo.2018.05.045
 
 Van der Boon, A., van Hinsbergen, D. J. J., Rezaeian, M., Gürer, D., Honarmand, M., Pastor-Galán, D., Krijgsman, W., & Langereis, C. G. (2018).
 
@@ -828,35 +676,9 @@ Journal of Mineralogical and Petrological Sciences, 112, 291–299.
 
 https://doi.org/10.2465/jmps.170403
 
-Machida, S., Kogiso, T., & Hirano, N. (2017).
 
-Petit-spot as definitive evidence for partial melting in the asthenosphere caused by CO2.
 
-Nature Communications, 8, 1–7.
 
-https://doi.org/10.1038/ncomms14302
-
-平野 直人 (2017)
-
-プチスポット形成過程と沈み込むリソスフェアへのインプット. 地学雑誌, 126, 195–206.
-
-https://doi.org/10.5026/jgeography.126.195
-
-Baba, K., Tada, N., Matsuno, T., Liang, P., Li, R., Zhang, L., Shimizu, H., Abe, N., Hirano, N., Ichiki, M., & Utada, H. (2017).
-
-Electrical conductivity of old oceanic mantle in the northwestern Pacific I: 1-D profiles suggesting differences in thermal structure not predictable from a plate cooling model.
-
-Earth, Planets and Space, 69, 1–23.
-
-https://doi.org/10.1186/s40623-017-0697-0
-
-Rochat, L., Pilet, S., Müntener, O., Duretz, T., Baumgartner, L., Abe, N., & Hirano, N. (2017).
-
-Garnet xenocryst from petit-spot lavas as an indicator for off-axis mantle refertilization at intermediate spreading ridges.
-
-Geology, 45, 1091–1094.
-
-https://doi.org/10.1130/G39427.1
 
 Pastor-Galán, D., Mulchrone, K. F., Koymans, M. R., van Hinsbergen, D. J., & Langereis, C. G. (2017).
 
@@ -903,13 +725,6 @@ Journal of Petrology, 57, 1361–1388.
 
 https://doi.org/10.1093/petrology/egw043
 
-Sofiya, A., Ishiwatari, A., Hirano, N., & Tsujimori, T. (2017).
-
-Relict chromian spinels in Tulu Dimtu serpentinites and listvenite, Western Ethiopia: implications for the timing of listvenite formation.
-
-International Geology Review, 59, 1621–1631.
-
-https://doi.org/10.1080/00206814.2016.1213142
 
 Stern, R. J., Leybourne, M. I., & Tsujimori, T. (2016).
 
@@ -935,29 +750,8 @@ Canadian Journal of Earth Sciences, 53, 1103–1120.
 
 https://doi.org/10.1139/cjes-2015-0126
 
-Pilet, S., Abe, N., Rochat, L., Kaczmarek, M. A., Hirano, N., Machida, S., Buchs, D. M., Baumgartner, P. O., & Müntener, O. (2016).
 
-Pre-subduction metasomatic enrichment of the oceanic lithosphere induced by plate flexure.
 
-Nature Geoscience, 9, 898–903.
-
-https://doi.org/10.1038/ngeo2825
-
-Machida, S., Fujinaga, K., Ishii, T., Nakamura, K., Hirano, N., & Kato, Y. (2016).
-
-Geology and geochemistry of ferromanganese nodules in the Japanese Exclusive Economic Zone around Minamitorishima Island.
-
-Geochemical Journal, 50, 539–555.
-
-https://doi.org/10.2343/geochemj.2.0419
-
-Hirano, N., Nakanishi, M., Abe, N., & Machida, S. (2016).
-
-Submarine lava fields in French Polynesia.
-
-Marine Geology, 373, 39–48.
-
-https://doi.org/10.1016/j.margeo.2016.01.002
 
 Hiroi, Y., & Miyamoto, T. (2016).
 
@@ -1016,21 +810,7 @@ International Geology Review, 57, 1014–1022.
 
 https://doi.org/10.1080/00206814.2014.973915
 
-Miyazaki, T., Kimura, J. I., Senda, R., Vaglarov, B. S., Chang, Q., Takahashi, T., Hirahara, Y., Hauff, F., Hayasaka, Y., Sano, S., Shimoda, G., Ishizuka, O., Kawabata, H., Hirano, N., Machida, S., Ishii, T., Tani, K., & Yoshida, T. (2015).
 
-Missing western half of the Pacific Plate: Geochemical nature of the Izanagi‐Pacific Ridge interaction with a stationary boundary between the Indian and Pacific mantles.
-
-Geochemistry, Geophysics, Geosystems, 16, 3309–3332.
-
-https://doi.org/10.1002/2015GC005911
-
-Machida, S., Hirano, N., Sumino, H., Hirata, T., Yoneda, S., & Kato, Y. (2015).
-
-Petit-spot geology reveals melts in upper-most asthenosphere dragged by lithosphere.
-
-Earth and Planetary Science Letters, 426, 267–279.
-
-https://doi.org/10.1016/j.epsl.2015.06.018
 
 Gutiérrez-Alonso, G., Collins, A. S., Fernández-Suárez, J., Pastor-Galán, D., González-Clavijo, E., Jourdan, F., Weil, A. B., & Johnston, S. T. (2015).
 
@@ -1097,17 +877,7 @@ Revising estimates of antiphase domain size in eclogite-facies omphacites.
 
 BGI Annual Report 2020, p. 126–127.
 
-平野 直人 (2020)
 
-太平洋プレートの組成進化~海山・プチスポット・緑色岩.
-
-新地球, 1, 33-41.
-
-森下 知晃, 田村 明宏, 針金 由美子, 阿部 なつ江, 平野 直人 (2020)
-
-プチスポット火山岩中に含まれるカンラン岩捕獲岩の重要性: 太平洋プレート形成に関与した溶融コラム深部起源物質の物証.
-
-新地球, 1, 42-45.
 
 Tatsuki Tsujimori, Yukio Isozaki (2019).
 
@@ -1121,13 +891,7 @@ Reappraisal of natural omphacite: To see a world in a nanoscale domain.
 
 BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2019, p. 78-79.
 
-平野 直人, 油谷 拓, 山本 順司 (2016)
 
-歯舞群島と色丹島の地質資料と岩石試料の重要性. 東北アジア研究, 20, 61–74.
-
-Hirano, N., Yutani, T., & Yamamoto, J. (2016).
-
-Geological data and samples of Habomai and Shikotan Islands.
 
 辻森 樹, & 八木 公史. (2015).
 
