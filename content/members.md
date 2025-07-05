@@ -48,7 +48,7 @@ ORCID:
 
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
-<span class = boldsymbol>高橋 奈緒子 (Takahashi Naoko) | 助教 </span>
+<span class = boldsymbol>高橋 菜緒子 (Takahashi Naoko) | 助教 </span>
 
 専門:
 趣味:
