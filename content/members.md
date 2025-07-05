@@ -202,11 +202,15 @@ featured_image: ../assets/images/featured/bird.JPG
 </div>
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/TomoyaHashimoto.jpg" class="thumb">
 <span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya) | B3</span>
-
-専門:
-趣味:
+<br>
+<span class=box>研究</span>アストロジオロジー
+<br>
+<span class=box>趣味</span>バイク・鉱物・自然散策
+<br>
+<span class=box>好きな鉱物</span>藍晶石
+<span class=box>好きな時代</span>オルドビス紀
 </div>
 
 <div class="photo-box">
