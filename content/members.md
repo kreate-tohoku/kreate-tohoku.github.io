@@ -49,7 +49,7 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <span class="box">研究</span>変成岩から探る沈み込み帯と固体地球の時空間的進化
 <br>
-<span class="box">趣味</span>電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 <span class="box">好きな時代</span>クライオジェニアン<span class="box">好きな鉱物</span>藍閃石・ローソン石
+<span class="box">趣味</span>電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 <span class="box">好きな時代</span>クライオジェニアン<span class="box">好きな鉱物</span>藍閃石
 <br>
 </div>
 
