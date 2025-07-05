@@ -25,7 +25,14 @@ featured_image: ../assets/images/featured/bird.JPG
   margin: 0 1rem 1rem 0;   /* 右と下に余白 */
 }
 .boldsymbol {
-   font-weight:bold 
+   font-weight:bold;
+}
+.box {
+  font-size: 0.9em;
+  margin: 0rem 0.2rem 0rem 0.2rem;   /* 右と下に余白 */
+  padding: 0.1rem 0.2rem 0.1rem 0.2rem;   /* 右と下に余白 */
+  border: solid 1px;
+  border-radius: 4px;
 }
 
 </style>
@@ -40,9 +47,9 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <small>ORCID: https://orcid.org/0000-0001-9202-7312</small>
 <br>
-研究内容：変成岩から探る沈み込み帯と固体地球の時空間的進化
+<span class="box">研究</span>変成岩から探る沈み込み帯と固体地球の時空間的進化
 <br>
-趣味：電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培
+<span class="box">趣味</span>電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 <span class="box">好きな時代</span>クライオジェニアン<span class="box">好きな鉱物</span>藍閃石・ローソン石
 <br>
 </div>
 
@@ -70,9 +77,10 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <small>ORCID: https://orcid.org/0000-0002-8512-6985</small>
 <br>
-研究内容：岩石組織の数理　
+<span class="box">研究</span>岩石組織の数理
 <br>
-趣味：砂金・化石・野草・きのこ・園芸・鳥
+<span class="box">趣味</span>砂金・化石・野草・きのこ・園芸・鳥
+<span class="box">好きな時代</span>石炭紀<span class="box">好きな鉱物</span>金
 <br>
 </div>
 
@@ -145,9 +153,10 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <small>東北大学変動地球共生学卓越大学院プログラム</small>
 <br>
-研究内容： カーボナタイト
+<span class="box">研究</span> カーボナタイト
 <br>
-趣味：読書・お風呂
+<span class="box">趣味</span> 読書・お風呂
+<br>
 <br>
 </div>
 <div class="photo-box">
@@ -211,11 +220,12 @@ featured_image: ../assets/images/featured/bird.JPG
 <div class="photo-box">
 <img src="/images/members/NanaSuzuki.jpg" class="thumb">
 <span class=boldsymbol>鈴木　那菜 (Suzuki, Nana) | B3</span>
-
-専門:
-趣味:
+<br>
+<span class=box>研究</span>BIF
+<br>
+<span class=box>趣味</span>散歩・音楽鑑賞
+<br>
 </div>
-
 
 
 
