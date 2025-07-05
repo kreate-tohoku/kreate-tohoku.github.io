@@ -43,7 +43,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
 <img src="/images/members/TatsukiTsujimori.jpg" class="thumb">
-<span class = boldsymbol>辻森 樹 (Tsujimori Tatsuki) | 教授</span>
+<span class = boldsymbol>辻森 樹 (Tsujimori, Tatsuki) | 教授</span>
 <br>
 <small>ORCID: https://orcid.org/0000-0001-9202-7312</small>
 <br>
@@ -57,7 +57,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
-<span class = boldsymbol>高橋 菜緒子 (Takahashi Naoko) | 助教 </span>
+<span class = boldsymbol>高橋 菜緒子 (Takahashi, Naoko) | 助教 </span>
 <br>
 <small>ORCID: https://orcid.org/0000-0002-3518-8934</small>
 
@@ -71,7 +71,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
 <img src="/images/members/TanFurukawa.jpg" class="thumb">
-<span class=boldsymbol>古川 旦 (Furukawa Tan) | D2 </span>
+<span class=boldsymbol>古川 旦 (Furukawa, Tan) | D2 </span>
 <br>
 <small>高等大学院国際卓越研究者育成支援プログラム（AGS RISE Program）</small>
 <br>
