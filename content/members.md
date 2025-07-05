@@ -37,11 +37,13 @@ featured_image: ../assets/images/featured/bird.JPG
 <div class="photo-box">
 <img src="/images/members/TatsukiTsujimori.jpg" class="thumb">
 <span class = boldsymbol>辻森 樹 (Tsujimori Tatsuki) | 教授</span>
-
-専門:
-趣味:
 <br>
-ORCID:
+<small>ORCID: https://orcid.org/0000-0001-9202-7312</small>
+<br>
+研究内容：変成岩から探る沈み込み帯と固体地球の時空間的進化
+<br>
+趣味：電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培
+<br>
 </div>
 
 
@@ -49,11 +51,11 @@ ORCID:
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
 <span class = boldsymbol>高橋 菜緒子 (Takahashi Naoko) | 助教 </span>
+<br>
+<small>ORCID: https://orcid.org/0000-0002-3518-8934</small>
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 
@@ -65,10 +67,13 @@ ORCID:
 <span class=boldsymbol>古川 旦 (Furukawa Tan) | D2 </span>
 <br>
 <small>高等大学院国際卓越研究者育成支援プログラム（AGS RISE Program）</small>
-
-**研究内容**: 岩石組織の数理　**趣味**: 砂金・化石・野草・きのこ・園芸・鳥
 <br>
-**ORCID**: https://orcid.org/0000-0002-8512-6985
+<small>ORCID: https://orcid.org/0000-0002-8512-6985</small>
+<br>
+研究内容：岩石組織の数理　
+<br>
+趣味：砂金・化石・野草・きのこ・園芸・鳥
+<br>
 </div>
 
 
@@ -76,34 +81,36 @@ ORCID:
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
 <span class=boldsymbol>ボルド ムンフデルゲル (Bold, Munkhdelger) | D2</span>
-
+<br>
+<small>ORCID: https://orcid.org/0009-0005-9918-0551</small>
+<br>
 専門:
 趣味:
 <br>
-ORCID:
 </div>
 
 
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
 <span class=boldsymbol>志関 弘平 (Shizeki, Kohei) |  D2</span>
-
+<br>
+<small>ORCID: https://orcid.org/0000-0002-1230-2319</small>
+<br>
 専門:
 趣味:
 <br>
-ORCID:
 </div>
 
 
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
-
 <span class=boldsymbol>陈 坤 (Chen, Kun) | 特別研究生</span>
-
+<br>
+<small>ORCID: https://orcid.org/0009-0002-0802-6494</small>
+<br>
 専門:
 趣味:
 <br>
-ORCID:
 </div>
 
 
@@ -112,29 +119,36 @@ ORCID:
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
 <span class=boldsymbol>杉浦 慶 (Sugiura, Kei) | M2</span>
-
+<br>
+<small>ORCID: https://orcid.org/0000-0002-9168-9274</small>
+<br>
 専門:
 趣味:
 <br>
-ORCID:
 </div>
+
+
+
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
 <span class=boldsymbol>相馬 耕助 (Soma, Kosuke) | M2</span>
-
+<br>
 専門:
 趣味:
 <br>
-ORCID:
 </div>
-<div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
-<span class=boldsymbol>梅宮 穂花 (Umemiya, Honoka) | M2</span>
 
-専門:
-趣味:
+
+<div class="photo-box">
+<img src="/images/members/HonokaUmemiya.jpg" class="thumb">
+<span class=boldsymbol>梅宮 穂花 (Umemiya, Honoka) | M2</span>
 <br>
-ORCID:
+<small>東北大学変動地球共生学卓越大学院プログラム</small>
+<br>
+研究内容： カーボナタイト
+<br>
+趣味：読書・お風呂
+<br>
 </div>
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
@@ -142,8 +156,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
@@ -152,8 +164,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 ## 学部生 / Undergraduate student
@@ -164,8 +174,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
@@ -174,8 +182,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
@@ -184,8 +190,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
@@ -194,8 +198,6 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
@@ -204,18 +206,14 @@ ORCID:
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/NanaSuzuki.jpg" class="thumb">
 <span class=boldsymbol>鈴木　那菜 (Suzuki, Nana) | B3</span>
 
 専門:
 趣味:
-<br>
-ORCID:
 </div>
 
 
