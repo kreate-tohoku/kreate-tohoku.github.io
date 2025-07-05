@@ -19,3 +19,25 @@ KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the D
 In KR8, we integrate geological field observations, petrological, mineralogical, and geochemical approaches, as well as numerical simulations and laboratory experiments, to advance our understanding of diverse geological processes, not limited to Earth.
 
 We warmly invite prospective students, postdoctoral researchers, and collaborators from around the world to join us.
+
+<br>
+
+# プレート境界岩(変成岩)
+<img src="/images/page/blueschist2.jpg">
+プレートテクトニクスは固体地球の化学分別様式に多様性をもたらし、表層環境に複雑性を与えてきました。様々な時代のプレート境界岩（変成岩）と地殻・上部マントル構成岩が記録した情報（鉱物組成共生関係、元素・同位体組成、構造・組織）を直接解析し、プレート収束域の様々なプロセスの実像と時空間スケール、さらに地球史を通したそれら変遷を読み解くことで、固体地球の巨視的な化学進化とその表層環境への影響の総合理解を目指しています。
+
+<br>
+<br>
+<br>
+
+# 大陸地殻の進化
+<img src="/images/page/bigsur.jpg">
+惑星「地球」の大陸地殻は太古代・古原生代の古い地殻の一部を保持し、２億年より若い海洋地殻とは化学組成と形成年代に関して極めて対照的な存在です。島弧火成活動による大陸地殻形成とその改変、プレート収束域での構造浸食によるマントルへの輸送、大陸地殻の安定化とクラトンを核とした造山帯累帯成長、クラトンの「根」の実像などに関して、花崗岩、砕屑性ジルコン、下部地殻・リソスフェアマントル捕獲岩を総合的に解析しています。
+
+<br>
+<br>
+<br>
+
+# 数理地球科学
+<img src="/images/page/mathmatics2.png">
+計算機技術の進歩と数理・情報科学の進展は固体地球科学の分野にも大きな恩恵をもたらしています。プログラミング言語を用いた統計解析法・データ駆動型解析手法の開発、スペクトル解析のためのUIソフトウェア開発・改良に積極的に挑戦し、実践の研究に応用しています。さらに、先端的な分析に耐えうる前処理システム環境整備・ハードウェア開発・改良などにも取り組んでいます。

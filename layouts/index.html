@@ -1,4 +1,28 @@
 {{ define "main" }}
+
+<style>
+    .highlight {
+        font-size: 1em;
+        /* color: rgb(255, 255, 255); */
+        font-weight: bold;
+        /* margin: 0rem 0.2rem 0rem 0.0rem; */
+        margin: 0;
+        /* padding: 0.0rem 0.2rem 0.0rem 0.0rem; */
+        padding: 0;
+        /* background-color: rgb(0, 37, 70); */
+        /* padding: 0.0rem 0.0rem 0.0rem 0.0rem; */
+        /* border: solid 1px; */
+        /* border-bottom: solid 2px; */
+        /* border-radius: 4px; */
+    }
+    .highlight::before {
+    content: "■";
+    }
+    .highlight::after {
+    content: "：";
+    }
+</style>
+
 <main>
 
     <div class="relative w-full">
@@ -24,8 +48,11 @@
                 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
                 {{ .Site.Title }}
             </h1>
-            <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-2xl">
-                {{ .Site.Params.Moto }}
+            <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 md:text-2xl">
+                東北大学理学部地球科学系・理学研究科
+                <br>地学専攻 地殻進化学グループ
+
+                <!-- {{ .Site.Params.Moto }} -->
             </h2>
             <p
                 class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
@@ -71,15 +98,27 @@
                 </div>
             </div>
             <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0">
-                <div class="md:pt-12 sm:pt-6 lg:pt-20">
-                    <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">
-                        {{ .Site.Params.P1.Heading }}
-                    </h2>
+                <div class="md:pt-12 sm:pt-6 lg:pt-5">
+                    <!-- <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl"> -->
+                        <!-- {{ .Site.Params.P1.Heading }} -->
+                    <!-- </h2> -->
                     <div class="mt-6 text-gray-900 dark:text-white">
                         <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
                             {{ range .Site.Params.P1.Content }}
                             <p class="text-lg text-gray-900 dark:text-white">
-                                {{ .text }}
+                                物質科学的アプローチにより、岩石圏における岩石–流体反応、物質輸送、惑星の地質学的進化を研究しています。
+                                <br>
+                                <span
+                                    class="highlight">究極のゴール</span>「物質に刻まれた地球の記録を読み解くことで、地球の仕組みと進化を深く理解し、科学的知見にもとづいて人間社会の未来を見通す」
+                                <br>
+                                <span
+                                    class="highlight">ミッション</span>地殻を構成する岩石・鉱物と流体の相互作用を物質科学の視点から解明し、地球および惑星の内部進化とその改変プロセスを再構築する。
+                                ・野外地質学、岩石学、地球化学、高温高圧実験の融合により、惑星の地殻進化に共通する物質移動と反応の普遍的原理を探求する。
+                                <br>
+                                <span class="highlight">スピリッツ</span>「科学史に刻め！」 ──
+                                先行研究をしっかり学ぶ。それを踏み台に、あなたの研究が科学史の一部となるよう努力する。そして、次世へ。 ※先行研究と同じことをしていてはダメ！「学び、越え、刻む。」
+                                <!-- 融通がきかないので、yamlから持ってくるのをやめました。 -->
+                                <!-- {{ .text }} -->
                             </p>
                             {{ end }}
                         </div>
@@ -91,7 +130,7 @@
 
     <!-- JITsection -->
 
-    {{ range .Site.Params.P3.Content_list }}
+    <!-- {{ range .Site.Params.P3.Content_list }}
     <div class="overflow-hidden sm:pt-6 lg:relative">
         <div class="max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
             <div>
@@ -141,7 +180,7 @@
         </div>
     </div>
 
-    {{ end }}
+    {{ end }} -->
 
 
     <!-- Blog section -->
@@ -187,8 +226,8 @@
                             </a>
                             {{ else }}
                             <a href="{{.Permalink}}">
-                                <img src="images/others/acon.jpg" class="object-fill overflow-hidden rounded-t-lg" width="100%"
-                                    height="" />
+                                <img src="images/others/acon.jpg" class="object-fill overflow-hidden rounded-t-lg"
+                                    width="100%" height="" />
                             </a>
                             {{ end }}
 
