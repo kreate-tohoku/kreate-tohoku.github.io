@@ -261,32 +261,36 @@
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
 
 
-
-
-
-
-
-
-                            {{ if .Params.Featured_image}}
-                            <a href="{{.Permalink}}">
-                                {{ with .Params.featured_image }}
-                                {{ with resources.Get . }}
-                                {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
+                            <!---------------------------------- -->
+                            <!-- Updatesのサムネイル画像に関する部分 -->
+                            <!---------------------------------- -->
+                            <!--mdファイルのヘッダ部分に、featured_imageが設定されているとき-->
+                            {{ if .Params.featured_image }}
+                            {{ with resources.Get .Params.featured_image }}
+                            {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
+                            <a href="{{ $.Permalink }}">
                                 <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg"
-                                    width="100%" height="" loading="lazy" alt="{{ .Title }}" />
-
-                                {{ end }}
-                                {{ end }}
-                            </a>
-                            {{ else }}
-                            <a href="{{.Permalink}}">
-                                <img src="images/others/acon.jpg" class="object-fill overflow-hidden rounded-t-lg"
-                                    width="100%" height="" />
+                                    width="100%" loading="lazy" alt="{{ $.Title }}" />
                             </a>
                             {{ end }}
-
-
-
+                            {{ else }}
+                            <!--mdファイルのヘッダ部分に、featured_imageが設定されていないとき-->
+                            <!-- パーマリンクに /publication/ が含まれる場合 (論文リストを意味する) -->
+                            {{ if in .Permalink "/publications/" }}
+                            <a href="{{ .Permalink }}">
+                                <img src="/images/others/kreated.jpg" class="object-fill overflow-hidden rounded-t-lg"
+                                    width="100%" loading="lazy" alt="{{ $.Title }}" />
+                            </a>
+                            <!--すべての条件に引っかからなかったとき -->
+                            {{ else }}
+                            <a href="{{ .Permalink }}">
+                                <!--どんくりを表示 -->
+                                <img src="/images/others/acon.jpg" class="object-fill overflow-hidden rounded-t-lg"
+                                    width="100%" loading="lazy" alt="{{ .Title }}" />
+                            </a>
+                            {{ end }}
+                            {{ end }}
+                            <!---------------------------------- -->
 
 
                             <div class="p-6">
