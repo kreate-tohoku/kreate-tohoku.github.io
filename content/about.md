@@ -23,7 +23,7 @@ We warmly invite prospective students, postdoctoral researchers, and collaborato
 <br>
 
 # プレート境界岩(変成岩)
-<img src="/images/page/blueschist2.jpg">
+<img src="/images/page/eclogite.jpg">
 プレートテクトニクスは固体地球の化学分別様式に多様性をもたらし、表層環境に複雑性を与えてきました。様々な時代のプレート境界岩（変成岩）と地殻・上部マントル構成岩が記録した情報（鉱物組成共生関係、元素・同位体組成、構造・組織）を直接解析し、プレート収束域の様々なプロセスの実像と時空間スケール、さらに地球史を通したそれら変遷を読み解くことで、固体地球の巨視的な化学進化とその表層環境への影響の総合理解を目指しています。
 
 <br>

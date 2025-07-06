@@ -138,11 +138,14 @@ featured_image: ../assets/images/featured/bird.JPG
 
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/SomaKosuke.jpg" class="thumb">
 <span class=boldsymbol>相馬 耕助 (Soma, Kosuke) | M2</span>
 <br>
-専門:
-趣味:
+<span class="box">研究</span> シンプレクタイト形成の数理
+<br>
+<span class="box">趣味</span> 散歩、旅行、ポケモン、ハンドボール、バドミントン
+<br>
+<span class="box">好きな時代</span>人新世<span class="box">好きな鉱物</span>ひすい輝石
 <br>
 </div>
 
@@ -156,15 +159,27 @@ featured_image: ../assets/images/featured/bird.JPG
 <span class="box">研究</span> カーボナタイト
 <br>
 <span class="box">趣味</span> 読書・お風呂
+<span class="box">好きな鉱物</span> 燐灰石
+<span class="box">好きな時代</span> カンブリア紀
 <br>
 <br>
 </div>
 <div class="photo-box">
 <img src="/images/acon.jpg" class="thumb">
-<span class=boldsymbol>田村 航遥 (Tamura, Yoko) | M1</span>
+<span class=boldsymbol>田村 航遥 (Tamura, Koyo) | M1</span>
+<br>
+<span class="box">研究</span> 変成岩
+<br>
+<span class="box">趣味</span> 岩石・鉱物
+<br>
+<span class="box">好きな鉱物</span>ひすい輝石
+<span class="box">好きな時代</span> セノマニアン
 
-専門:
-趣味:
+
+
+
+<br>
+
 </div>
 
 <div class="photo-box">
@@ -209,8 +224,8 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <span class=box>趣味</span>バイク・鉱物・自然散策
 <br>
-<span class=box>好きな鉱物</span>藍晶石
 <span class=box>好きな時代</span>オルドビス紀
+<span class=box>好きな鉱物</span>藍晶石
 </div>
 
 <div class="photo-box">
@@ -229,6 +244,8 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <span class=box>趣味</span>散歩・音楽鑑賞
 <br>
+<span class=box>好きな時代</span> エディアカラン
+<span class=box>好きな鉱物</span> サヌカイト
 </div>
 
 

@@ -15,11 +15,35 @@
         /* border-bottom: solid 2px; */
         /* border-radius: 4px; */
     }
+
     .highlight::before {
-    content: "■";
+        content: "■";
     }
+
     .highlight::after {
-    content: "：";
+        content: "：";
+    }
+
+    /* モバイルファースト（768px 未満）―― あああああ を表示 */
+    .small-only {
+        font-size: small;
+        line-height: 1.2em;
+        display: block;
+    }
+
+    .large-only {
+        display: none;
+    }
+
+    /* 768px 以上では切り替え―― いいいいい を表示 */
+    @media (min-width: 768px) {
+        .small-only {
+            display: none;
+        }
+
+        .large-only {
+            display: block;
+        }
     }
 </style>
 
@@ -48,12 +72,42 @@
                 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
                 {{ .Site.Title }}
             </h1>
-            <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 md:text-2xl">
-                東北大学理学部地球科学系・理学研究科
-                <br>地学専攻 地殻進化学グループ
 
-                <!-- {{ .Site.Params.Moto }} -->
+            <!-- <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 md:text-2xl">
+            東北大学理学部地球科学系
+            <span class="inline md:hidden">・</span>
+            <br class="hidden md:block">
+            理学研究科<br>地学専攻 地殻進化学グループ
+            </h2> -->
+
+
+            <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 ts-text-small">
+                <div class="small-only text-xl">
+
+                    東北大学理学部地球科学系・理学研究科<br>
+                    地学専攻 地殻進化学グループ
+
+                </div>
+
+                <!-- 大きい画面で表示したい要素 -->
+                <div class="large-only">
+                    東北大学理学部地球科学系・理学研究科 地学専攻 地殻進化学グループ
+                </div>
             </h2>
+
+
+
+
+
+
+
+            <!-- <h2 class="pb-2 text-2xl font-light text-gray-800 dark:text-gray-300 md:text-2xl"> -->
+
+            <!-- 東北大学理学部地球科学系・理学研究科 -->
+            <!-- <br>地学専攻 地殻進化学グループ -->
+
+            <!-- {{ .Site.Params.Moto }} -->
+            <!-- </h2> -->
             <p
                 class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
                 {{ .Site.Params.Description }}
@@ -100,7 +154,7 @@
             <div class="relative max-w-md px-4 mx-auto sm:max-w-3xl sm:px-6 lg:px-0">
                 <div class="md:pt-12 sm:pt-6 lg:pt-5">
                     <!-- <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl"> -->
-                        <!-- {{ .Site.Params.P1.Heading }} -->
+                    <!-- {{ .Site.Params.P1.Heading }} -->
                     <!-- </h2> -->
                     <div class="mt-6 text-gray-900 dark:text-white">
                         <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
