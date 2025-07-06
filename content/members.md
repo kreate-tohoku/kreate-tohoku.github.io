@@ -58,9 +58,9 @@ featured_image: ../assets/images/featured/bird.JPG
 <span class = boldsymbol>辻森 樹 (Tsujimori, Tatsuki) | 教授</span>
 <br>
 <div class="orcid">ORCID: https://orcid.org/0000-0001-9202-7312</div>
-<span class="box">研究</span>変成岩から探る沈み込み帯と固体地球の時空間的進化
+<span class="box">研究</span> 変成岩から探る沈み込み帯と固体地球の時空間的進化
 <br>
-<span class="box">趣味</span>電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 <span class="box">好きな時代</span>クライオジェニアン<span class="box">好きな鉱物</span>藍閃石
+<span class="box">趣味</span> 電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 <span class="box">好きな時代</span> クライオジェニアン<span class="box">好きな鉱物</span> 藍閃石
 <br>
 </div>
 
@@ -84,10 +84,10 @@ featured_image: ../assets/images/featured/bird.JPG
 <span class=boldsymbol>古川 旦 (Furukawa, Tan) | D2 </span>
 <div class="program">高等大学院国際卓越研究者育成支援プログラム（AGS RISE Program）</div>
 <div class="orcid">ORCID: https://orcid.org/0000-0002-8512-6985</div>
-<span class="box">研究</span>岩石組織の数理
+<span class="box">研究</span> 岩石組織の数理
 <br>
-<span class="box">趣味</span>砂金・化石・野草・きのこ・園芸・鳥
-<span class="box">好きな時代</span>石炭紀<span class="box">好きな鉱物</span>金
+<span class="box">趣味</span> 砂金・化石・野草・きのこ・園芸・鳥
+<span class="box">好きな時代</span> 石炭紀 <span class="box">好きな鉱物</span> 金
 <br>
 </div>
 
@@ -206,11 +206,17 @@ featured_image: ../assets/images/featured/bird.JPG
 </div>
 
 <div class="photo-box">
-<img src="/images/acon.jpg" class="thumb">
+<img src="/images/members/AokaHoashi.jpg" class="thumb">
 <span class=boldsymbol>帆足 碧夏 (Hoashi, Aoka) | B4</span>
+<br>
+<span class="box">研究</span> 変成岩(青色片岩)
+<br>
+<span class="box">趣味</span> 芸術/創作活動・自然/野鳥観察
+<br>
+<span class="box">好きな時代</span> チトニアン
+<span class="box">好きな鉱物</span> 藍閃石
 
-専門:
-趣味:
+
 </div>
 
 <div class="photo-box">
