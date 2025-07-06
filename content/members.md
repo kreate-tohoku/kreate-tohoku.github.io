@@ -164,8 +164,8 @@ featured_image: ../assets/images/featured/bird.JPG
 <span class="box">研究</span> カーボナタイト
 <br>
 <span class="box">趣味</span> 読書・お風呂
-<span class="box">好きな鉱物</span> 燐灰石
 <span class="box">好きな時代</span> カンブリア紀
+<span class="box">好きな鉱物</span> 燐灰石
 <br>
 <br>
 </div>
@@ -177,8 +177,8 @@ featured_image: ../assets/images/featured/bird.JPG
 <br>
 <span class="box">趣味</span> 岩石・鉱物
 <br>
-<span class="box">好きな鉱物</span>ひすい輝石
 <span class="box">好きな時代</span> セノマニアン
+<span class="box">好きな鉱物</span>ひすい輝石
 
 
 
