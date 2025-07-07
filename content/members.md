@@ -226,7 +226,7 @@ featured_image: ../assets/images/featured/bird.JPG
   <div class="contents">
     <span class="box">研究</span> 変成岩
     <br>
-    <span class="box">趣味</span> 岩石・鉱物
+    <span class="box">趣味</span> 岩石・鉱物・テニス
     <span class="box">好きな時代</span> セノマニアン
     <span class="box">好きな鉱物</span> 奴奈川石
 
@@ -283,7 +283,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
   <img src="/images/members/NaotakaTakino.jpg" class="thumb">
-  <span class=boldsymbol>瀧野　直峻 (Takino, Naokata) </span>
+  <span class=boldsymbol>瀧野　直峻 (Takino, Naotaka) </span>
   <br>
   <div class="contents">
     <span class=box>研究</span> 岩石中のヒ素、アンチモンの挙動
@@ -310,8 +310,16 @@ featured_image: ../assets/images/featured/bird.JPG
 </div>
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/HirotoKitawada.jpg" class="thumb">
   <span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto)</span>
+  <br>
+  <div class="contents">
+    <span class=box>研究</span>未定
+    <br>
+    <span class=box>趣味</span> ゲーム、18きっぷでの旅行、ゴルフ、音楽鑑賞
+    <span class=box>好きな時代</span> 第四紀
+    <span class=box>好きな鉱物</span> ひすい輝石
+  </div>
 </div>
 
 <div class="photo-box">
