@@ -116,22 +116,36 @@ featured_image: ../assets/images/featured/bird.JPG
 
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/BoldMunkhdelger.jpg" class="thumb">
   <span class=boldsymbol>ボルド ムンフデルゲル (Bold, Munkhdelger)</span>
   <br>
   <div class="orcid">ORCID: https://orcid.org/0009-0005-9918-0551</div>
   専門:
   趣味:
+
+
+  <div class="contents">
+    <span class="box">研究</span> Evolution of the Continental Crust, Carbonatite, REE mineralization
+    <br>
+    <span class="box">趣味</span> volleyball, watching movie
+    <span class="box">好きな時代</span> トニアン
+    <span class="box">好きな鉱物</span> ジルコン
+  </div>
 </div>
 
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
-  <span class=boldsymbol>志関 弘平 (Shizeki, Kohei)</span>
+  <img src="/images/members/KoheiShiseki.jpg" class="thumb">
+  <span class=boldsymbol>志関 弘平 (Shiseki, Kohei)</span>
   <br>
   <div class="orcid">ORCID: https://orcid.org/0000-0002-1230-2319</div>
-  専門:
-  趣味:
+  <div class="contents">
+    <span class="box">研究</span> 高圧変成岩上昇機構
+    <br>
+    <span class="box">趣味</span> アルペンスキー、ロードバイク、クラシック音楽、化石、日本酒
+    <span class="box">好きな時代</span> アプチアン
+    <span class="box">好きな鉱物</span> オンファス輝石
+  </div>
   <br>
 </div>
 
@@ -210,7 +224,7 @@ featured_image: ../assets/images/featured/bird.JPG
 ### M1
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/KoyoTamura.jpg" class="thumb">
   <span class=boldsymbol>田村 航遥 (Tamura, Koyo)</span>
   <br>
   <div class="contents">
@@ -230,11 +244,15 @@ featured_image: ../assets/images/featured/bird.JPG
 </div>
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/FloraMhindi.jpg" class="thumb">
   <span class=boldsymbol>ミンディ フローラ (Mhindi, Flora) </span>
-
-  専門:
-  趣味:
+  <div class="contents">
+    <span class="box">研究</span> Carbonatites
+    <br>
+    <span class="box">趣味</span> Reading novels and cooking
+    <span class="box">好きな時代</span> 新生代
+    <span class="box">好きな鉱物</span> タンザナイト
+  </div>
 </div>
 
 ## 学部生 / Undergraduate student
@@ -243,11 +261,15 @@ featured_image: ../assets/images/featured/bird.JPG
 ### B4
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/HarutoKono.jpg" class="thumb">
   <span class=boldsymbol>河野 晴大 (Kono, Haruto)</span>
-
-  専門:
-  趣味:
+  <div class="contents">
+    <span class="box">研究</span> 分子動力学計算、第一原理計算
+    <br>
+    <span class="box">趣味</span> 音楽、映画
+    <span class="box">好きな時代</span> チバニアン
+    <span class="box">好きな鉱物</span> 翡翠
+  </div>
 </div>
 
 <div class="photo-box">
@@ -265,7 +287,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
   <img src="/images/members/NaotakaTakino.jpg" class="thumb">
-  <span class=boldsymbol>滝野　直峻 (Takino, Naokata) </span>
+  <span class=boldsymbol>瀧野　直峻 (Takino, Naokata) </span>
   <br>
   <div class="contents">
     <span class=box>研究</span> 岩石中のヒ素、アンチモンの挙動
@@ -280,7 +302,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
   <img src="/images/members/TomoyaHashimoto.jpg" class="thumb">
-  <span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya) | B3</span>
+  <span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya)</span>
   <br>
   <div class="contents">
     <span class=box>研究</span>アストロジオロジー
@@ -293,18 +315,17 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
   <img src="/images/acon.jpg" class="thumb">
-  <span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto) | B3</span>
+  <span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto)</span>
 </div>
 
 <div class="photo-box">
   <img src="/images/members/NanaSuzuki.jpg" class="thumb">
-  <span class=boldsymbol>鈴木　那菜 (Suzuki, Nana) | B3</span>
+  <span class=boldsymbol>鈴木　那菜 (Suzuki, Nana)</span>
   <br>
   <div class="contents">
     <span class=box>研究</span>BIF
     <br>
     <span class=box>趣味</span>散歩・音楽鑑賞
     <span class=box>好きな時代</span> エディアカラン
-    <span class=box>好きな鉱物</span> サヌカイト
   </div>
 </div>
