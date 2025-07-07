@@ -109,7 +109,7 @@ featured_image: ../assets/images/featured/bird.JPG
     <span class="box">研究</span> 岩石組織の数理
     <br>
     <span class="box">趣味</span> 砂金・化石・野草・きのこ・園芸・鳥
-    <span class="box">好きな時代</span> 石炭紀 <span class="box">好きな鉱物</span> 金
+    <span class="box">好きな時代</span> 石炭紀 <span class="box">好きな鉱物</span> 自然金
   </div>
 </div>
 
@@ -120,10 +120,6 @@ featured_image: ../assets/images/featured/bird.JPG
   <span class=boldsymbol>ボルド ムンフデルゲル (Bold, Munkhdelger)</span>
   <br>
   <div class="orcid">ORCID: https://orcid.org/0009-0005-9918-0551</div>
-  専門:
-  趣味:
-
-
   <div class="contents">
     <span class="box">研究</span> Evolution of the Continental Crust, Carbonatite, REE mineralization
     <br>
@@ -232,7 +228,7 @@ featured_image: ../assets/images/featured/bird.JPG
     <br>
     <span class="box">趣味</span> 岩石・鉱物
     <span class="box">好きな時代</span> セノマニアン
-    <span class="box">好きな鉱物</span>ひすい輝石
+    <span class="box">好きな鉱物</span> 奴奈川石
 
   </div>
 
