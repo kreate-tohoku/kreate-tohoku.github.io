@@ -85,12 +85,14 @@ featured_image: ../assets/images/featured/bird.JPG
 
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/NaokoTakahashi.jpg" class="thumb">
   <span class=boldsymbol>高橋 菜緒子 (Takahashi, Naoko) | 助教 </span>
-  <br>
-  <div class="orcid">ORCID: https://orcid.org/0000-0002-3518-8934</div>
-  専門:
-  趣味:
+  <div class="contents">
+    <div class="orcid">ORCID: https://orcid.org/0000-0002-3518-8934</div>
+    <span class="box">研究</span> 岩石ー水相互作用、地質流体の物理化学的性質、高温高圧実験
+    <br>
+    <span class="box">趣味</span> お菓子・パン作り、スポーツ（サイクリング・スノボ）
+  </div>
 </div>
 
 
@@ -157,12 +159,17 @@ featured_image: ../assets/images/featured/bird.JPG
 ### M2
 
 <div class="photo-box">
-  <img src="/images/acon.jpg" class="thumb">
+  <img src="/images/members/KeiSugiura.jpg" class="thumb">
   <span class=boldsymbol>杉浦 慶 (Sugiura, Kei)</span>
   <br>
   <div class="orcid">ORCID: https://orcid.org/0000-0002-9168-9274</div>
-  専門:
-  趣味:
+  <div class="contents">
+    <span class="box">研究</span> 北米カリフォルニア州最初期の蛇紋岩ダイアピルのホウ素同位体組成
+    <br>
+    <span class="box">趣味</span> 散歩、コーヒー喫茶巡り
+    <span class="box">好きな時代</span> 太古代
+    <span class="box">好きな鉱物</span> ザクロ石
+  </div>
   <br>
 </div>
 
