@@ -301,11 +301,11 @@ featured_image: ../assets/images/featured/bird.JPG
   <span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya)</span>
   <br>
   <div class="contents">
-    <span class=box>研究</span>アストロジオロジー
+    <span class=box>研究</span> アストロジオロジー
     <br>
-    <span class=box>趣味</span>バイク・鉱物・自然散策
-    <span class=box>好きな時代</span>オルドビス紀
-    <span class=box>好きな鉱物</span>藍晶石
+    <span class=box>趣味</span> バイク・鉱物・自然散策
+    <span class=box>好きな時代</span> オルドビス紀
+    <span class=box>好きな鉱物</span> 藍晶石
   </div>
 </div>
 
@@ -314,7 +314,7 @@ featured_image: ../assets/images/featured/bird.JPG
   <span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto)</span>
   <br>
   <div class="contents">
-    <span class=box>研究</span>未定
+    <span class=box>研究</span> 未定
     <br>
     <span class=box>趣味</span> ゲーム、18きっぷでの旅行、ゴルフ、音楽鑑賞
     <span class=box>好きな時代</span> 第四紀
@@ -327,9 +327,9 @@ featured_image: ../assets/images/featured/bird.JPG
   <span class=boldsymbol>鈴木　那菜 (Suzuki, Nana)</span>
   <br>
   <div class="contents">
-    <span class=box>研究</span>BIF
+    <span class=box>研究</span> BIF
     <br>
-    <span class=box>趣味</span>散歩・音楽鑑賞
+    <span class=box>趣味</span> 散歩・音楽鑑賞
     <span class=box>好きな時代</span> エディアカラン
   </div>
 </div>
