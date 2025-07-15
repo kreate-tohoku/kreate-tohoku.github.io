@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags/などシンポ on KREATE</title>
+    <link>http://localhost:1313/tags/%E3%81%AA%E3%81%A9%E3%82%B7%E3%83%B3%E3%83%9D/</link>
+    <description>Recent content in Tags/などシンポ on KREATE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%81%AA%E3%81%A9%E3%82%B7%E3%83%B3%E3%83%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>変成岩などシンポジウム＠青葉サイエンスホール</title>
+      <link>http://localhost:1313/posts/2025-03-12-meta-sympo/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-03-12-meta-sympo/</guid>
+      <description>2025年変成岩などシンポジウム開催・参加報告</description>
+    </item>
+  </channel>
+</rss>

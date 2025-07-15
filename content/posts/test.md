@@ -1,7 +1,7 @@
 ---
 title: "どんぐりを収穫しました(サンプルページ)"
 date: 2024-09-04
-draft: false
+draft: true
 language: ja
 featured_image: ../assets/images/posts/example/acon.jpg
 summary: どんぐりのレシピをまとめました。この記事はしばらくしたら消滅します。
