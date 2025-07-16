@@ -3,7 +3,7 @@ title: "変成岩などシンポジウム＠青葉サイエンスホール"
 date: 2025-03-12
 draft: false
 language: ja
-featured_image: ../assets/images/posts/example/acon.jpg
+featured_image: ../assets/images/posts/2025-03-12-meta-sympo.jpg
 summary: 2025年変成岩などシンポジウム開催・参加報告
 author: 梅宮 穂花
 categories: 学会

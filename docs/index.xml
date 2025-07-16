@@ -1,1426 +1,298 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>KREATE</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on KREATE</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 21:20:13 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sequestration of carbon in the forearc mantle wedge</title>
-      <link>http://localhost:1313/publications/2025_wu/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025_wu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>糸魚川巡検</title>
-      <link>http://localhost:1313/posts/2025-06-09-itoigawa/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-09-itoigawa/</guid>
-      <description>新潟県糸魚川市に巡検に行きました</description>
-    </item>
-    <item>
-      <title>四国・中国山地の地質巡検を行いました！</title>
-      <link>http://localhost:1313/posts/2025-06-05-shikoku/</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-05-shikoku/</guid>
-      <description>2025/6/5(木)から6/7(土)にかけて、本研究室の辻森教授とB4帆足で四国・中国山地巡検に行ってきました！</description>
-    </item>
-    <item>
-      <title>Heavy Si isotope compositions of subduction zone fluids controlled by fluid-rock interaction and fluid evolution</title>
-      <link>http://localhost:1313/publications/2025_chen/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025_chen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>花見&#43;歓迎会</title>
-      <link>http://localhost:1313/posts/2025-04-14-cherry-blossom-party/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-04-14-cherry-blossom-party/</guid>
-      <description>春から来日した、中国人のD3のKunとタンザニア人のM1のFloraにJapanese cultureを感じてほしいという思いから、4年生の歓迎会を兼ねて花見を開催しました。</description>
-    </item>
-    <item>
-      <title>４年生正式配属</title>
-      <link>http://localhost:1313/posts/2025-04-01-new-b4/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-04-01-new-b4/</guid>
-      <description>４年生が３名配属しました。</description>
-    </item>
-    <item>
-      <title>研究室引っ越し</title>
-      <link>http://localhost:1313/posts/2025-04-01-moving/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-04-01-moving/</guid>
-      <description>&lt;p&gt;地殻進化学研究室は、川内キャンパス・東北アジア研究センターから青葉山キャンパス・地学棟へ移転しました。&#xA;当研究室にあるラマン分光装置も無事に地学棟に搬入し、立ち上げまで順調に完了しました。&#xA;また、今回の引っ越しでは地学専攻技術室の皆様に多大なるご協力をいただきました。本当にありがとうございました。&lt;/p&gt;&#xA;&lt;p&gt;現在も少しずつ改良しながら、快適に研究できる実験室づくりを進めています！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>高橋菜緒子助教が着任しました！</title>
-      <link>http://localhost:1313/posts/2025-04-01-takahashi/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-04-01-takahashi/</guid>
-      <description>&lt;p&gt;2025年4月に東北大学大学院理学研究科地学専攻地圏進化学講座に高橋菜緒子・助教が着任されました。&#xA;研究室の学生から誕生日ケーキのお祝いをいただきました。皆様、ありがとうございました。（高橋）&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>卒業式</title>
-      <link>http://localhost:1313/posts/2025-03-25-graduation/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-03-25-graduation/</guid>
-      <description>卒業式が行われました</description>
-    </item>
-    <item>
-      <title>Rutile solubility in aqueous sodium salt solutions at high pressures and temperatures: in-situ observations using a diamond anvil cell</title>
-      <link>http://localhost:1313/publications/2025_takahashi/</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025_takahashi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>令和6年度 青葉理学振興会各授与式・講演会にて本研究の学生2名が表彰されました！</title>
-      <link>http://localhost:1313/posts/2025-03-15-aoba/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-03-15-aoba/</guid>
-      <description>2025年3月14日(金)、多目的室にて「令和6年度 青葉理学振興会 各賞授与式・講演会」が行われました。</description>
-    </item>
-    <item>
-      <title>変成岩などシンポジウム＠青葉サイエンスホール</title>
-      <link>http://localhost:1313/posts/2025-03-12-meta-sympo/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-03-12-meta-sympo/</guid>
-      <description>2025年変成岩などシンポジウム開催・参加報告</description>
-    </item>
-    <item>
-      <title>Extremely heavy Ca isotope compositions of rodingites in the oceanic lithosphere formed by fluid-rock interaction: Implications for the discrimination of light Mg isotope components</title>
-      <link>http://localhost:1313/publications/2025_zhao/</link>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025_zhao/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The exhumation impact onto fluid-mobile element budget and local Rb-Sr isotope heterogeneity of the subducted eclogitic crust (Alag-Khadny, SW Mongolia)</title>
-      <link>http://localhost:1313/publications/2024_skuzovatov/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_skuzovatov/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experimental constraints on serpentinite carbonation in the presence of a H2O–CO2–NaCl fluid</title>
-      <link>http://localhost:1313/publications/2024_huang/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_huang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cold-subduction biogeodynamics boost deep energy delivery to the forearc</title>
-      <link>http://localhost:1313/publications/2025_peverelli/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025_peverelli/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Cahn–Hilliard model of coherent lamellar microstructure: Application to alkali feldspar</title>
-      <link>http://localhost:1313/publications/2024_furukawa/</link>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_furukawa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>阿武隈山地東縁を探る：南部北上帯の高圧型片岩類と横ずれ剪断帯のフィールドガイド [Exploring the Eastern Abukuma Mountains: A field guide to high-pressure metamorphic rocks and strike-slip crustal shear zones in the Southern Kitakami Belt, NE Japan]</title>
-      <link>http://localhost:1313/publications/2024_tsujimori_b/</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrological, geochemical and mineralogical characteristics of Wigu Hill carbonatite, Uluguru Mountains, Tanzania: Insights into carbonatite evolution and REE mineralization</title>
-      <link>http://localhost:1313/publications/2024_moshi/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_moshi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Isochemical metamorphism origin of the newly discovered Baqing jadeitoid, eastern-central Tibet, China</title>
-      <link>http://localhost:1313/publications/2024_jin/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_jin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulation of microtextural evolution in omphacite: Ordering transformation kinetics as unexplored archives of slab eclogitization</title>
-      <link>http://localhost:1313/publications/2024_fukushima/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_fukushima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Regional-scale Paleoproterozoic heating event on Archean Acasta gneisses in Slave Province, Canada: Insights from K-Ar and 40Ar/39Ar chronology</title>
-      <link>http://localhost:1313/publications/2024_sato/</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_sato/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crystallographic features of omphacite in lawsonite-eclogite xenolith from Colorado Plateau</title>
-      <link>http://localhost:1313/publications/2024_fukushima_a/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_fukushima_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>平凡社『最新 地学事典』43収録項目</title>
-      <link>http://localhost:1313/publications/2024_tsujimori_a/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Methane genesis within olivine-hosted fluid inclusions in dolomitic marble of the Hida Belt, Japan</title>
-      <link>http://localhost:1313/publications/2024_harada/</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_harada/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>地球史マップ　誕生・進化・流転の全記録</title>
-      <link>http://localhost:1313/publications/2024_grataloup/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024_grataloup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Progressive lawsonite eclogitization of the oceanic crust: Implications for deep mass transfer in subduction zones</title>
-      <link>http://localhost:1313/publications/2023_hernandez/</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023_hernandez/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A new evaluation method of cation ordering history in eclogite-facies omphacite</title>
-      <link>http://localhost:1313/publications/2023_fukushima/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023_fukushima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In situ argon isotope analyses of chondrule-forming materials in the Allende Meteorite: a Preliminary study for 40Ar/39Ar dating based on cosmogenic 39Ar</title>
-      <link>http://localhost:1313/publications/2023_takeshima/</link>
-      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023_takeshima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Editorial: Seeing convergent margin processes through metamorphism</title>
-      <link>http://localhost:1313/publications/2022_chen/</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_chen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Age, petrogenesis, and tectonic implications of the late Permian magmatic rocks in the Middle Gobi volcanoplutonic Belt, Mongolia</title>
-      <link>http://localhost:1313/publications/2022_ganbat_a/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_ganbat_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Editorial of the special issue, “Evolution and tectonic correlations of East and South Asia: A geochemical, petrological and tectonic perspective”</title>
-      <link>http://localhost:1313/publications/2022_oh/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_oh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>プレート境界岩総合解析によるオロゲン地質記録と変成プロセスの研究 [Orogenic and metamorphic processes in plate boundaries: Synopsis and future directions]</title>
-      <link>http://localhost:1313/publications/2022_tsujimori/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nanoscale cation-diffusion modeling in garnet-hosted omphacite: A preliminary result</title>
-      <link>http://localhost:1313/publications/2022_fukushima/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_fukushima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In-situ Raman spectroscopic analysis of dissolved silica structures in Na2CO3 and NaOH solutions at high pressure and temperature</title>
-      <link>http://localhost:1313/publications/2022_takahashi/</link>
-      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_takahashi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neoproterozoic eclogite-to granulite-facies transition in the Ubendian Belt, Tanzania, and the timescale of continental collision</title>
-      <link>http://localhost:1313/publications/2022_morita/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022_morita/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;KREATE（KR8）は、2024年12月1日に東北大学大学院理学研究科 地球科学専攻 地圏環境科学講座に新たに設立された研究グループです。KREATEという名称は、「Key Research in Earth, Astrogeology, and Tectonic Evolution（地球・宇宙地質学・テクトニクス進化に関する重要研究）」の頭文字を取ったもので、「創造（Create）」を重視し、柔軟な発想で研究に挑む姿勢を表しています。略称の「KR8」は、“KR”と、“KREATE”の後半部分“EATE”を組み合わせたもので、“EATE”の発音が数字の“8（エイト）”に似ていることに由来します。&lt;/p&gt;&#xA;&lt;p&gt;KR8では、地質学的なフィールド観察に加え、岩石学・鉱物学・地球化学的手法、数値シミュレーションや実験的アプローチを融合させて、地球に限らず多様な地質プロセスの理解を深めることを目指しています。&lt;/p&gt;&#xA;&lt;p&gt;私たちは、世界中の学生、ポスドク研究者、そして共同研究者の皆さんの参加を心より歓迎します。&lt;/p&gt;&#xA;&lt;p&gt;About KREATE&#xA;KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the Division of Geoenvironmental Science, Department of Earth Science, Graduate School of Science, Tohoku University. The name “KREATE” stands for “Key Research in Earth, Astrogeology, and Tectonic Evolution,” reflecting our dedication to fostering creativity (Create) and undertaking flexible challenges in research. The simplified abbreviation “KR8” combines “KR” and “EATE”—the latter part of “KREATE,” which is phonetically similar to “8 (eight).”&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Members</title>
-      <link>http://localhost:1313/members/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/members/</guid>
-      <description>&lt;!-- Markdown の上部などで &lt;style&gt; を書ける環境なら --&gt;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;  .img-left {&#xD;&#xA;    float: left;&#xD;&#xA;    width: 120px;&#xD;&#xA;    /* 写真サイズ */&#xD;&#xA;    margin: 0 1rem 1rem 0;&#xD;&#xA;    /* 右と下に余白 */&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .photo-box {&#xD;&#xA;    /* ↓ これだけで内部の float が div の外へはみ出さない */&#xD;&#xA;    overflow: hidden;&#xD;&#xA;    /* 親に BFC を作らせる */&#xD;&#xA;    margin-bottom: 1rem;&#xD;&#xA;    /* ブロック間の余白 */&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .orcid {&#xD;&#xA;    font-size: small;&#xD;&#xA;    padding: 0;&#xD;&#xA;    margin-top: 2px;&#xD;&#xA;    margin-bottom: 2px;&#xD;&#xA;    line-height: 1.0em;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .program {&#xD;&#xA;    font-size: small;&#xD;&#xA;    padding: 0;&#xD;&#xA;    margin-top: 4px;&#xD;&#xA;    line-height: 1.0em;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .thumb {&#xD;&#xA;    float: left;&#xD;&#xA;    width: 120px;&#xD;&#xA;    margin: 0 0.3rem 0.2rem 0;&#xD;&#xA;    /* 右と下に余白 */&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .boldsymbol {&#xD;&#xA;    font-weight: bold;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .box {&#xD;&#xA;    font-size: 0.9em;&#xD;&#xA;    margin: 0rem 0.2rem 0rem 0.2rem;&#xD;&#xA;    /* 右と下に余白 */&#xD;&#xA;    padding: 0.1rem 0.2rem 0.1rem 0.2rem;&#xD;&#xA;    /* 右と下に余白 */&#xD;&#xA;    border: solid 1px;&#xD;&#xA;    border-radius: 4px;&#xD;&#xA;    white-space: nowrap;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .contents {&#xD;&#xA;    font-size: 0.9em;&#xD;&#xA;    line-height: 1.5em;&#xD;&#xA;  }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h2 id=&#34;教員--faculty-members&#34;&gt;教員 / Faculty members&lt;/h2&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/TatsukiTsujimori.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;辻森 樹 (Tsujimori, Tatsuki) | 教授&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0000-0001-9202-7312&lt;/div&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 変成岩から探る沈み込み帯と固体地球の時空間的進化&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; クライオジェニアン&lt;span&#xD;&#xA;      class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 藍閃石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/NaokoTakahashi.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;高橋 菜緒子 (Takahashi, Naoko) | 助教 &lt;/span&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0000-0002-3518-8934&lt;/div&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 岩石ー水相互作用、地質流体の物理化学的性質、高温高圧実験&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; お菓子・パン作り、スポーツ（サイクリング・スノボ）&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;博士課程--doctoral-student&#34;&gt;博士課程 / Doctoral student&lt;/h2&gt;&#xA;&lt;h3 id=&#34;d2&#34;&gt;D2&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/TanFurukawa.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;古川 旦 (Furukawa, Tan)&lt;/span&gt;&#xD;&#xA;  &lt;div class=&#34;program&#34;&gt;高等大学院国際卓越研究者育成支援プログラム&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0000-0002-8512-6985&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 岩石組織の数理&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 砂金・化石・野草・きのこ・園芸・鳥&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; 石炭紀 &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 自然金&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/BoldMunkhdelger.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;ボルド ムンフデルゲル (Bold, Munkhdelger)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0009-0005-9918-0551&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; Evolution of the Continental Crust, Carbonatite, REE mineralization&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; volleyball, watching movie&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; トニアン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; ジルコン&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/KoheiShiseki.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;志関 弘平 (Shiseki, Kohei)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0000-0002-1230-2319&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 高圧変成岩上昇機構&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; アルペンスキー、ロードバイク、クラシック音楽、化石、日本酒&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; アプチアン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; オンファス輝石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;特別研究生&#34;&gt;特別研究生&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/ChenKun.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;陈 坤 (Chen, Kun)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0009-0002-0802-6494&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; Subduction zone fluid, stable isotope, jadeitite, UHT metamophism&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; badminton, swimming, guitar, Ping-Pong&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; 顕生代&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; ひすい輝石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;修士課程--masters-student&#34;&gt;修士課程 / Master&amp;rsquo;s student&lt;/h2&gt;&#xA;&lt;h3 id=&#34;m2&#34;&gt;M2&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/KeiSugiura.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;杉浦 慶 (Sugiura, Kei)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;orcid&#34;&gt;ORCID: https://orcid.org/0000-0002-9168-9274&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 北米カリフォルニア州最初期の蛇紋岩ダイアピルのホウ素同位体組成&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 散歩、コーヒー喫茶巡り&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; 太古代&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; ザクロ石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/SomaKosuke.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;相馬 耕助 (Soma, Kosuke)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; シンプレクタイト形成の数理&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 散歩、旅行、ポケモン、ハンドボール、バドミントン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt;人新世&lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt;ひすい輝石&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/HonokaUmemiya.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;梅宮 穂花 (Umemiya, Honoka)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;program&#34;&gt;東北大学変動地球共生学卓越大学院プログラム&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; カーボナタイト&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 読書・お風呂&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; カンブリア紀&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 燐灰石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;m1&#34;&gt;M1&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/KoyoTamura.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;田村 航遥 (Tamura, Koyo)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 変成岩&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 岩石・鉱物・テニス&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; セノマニアン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 奴奈川石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/FloraMhindi.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;ミンディ フローラ (Mhindi, Flora) &lt;/span&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; Carbonatites&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; Reading novels and cooking&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; 新生代&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; タンザナイト&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;学部生--undergraduate-student&#34;&gt;学部生 / Undergraduate student&lt;/h2&gt;&#xA;&lt;h3 id=&#34;b4&#34;&gt;B4&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/HarutoKono.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;河野 晴大 (Kono, Haruto)&lt;/span&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 分子動力学計算、第一原理計算&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 音楽、映画&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; チバニアン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 翡翠&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/AokaHoashi.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;帆足 碧夏 (Hoashi, Aoka)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;研究&lt;/span&gt; 変成岩(青色片岩)&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;趣味&lt;/span&gt; 芸術/創作活動・自然/野鳥観察&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな時代&lt;/span&gt; チトニアン&#xD;&#xA;    &lt;span class=&#34;box&#34;&gt;好きな鉱物&lt;/span&gt; 藍閃石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/NaotakaTakino.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;瀧野　直峻 (Takino, Naotaka) &lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=box&gt;研究&lt;/span&gt; 岩石中のヒ素、アンチモンの挙動&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=box&gt;趣味&lt;/span&gt; 陸上競技、スキー&#xD;&#xA;    &lt;span class=box&gt;好きな時代&lt;/span&gt; NOW&#xD;&#xA;    &lt;span class=box&gt;好きな鉱物&lt;/span&gt; 辰砂&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;b3&#34;&gt;B3&lt;/h3&gt;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/TomoyaHashimoto.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;橋本　朋弥 (Hashimoto, Tomoya)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=box&gt;研究&lt;/span&gt; アストロジオロジー&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=box&gt;趣味&lt;/span&gt; バイク・鉱物・自然散策&#xD;&#xA;    &lt;span class=box&gt;好きな時代&lt;/span&gt; オルドビス紀&#xD;&#xA;    &lt;span class=box&gt;好きな鉱物&lt;/span&gt; 藍晶石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/HirotoKitawada.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;北和田　浩人 (Kitawada, Hiroto)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=box&gt;研究&lt;/span&gt; 未定&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=box&gt;趣味&lt;/span&gt; ゲーム、18きっぷでの旅行、ゴルフ、音楽鑑賞&#xD;&#xA;    &lt;span class=box&gt;好きな時代&lt;/span&gt; 第四紀&#xD;&#xA;    &lt;span class=box&gt;好きな鉱物&lt;/span&gt; ひすい輝石&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;photo-box&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/members/NanaSuzuki.jpg&#34; class=&#34;thumb&#34;&gt;&#xD;&#xA;  &lt;span class=boldsymbol&gt;鈴木　那菜 (Suzuki, Nana)&lt;/span&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;div class=&#34;contents&#34;&gt;&#xD;&#xA;    &lt;span class=box&gt;研究&lt;/span&gt; BIF&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;span class=box&gt;趣味&lt;/span&gt; 散歩・音楽鑑賞&#xD;&#xA;    &lt;span class=box&gt;好きな時代&lt;/span&gt; エディアカラン&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
-      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
-      <guid>http://localhost:1313/tags/</guid>
-      <description>&lt;p&gt;aaaa&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Late Paleozoic–Early Mesozoic granitoids in the Khangay–Khentey basin, Central Mongolia: Implication for the tectonic evolution of the Mongol–Okhotsk Ocean margin</title>
-      <link>http://localhost:1313/publications/2021_ganbat_c/</link>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_ganbat_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New tectonic model and division of the Ubendian–Usagaran Belt, Tanzania: A review and in-situ dating of eclogites</title>
-      <link>http://localhost:1313/publications/2021_boniface/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_boniface/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>第3章 科学教育イニシアチブ(SEI)による変革の過程</title>
-      <link>http://localhost:1313/publications/2021_tsujimori_b/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nature and timing of anatectic event of the Hida Belt (Japan): Constraints from titanite geochemistry and U-Pb age of clinopyroxene-bearing leucogranite</title>
-      <link>http://localhost:1313/publications/2021_harada_b/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_harada_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cretaceous to Miocene NW Pacific Plate kinematic constraints: Paleomagnetism and Ar-Ar geochronology in the Mineoka Ophiolite Mélange (Japan)</title>
-      <link>http://localhost:1313/publications/2021_ganbat_b/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_ganbat_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evidence for crustal removal, tectonic erosion and flare-ups from the Japanese evolving forearc sediment provenance</title>
-      <link>http://localhost:1313/publications/2021_pastor-galan/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_pastor-galan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Revising antiphase domains in eclogitefacies omphacites</title>
-      <link>http://localhost:1313/publications/2021_fukushima_b/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_fukushima_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evidences for multistage and polychronous alkaline-ultrabasic Mesozoic magmatism in area of alluvial diamondiferous placers of the Anabar river basin (eastern slope of the Anabar shield)</title>
-      <link>http://localhost:1313/publications/2021_malkovets/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_malkovets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Various antiphase domains in garnet-hosted omphacite in low temperature eclogite: A FIB–TEM study on heterogeneous ordering processes</title>
-      <link>http://localhost:1313/publications/2021_fukushima_c/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_fukushima_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model</title>
-      <link>http://localhost:1313/publications/2021_fukushima_a/</link>
-      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_fukushima_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Crustal evolution of the Paleoproterozoic Ubendian Belt (SW Tanzania) western margin: A Central African Shield amalgamation tale</title>
-      <link>http://localhost:1313/publications/2021_ganbat_a/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_ganbat_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The δ13C–δ18O variations in marble in the Hida Belt, Japan</title>
-      <link>http://localhost:1313/publications/2021_harada_a/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_harada_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Temporal and spatial mineralogical changes in clasts from Mariana serpentinite mud volcanoes: Cooling of the hot forearc mantle at subduction initiation</title>
-      <link>http://localhost:1313/publications/2021_ichiyama/</link>
-      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_ichiyama/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclogites in different tectonic settings</title>
-      <link>http://localhost:1313/publications/2021_tsujimori_a/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reappraisal of the oldest high-pressure type schist in Japan: New zircon U-Pb age of the Kitomyo Schist of the Kurosegawa Belt</title>
-      <link>http://localhost:1313/publications/2021_matsunaga/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2021_matsunaga/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[論点] 国内拠点の国際学術ジャーナルは必要か？</title>
-      <link>http://localhost:1313/publications/2020_tsujimori_c/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retrograde phases of former bridgmanite inclusions in superdeep diamonds</title>
-      <link>http://localhost:1313/publications/2020_zedgenizov/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_zedgenizov/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reappraisal of natural omphacite: To see a world in a nanoscale domain</title>
-      <link>http://localhost:1313/publications/2020_tsujimori_b/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Tekturmas ophiolite belt of central Kazakhstan: Geology, magmatism and tectonics</title>
-      <link>http://localhost:1313/publications/2020_khassen/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_khassen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Editorial of the special issue &#39;Subduction and continental collision processes: Petrologic, geochemical and structural perspectives&#39;</title>
-      <link>http://localhost:1313/publications/2020_rehman/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_rehman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Revisiting Pb isotope signatures of Ni–Fe alloy hosted by antigorite serpentinite from the Josephine Ophiolite, USA</title>
-      <link>http://localhost:1313/publications/2020_kakefuda/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_kakefuda/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>世界に誇れる国産ジャーナルをめざして</title>
-      <link>http://localhost:1313/publications/2020_tsujimori_a/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Greetings from the new Editors‐in‐Chief</title>
-      <link>http://localhost:1313/publications/2020_kano/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_kano/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oceanic-arc subduction, stagnation, and exhumation: Zircon U-Pb geochronology and trace-element geochemistry of the Sanbagawa eclogites in central Shikoku, SW Japan</title>
-      <link>http://localhost:1313/publications/2020_aoki/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_aoki/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The Itmurundy Pacific-type orogenic belt in northern Balkhash, central Kazakhstan: Revisited plus first U-Pb age, geochemical and Nd isotope data from igneous rocks</title>
-      <link>http://localhost:1313/publications/2020_safonova/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2020_safonova/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boron isotope compositions of antigorite–grade serpentinites in the Itoigawa–Omi area of the Hida–Gaien Belt, Japan</title>
-      <link>http://localhost:1313/publications/2019_yamada_b/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_yamada_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sr–Pb isotope compositions of lawsonites in a Pacheco Pass metagraywacke, Franciscan Complex, California</title>
-      <link>http://localhost:1313/publications/2019_hara/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_hara/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Two groups of fluid inclusions in the Yunotani eclogite from the Hida–Gaien Belt: Implications for changes of fluid salinity during exhumation</title>
-      <link>http://localhost:1313/publications/2019_shinji_b/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_shinji_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>変成岩と変成作用 (1.鉱物 [地球編：表層])</title>
-      <link>http://localhost:1313/publications/2019_osanai/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_osanai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>一家に１枚 日本列島7億年</title>
-      <link>http://localhost:1313/publications/2019_tsujimori_b/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pillow lava basalts with back-arc MORB affinity from the Usagaran Belt, Tanzania: Relics of Orosirian ophiolites</title>
-      <link>http://localhost:1313/publications/2019_boniface/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_boniface/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>「一家に1枚 日本列島7億年」ポスター</title>
-      <link>http://localhost:1313/publications/2019_tsujimori_a/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boron isotope variations of Franciscan serpentinites, northern California</title>
-      <link>http://localhost:1313/publications/2019_yamada_a/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_yamada_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>日本の国石「ひすい」ーバラエティに富んだ鉱物の国ー（第4章 日本の「国石」ひすい）</title>
-      <link>http://localhost:1313/publications/2019_miyajima/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_miyajima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retrograde pumpellyite in the Yunotani garnet blueschist of the Omi area, Japan: An update on the cooling path</title>
-      <link>http://localhost:1313/publications/2019_shinji_a/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2019_shinji_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[巻頭言] 加速の時代に</title>
-      <link>http://localhost:1313/publications/2018_tsujimori/</link>
-      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2018_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finding of talc- and kyanite-bearing amphibolite from the Paleoproterozoic Usagaran Belt, Tanzania</title>
-      <link>http://localhost:1313/publications/2018_mori/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2018_mori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eldridge M. Moores名誉教授を慎む</title>
-      <link>http://localhost:1313/publications/2018_ogawa/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2018_ogawa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In-situ Sr-Pb isotope geochemistry of lawsonite: A new method to investigate slab-fluids</title>
-      <link>http://localhost:1313/publications/2018_hara/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2018_hara/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In-situ lithium isotope geochemistry for a veined jadeitite from the New Idria serpentinite body, California: Constraints on slab-derived fluid and fluid-rock interaction</title>
-      <link>http://localhost:1313/publications/2018_takahashi/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2018_takahashi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cathodoluminescence petrography of P-type jadeitites from the New Idria serpentinite body, California</title>
-      <link>http://localhost:1313/publications/2017_takahashi/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_takahashi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Early Paleozoic jadeitites in Japan: An overview</title>
-      <link>http://localhost:1313/publications/2017_tsujimori_a/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gem sparkles deep: Preface of the special issue on ‘Jadeite and jadeitite’</title>
-      <link>http://localhost:1313/publications/2017_tsujimori_c/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jadeitite (jadeite jade) from Japan: History, characteristics, and perspectives</title>
-      <link>http://localhost:1313/publications/2017_tsujimori_b/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kimberlites and the start of plate tectonics: Reply</title>
-      <link>http://localhost:1313/publications/2017_stern/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_stern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclogite varieties and petrotectonic evolution of the northern Guatemala Suture Complex</title>
-      <link>http://localhost:1313/publications/2017_martens/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_martens/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Influence of laser parameters on isotope fractionation and optimisation of lithium and boron isotope ratio measurements using laser ablation-multiple Faraday collector-inductively coupled plasma mass spectrometry</title>
-      <link>http://localhost:1313/publications/2016_kimura/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_kimura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plate-tectonic evolution of the Earth: Bottom-up and top-down mantle circulation</title>
-      <link>http://localhost:1313/publications/2016_ernst/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_ernst/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kimberlites and the start of plate tectonics</title>
-      <link>http://localhost:1313/publications/2016_stern/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_stern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Relict chromian spinels in Tulu Dimtu serpentinites and listvenite, Western Ethiopia: Implications for the timing of listvenite formation</title>
-      <link>http://localhost:1313/publications/2017_sofiya/</link>
-      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2017_sofiya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrology and geochemistry of an upper crustal pluton: A view into crustal-scale magmatism during arc to retro-arc transition</title>
-      <link>http://localhost:1313/publications/2016_barnes/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_barnes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[論点] 改めて国際交流について考える</title>
-      <link>http://localhost:1313/publications/2016_tsujimori_a/</link>
-      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[活動風景] タンザニア再訪、ダルエスサラーム便り2016</title>
-      <link>http://localhost:1313/publications/2016_tsujimori_b/</link>
-      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chapter 2a. Palaeozoic basement and associated cover</title>
-      <link>http://localhost:1313/publications/2016_ehiro/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_ehiro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chapter 2b. Pre-Cretaceous accretionary complexes</title>
-      <link>http://localhost:1313/publications/2016_kojima/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2016_kojima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrogenesis and chemogenesis of oceanic and continental orogens in Asia: Current topics, Part I</title>
-      <link>http://localhost:1313/publications/2014_rehman_a/</link>
-      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_rehman_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>東北日本に産する高圧変成岩類のK-Ar年代値データベース：辻森・八木（2014）の補記 [Database of K-Ar ages reported from high-pressure metamorphic rocks in NE Japan: An addition for the karsheet database]</title>
-      <link>http://localhost:1313/publications/2015_tsujimori/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2015_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Introduction —Convergent plate margin processes and their rock record—</title>
-      <link>http://localhost:1313/publications/2015_wakabayashi/</link>
-      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2015_wakabayashi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>White mica K-Ar geochronology of Sanbagawa eclogites from SW Japan: Implications for deformation-controlled K-Ar closure temperature</title>
-      <link>http://localhost:1313/publications/2015_itaya/</link>
-      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2015_itaya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jadeitites and plate tectonics</title>
-      <link>http://localhost:1313/publications/2015_harlow/</link>
-      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2015_harlow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recycling of crustal materials through study of ultrahigh-pressure minerals in collisional orogens, ophiolites, and mantle xenoliths: A Review</title>
-      <link>http://localhost:1313/publications/2014_liou/</link>
-      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oxygen isotopes in Indian Plate eclogites (Kaghan Valley, Pakistan): Negative δ18O values from a high latitude protolith reset by Himalayan metamorphism</title>
-      <link>http://localhost:1313/publications/2014_rehman_b/</link>
-      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_rehman_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Editorial —Minerals, rocks, and mountains: Linking petrology, geochemistry, and geochronology—</title>
-      <link>http://localhost:1313/publications/2012_rehman_a/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_rehman_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rare earth element–SiO2 systematics of island arc crustal amphibolite migmatites from the Asago body of the Yakuno Ophiolite, Japan: A field evaluation of some model predictions</title>
-      <link>http://localhost:1313/publications/2014_pu/</link>
-      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_pu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>西南日本に産する高圧変成岩類のK-Ar年代値データベース [Database of K-Ar ages reported from high-pressure metamorphic rocks in SW Japan]</title>
-      <link>http://localhost:1313/publications/2014_tsujimori_b/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lawsonite blueschists and lawsonite eclogites as proxies for paleo-subduction zone processes: A review</title>
-      <link>http://localhost:1313/publications/2014_tsujimori_a/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2014_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metamorphic history of glaucophane-paragonite-zoisite eclogites from the Shanderman area, northern Iran</title>
-      <link>http://localhost:1313/publications/2013_omrani/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_omrani/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deformation fabrics of natural blueschists and implications for seismic anisotropy in subducting oceanic crust</title>
-      <link>http://localhost:1313/publications/2013_kim_b/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_kim_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The fate of subducted continental crust: Evidence from recycled UHP-UHT minerals</title>
-      <link>http://localhost:1313/publications/2013_liou/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plate tectonic gemstones</title>
-      <link>http://localhost:1313/publications/2013_stern/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_stern/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rheological contrast between glaucophane and lawsonite in naturally deformed blueschist from Diablo Range, California</title>
-      <link>http://localhost:1313/publications/2013_kim_a/</link>
-      <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_kim_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ion microprobe U-Th-Pb geochronology and study of micro-inclusions in zircon from the Himalayan high- and ultrahigh-pressure eclogites, Kaghan Valley of Pakistan</title>
-      <link>http://localhost:1313/publications/2013_rehman/</link>
-      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2013_rehman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tectono-metamorphic evolution of high P/T and low-P/T metamorphic rocks in the Tia complex, southern New England fold belt, eastern Australia: Insights from K-Ar chronology</title>
-      <link>http://localhost:1313/publications/2012_fukui/</link>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_fukui/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chapter 6. Sm-Nd and Lu-Hf isotope geochemistry of the Himalayan high- and ultrahigh-pressure eclogites, Kaghan valley, Pakistan—</title>
-      <link>http://localhost:1313/publications/2012_rehman_b/</link>
-      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_rehman_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Introduction —Jadeitite: New occurrences, new data, new interpretations—</title>
-      <link>http://localhost:1313/publications/2012_harlow/</link>
-      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_harlow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrogenetic relationships between jadeitite and associated high-pressure and low-temperature metamorphic rocks in worldwide jadeitite localities: A review</title>
-      <link>http://localhost:1313/publications/2012_tsujimori/</link>
-      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>東アジアの250Ma大陸衝突帯と日本－八重山プロモントリ－説再考－ [Japan and the 250 Ma continental collision belt in East Asia: Yaeyama promontory hypothesis revisited]</title>
-      <link>http://localhost:1313/publications/2012_ishiwatari/</link>
-      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_ishiwatari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>「はやぶさ」回収試料初期分析に至るまで：地球惑星物質総合解析システムの構築 [Establishment of comprehensive analytical system for terrestrial and extraterrestrial materials behind the Initial analysis of particles from an asteroid, Itokawa, returned by Hayabusa Spacecraft]</title>
-      <link>http://localhost:1313/publications/2012_nakamura_b/</link>
-      <pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_nakamura_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title>
-      <link>http://localhost:1313/publications/2012_nakamura_a/</link>
-      <pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2012_nakamura_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evolution of the Sanbagawa and Shimanto high-pressure belts in SW Japan: Insights from K-Ar (Ar-Ar) geochronology</title>
-      <link>http://localhost:1313/publications/2011_itaya/</link>
-      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2011_itaya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>In situ ion-microbe determination of trace element partition coefficients for hornblende, plagioclase, orthopyroxene and apatite in equilibrium with natural rhyolitic glass, Little Glass Mountain Rhyolite, California</title>
-      <link>http://localhost:1313/publications/2011_brophy/</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2011_brophy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multiple origins of zircons in jadeitite</title>
-      <link>http://localhost:1313/publications/2010_fu/</link>
-      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2010_fu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>造山帯中の高圧低温変成岩を伴う蛇紋岩メランジュ [Blueschist-bearing serpentine mélange in orogenic belt: A review]</title>
-      <link>http://localhost:1313/publications/2010_tsujimori_b/</link>
-      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2010_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>日本列島に記録された古生代高圧変成作用 －新知見とこれから解決すべき問題点－ [Paleozoic subduction-related metamorphism in Japan: New insights and perspectives]</title>
-      <link>http://localhost:1313/publications/2010_tsujimori_a/</link>
-      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2010_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metamorphic P-T conditions and thermal structure of Chinese Continental Scientific Drilling main hole eclogites: Fe-Mg partitioning thermometer vs Zr-in-rutile thermometer</title>
-      <link>http://localhost:1313/publications/2009_zhang/</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_zhang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>周防帯 §4.5.11 岡山県勝山－大佐地域 (第4章変成岩と変成作用) [§4.5.11 Suo metamorphic belt: Katsuyama-Osa area, Tottori Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_g/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_g/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>周防帯 §4.5.12 岡山県北房地域 (第4章変成岩と変成作用) [§4.5.12 Suo metamorphic belt: Hokubo area, Okayama Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_h/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_h/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>周防帯 §4.5.7 鳥取県多里地域 (第4章変成岩と変成作用) [§4.5.7 Suo metamorphic belt: Tari area, Tottori Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_e/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_e/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>周防帯 §4.5.8 鳥取県江府－根雨地域 (第4章変成岩と変成作用) [§4.5.8 Suo metamorphic belt: Koufu–Neu area, Tottori Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_f/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_f/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>大江山オフィオライト §4.3.1 岡山県大佐山地域 (第4章変成岩と変成作用) [§4.3.1 Oeyama ophiolite: Osayama area, Okayama Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_a/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>大江山オフィオライト §4.3.2 岡山県足立地域 (第4章変成岩と変成作用) [§4.3.2 Oeyama ophiolite: Ashidachi area, Okayama Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_c/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>大江山オフィオライト §4.3.3 広島県道後山地域 (第4章変成岩と変成作用) [§4.3.3 Oeyama ophiolite: Dougoyama area, Hiroshima Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_b/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>接触変成帯 §4.8.5 鳥取・広島・岡山県境の多里・三坂－大佐山地域：大江山オフィオライトの超苦鉄質岩 (第4章変成岩と変成作用) [§4.8.5 Contact metamorphism: Metaserpentinite of the Tari-Misaka–Osayama area (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimorii/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimorii/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>蓮華帯 §4.4.2 岡山県大佐山地域 (第4章変成岩と変成作用) [§4.4.2 Renge metamorphic belt: Osayama area, Okayama Prefecture (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2009_tsujimori_d/</link>
-      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ultrahigh-pressure minerals and metamorphic terranes – The view from China</title>
-      <link>http://localhost:1313/publications/2009_liou/</link>
-      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metamorphic reworking of a high pressure–low temperature mélange along the Motagua fault, Guatemala: A record of Neocomian and Maastrichtian transpressional tectonics</title>
-      <link>http://localhost:1313/publications/2009_brueckner/</link>
-      <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_brueckner/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title>
-      <link>http://localhost:1313/publications/2009_itaya/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2009_itaya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Orogeny and metallogenesis along the margin of eastern Asia: Permo-Triassic subduction-zone metamorphism, crustal accretion, and exhumation</title>
-      <link>http://localhost:1313/publications/2008_ernst/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2008_ernst/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>High-pressure belts of central Guatemala: the Motagua suture and the Chuacús complex</title>
-      <link>http://localhost:1313/publications/2007_martens/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_martens/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrology and U-Pb SHRIMP geochronology of a garnet peridotite, Sulu UHP terrane, east-central China</title>
-      <link>http://localhost:1313/publications/2007_zhao/</link>
-      <pubDate>Fri, 05 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_zhao/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Significance of the Ca-Na pyroxene-lawsonite-chlorite assemblage in blueschist-facies metabasalts: An example from the Renge metamorphic rocks, SW Japan</title>
-      <link>http://localhost:1313/publications/2007_tsujimori_b/</link>
-      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title>
-      <link>http://localhost:1313/publications/2007_ernst/</link>
-      <pubDate>Tue, 30 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_ernst/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finding of high-grade tectonic blocks from the New Idria serpentinite body, Diablo Range, California: Petrologic constraints on the tectonic evolution of an active serpentinite diapir</title>
-      <link>http://localhost:1313/publications/2007_tsujimori_a/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>On-going orogeny in the outer arc of Timor-Tanimbar region, eastern Indonesia</title>
-      <link>http://localhost:1313/publications/2007_kaneko/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2007_kaneko/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Very-low-temperature record in subduction process: A review of worldwide lawsonite eclogites</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_b/</link>
-      <pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Franciscan eclogite revisited: Reevaluation of the P-T evolution of tectonic blocks from Tiburon Peninsula, California, U.S.A.</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_c/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Protolith and metamorphic ages of the Haiyangsuo Complex, eastern China: A Non-UHP exotic tectonic slab in the Sulu ultrahigh-pressure terrane</title>
-      <link>http://localhost:1313/publications/2006_liou/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] グアテマラ中央部の地質調査 [Pictorial —Geologic fieldwork in central Guatemala—]</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_f/</link>
-      <pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_f/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>青海蛇紋岩メンランジュ産の藍閃石−緑れん石エクロジャイトの圧力温度シュードセクション：予報 [P-T pseudosection of a glaucophane-epidote eclogite from Omi serpentinite melange, SW Japan: A preliminary report]</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_e/</link>
-      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_e/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>青色片岩相からローソン石エクロジャイトへ [From blueschist to lawsonite eclogite: An essay]</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_g/</link>
-      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_g/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>飛騨外縁帯・秋吉帯 §2.2.3 青海地域湯之谷の高圧型変成岩類：古生代に沈み込んだスラブ物質のエクロジャイト化の記録 (各論第2章飛騨外縁帯・秋吉帯：日本最古の地層を含む地質帯) [§2.2.3 Paleozoic high-pressure metamorphic rocks in the Yunotani Valley, Omi area (SW Japan)]</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_h/</link>
-      <pubDate>Fri, 20 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_h/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Honvang serpentinite body of the Song Ma fault zone, Northern Vietnam: A remnant of oceanic lithosphere within the Indochina-South China suture</title>
-      <link>http://localhost:1313/publications/2006_trung/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_trung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Non-ultrahigh-pressure unit bordering the Sulu ultrahigh-pressure terrane, eastern China: Transformation of Proterozoic granulite and gabbro to garnet amphibolite</title>
-      <link>http://localhost:1313/publications/2006_zhang/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_zhang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrologic characterization of Guatemalan lawsonite eclogite: Eclogitization of subducted oceanic crust in a cold subduction zone</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_a/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Triassic paragonite- and garnet-bearing epidote-amphibolite from the Hida Mountains, Japan</title>
-      <link>http://localhost:1313/publications/2006_tsujimori_d/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2006_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coexisting retrograde jadeite and omphacite in a jadeite-bearing lawsonite eclogite from the Motagua Fault Zone, Guatemala</title>
-      <link>http://localhost:1313/publications/2005_tsujimori_c/</link>
-      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Low-pressure and low-temperature K-bearing kosmochloric diopside from the Osayama serpentinite melange, SW Japan</title>
-      <link>http://localhost:1313/publications/2005_tsujimori_d/</link>
-      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>U-Pb dating of large zircons in low-temperature jadeitite from the Osayama serpentinite melange, Southwest Japan: Insights into the timing of serpentinization</title>
-      <link>http://localhost:1313/publications/2005_tsujimori_b/</link>
-      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] カリフォルニア州Hollisterにみられる断層クリープ [Pictorial —Creep fault observed in Hollister, California—]</title>
-      <link>http://localhost:1313/publications/2005_takagi/</link>
-      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_takagi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>白山弥陀ヶ原から発見されたアルカリ岩質テフラ [An alkaline tephra found at Midagahara, Mt. Hakusan]</title>
-      <link>http://localhost:1313/publications/2005_higashino/</link>
-      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_higashino/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclogite-facies mineral inclusions in clinozoisite from Paleozoic blueschist, central Chugoku Mountains, Southwest Japan: Evidence of regional eclogite-facies metamorphism</title>
-      <link>http://localhost:1313/publications/2005_tsujimori_a/</link>
-      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UHP metamorphism and continental subduction/collision</title>
-      <link>http://localhost:1313/publications/2005_liou/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2005_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electron-microprobe analyses of Allende chondrules and CAIs: Implication to the argon isotope study of carbonaceous chondrite</title>
-      <link>http://localhost:1313/publications/2004_takeshima/</link>
-      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_takeshima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Epidote-rich talc-kyanite-phengite eclogites, Sulu terrane, eastern China: P-T-f(O2) estimates and the significance of the epidote-talc assemblage in eclogite</title>
-      <link>http://localhost:1313/publications/2004_mattinson/</link>
-      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_mattinson/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>組成累帯クロムスピネルからみた青海蛇紋岩メランジュを構成する蛇紋岩の起源 [Origin of serpentinites in the Omi serpentinite melange (Hida Mountains, Japan) deduced from zoned chromian spinel]</title>
-      <link>http://localhost:1313/publications/2004_tsujimori_c/</link>
-      <pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A pictorial introduction to coarse-grained symplectites in low-temperature jadeitite from Guatemala</title>
-      <link>http://localhost:1313/publications/2004_tsujimori_d/</link>
-      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] 九州，天草下島の含藍晶石緑れん石角閃岩類 [Pictorial —Kyanite-bearing epidote amphibolites from Amakusa-shimonoshima, Kyusyu, Southwest Japan—]</title>
-      <link>http://localhost:1313/publications/2004_takeda/</link>
-      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_takeda/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coexisting chromian omphacite and diopside in tremolite schist from the Chugoku Mountains, SW Japan: The effect of Cr on the omphacite-diopside immiscibility gap</title>
-      <link>http://localhost:1313/publications/2004_tsujimori_b/</link>
-      <pubDate>Thu, 22 Apr 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metamorphic evolution of kyanite-staurolite-bearing epidote-amphibolite from the Early Paleozoic Oeyama belt, SW Japan</title>
-      <link>http://localhost:1313/publications/2004_tsujimori_a/</link>
-      <pubDate>Thu, 22 Apr 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Global UHP metamorphism and continental subduction/collision: The Himalayan model</title>
-      <link>http://localhost:1313/publications/2004_liou/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2004_liou/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Extremely Fe-rich metamorphic sekaninaite in a sillimanite-grade schist clast from the Middle Jurassic conglomerate, Hida Mountains, Japan</title>
-      <link>http://localhost:1313/publications/2003_tsujimori/</link>
-      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2003_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paleozoic ophiolites and blueschists in Japan and Russian Primorye in the tectonic framework of East Asia: A synthesis</title>
-      <link>http://localhost:1313/publications/2003_ishiwatari/</link>
-      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2003_ishiwatari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>炭素質コンドライトに40Ar-39Ar法を適用するための基礎研究（その１）：アエンデ隕石中の含塩素物質の重要性 [Fundamental research on the application of 40Ar-39Ar chronology to chondritic meteorite (1): Significance of Cl-bearing material in Allende meteorite]</title>
-      <link>http://localhost:1313/publications/2003_takeshima/</link>
-      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2003_takeshima/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cenozoic and Mesozoic metamorphism in the Longmenshan orogen: Implications for geodynamic models of eastern Tibet</title>
-      <link>http://localhost:1313/publications/2003_wallis/</link>
-      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2003_wallis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phlogopite in jadeitite from the Osayama serpentinite melange, Chugoku Mountains, Southwest Japan</title>
-      <link>http://localhost:1313/publications/2002_tsujimori_d/</link>
-      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2002_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>中国山地，大佐山産ローソン石青色片岩中のスティルプノメレンK-Ar年代測定：予報 [Stilpnomelane K-Ar age dating for the lawsonite blueschist from the Osayama serpentinite melange in Chugoku Mountains, Southwest Japan: A preliminary report]</title>
-      <link>http://localhost:1313/publications/2002_tsujimori_c/</link>
-      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2002_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prograde and retrograde P-T paths of the late Paleozoic glaucophane eclogite from the Renge metamorphic belt, Hida Mountains, southwestern Japan</title>
-      <link>http://localhost:1313/publications/2002_tsujimori_a/</link>
-      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2002_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Granulite facies relics in the early Paleozoic kyanite-bearing ultrabasic metacumulate in the Oeyama belt, the inner zone of southwestern Japan</title>
-      <link>http://localhost:1313/publications/2002_tsujimori_b/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2002_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Database on rock-forming minerals (1): Na amphibole from Renghe schist at Osayama, Wakasa, Oya, Hakogase and Omi areas, SW Japan</title>
-      <link>http://localhost:1313/publications/2001_tsujimori_b/</link>
-      <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2001_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Developments of the Hida and Hida marginal belts</title>
-      <link>http://localhost:1313/publications/2001_kunugiza/</link>
-      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2001_kunugiza/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>日本海及びその周辺域の岩石 [Rocks in the Japan Sea and surrounding areas]</title>
-      <link>http://localhost:1313/publications/2001_ishiwatari_b/</link>
-      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2001_ishiwatari_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>糸魚川−青海地域の古生代高圧変成岩 [Paleozoic high-pressure metamorphic rocks in the Itoigawa-Omi area, SW Japan]</title>
-      <link>http://localhost:1313/publications/2001_tsujimori_a/</link>
-      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2001_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Late Paleozoic high-pressure metamorphic belts in Japan and Sikhote-Alin: Possible oceanic extension of the Chinese Dabie-Sulu suture detouring Korea</title>
-      <link>http://localhost:1313/publications/2001_ishiwatari_a/</link>
-      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2001_ishiwatari_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] 大陸衝突の現場: 南チベットの地質調査 [Pictorial —Orogenesis in action: Geological survey in Southern Tibet—]</title>
-      <link>http://localhost:1313/publications/2000_wallis_a/</link>
-      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_wallis_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eclogite and related metamorphism in the Sanbagawa belt, Southwest Japan</title>
-      <link>http://localhost:1313/publications/2000_wallis_b/</link>
-      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_wallis_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Illustrated introduction to eclogite in Japan</title>
-      <link>http://localhost:1313/publications/2000_tsujimori_d/</link>
-      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_tsujimori_d/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>西南日本内帯大江山地域の普甲峠変成沈積岩に産する4～4.4億年含藍晶石緑れん石角閃岩 [403-443 Ma kyanite-bearing epidote amphibolite from the Fuko Pass metacumulate in Oeyama, the Inner Zone of southwestern Japan]</title>
-      <link>http://localhost:1313/publications/2000_tsujimori_c/</link>
-      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>西南日本内帯蓮華変成帯，青海町湯ノ谷のエクロジャイト質藍閃石片岩について [Eclogitic glaucophane schist from the Yunotani valley in Omi Town, the Renge metamorphic belt, the Inner Zone of southwestern Japan]</title>
-      <link>http://localhost:1313/publications/2000_tsujimori_b/</link>
-      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pictorial —Discovery of eclogitic glaucophane schist from the Omi area, Renge metamorphic belt, the Inner Zone of southwestern Japan—</title>
-      <link>http://localhost:1313/publications/2000_tsujimori_a/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2000_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petrogenesis of the Fuko Pass high-pressure metacumulate from the Oeyama peridotite body, southwestern Japan: Evidence for Early Paleozoic subduction metamorphism</title>
-      <link>http://localhost:1313/publications/1999_tsujimori_b/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ロシア極東，タイガノス半島のエリストラートバ・オフィオライト：海洋底マントルに貫入する島弧オフィオライト [Elistratova ophiolite in Taiganos peninsula, Far East Russia]</title>
-      <link>http://localhost:1313/publications/1999_saito/</link>
-      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_saito/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] ロシア沿海州の古生代藍閃変成帯 [Pictorial —Paleozoic blueschists in Primorye, Russia—]</title>
-      <link>http://localhost:1313/publications/1999_ishiwatari_b/</link>
-      <pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_ishiwatari_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] 西南日本内帯古～中生代付加型造山帯のナップ境界の衝上断層 [Pictorial —Nappe-bounding thrust faults in the Paleozoic-Mesozoic accretionary orogen in the Inner Zone of Southwestern Japan—]</title>
-      <link>http://localhost:1313/publications/1999_ishiwatari_a/</link>
-      <pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_ishiwatari_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blueschist-facies metamorphism during Paleozoic orogeny in southwestern Japan: Phengite K-Ar ages of blueschist-facies tectonic blocks in a serpentinite melange beneath early Paleozoic Oeyama ophiolite</title>
-      <link>http://localhost:1313/publications/1999_tsujimori_a/</link>
-      <pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boninite–ophiolite assemblages – the specific formations of ensimatic island arc systems</title>
-      <link>http://localhost:1313/publications/1999_vysotskiy/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_vysotskiy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Electron microprobe element image of zoned chromian spinel with hydrous mineral inclusions in a chromitite from Elistratova ophiolite, Far East Russia</title>
-      <link>http://localhost:1313/publications/1999_tsujimori_c/</link>
-      <pubDate>Tue, 01 Dec 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1999_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>[口絵] ロシア極東タイガノス半島の付加体とオフィオライト [Pictorial —Accretionary complexes and ophiolites in Taigonos Peninsula, Far-Eastern Russia—]</title>
-      <link>http://localhost:1313/publications/1998_ishiwatari/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1998_ishiwatari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>中国山地中央部，大佐山蛇紋岩メランジュの地質：大江山オフィオライトの下に発達した320 Ma 青色片岩を含む蛇紋岩メランジュ [Geology of the Osayama serpentinite melange in the central Chugoku Mountains, southwestern Japan: 320 Ma blueschist-bearing serpentinite melange beneath the Oeyama ophiolite]</title>
-      <link>http://localhost:1313/publications/1998_tsujimori/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1998_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Omphacite-diopside vein in an omphacitite block from the Osayama serpentinite melange, Sangun-Renge metamorphic belt, southwestern Japan</title>
-      <link>http://localhost:1313/publications/1997_tsujimori_a/</link>
-      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1997_tsujimori_a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quantitative analysis of common rock-forming minerals by a modern wavelength-dispersive type EPMA: A preliminary report</title>
-      <link>http://localhost:1313/publications/1997_tsujimori_b/</link>
-      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1997_tsujimori_b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>中国山地中央部，320Ma青色片岩を含む蛇紋岩メランジュのメランジュ・マトリクスの初生かんらん岩 [Primary peridotite in the melange-matrix of the 320 Ma blueschist-bearing Osayama serpentinite melange, central Chugoku Mountains]</title>
-      <link>http://localhost:1313/publications/1997_tsujimori_c/</link>
-      <pubDate>Mon, 31 Mar 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1997_tsujimori_c/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Staurolite-bearing sillimanite schist cobble from the Upper Jurassic Tetori Group in the Kuzuryu area, Hida Mountains, central Japan</title>
-      <link>http://localhost:1313/publications/1995_tsujimori/</link>
-      <pubDate>Fri, 01 Dec 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1995_tsujimori/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1995年2月18日落下「根上隕石」概報 [A preliminary report on the Neagari meteorite fall on February 18th, 1995]</title>
-      <link>http://localhost:1313/publications/1995_ishiwatari/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/1995_ishiwatari/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KREATE</title><link>https://kreate-tohoku.github.io/</link><description>Recent content on KREATE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 Jul 2025 17:17:31 +0900</lastBuildDate><atom:link href="https://kreate-tohoku.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Tectono-magmatic evolution of the Mongolian Collage with new evidence from the Ereendavaa Block</title><link>https://kreate-tohoku.github.io/publications/2025_bold/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_bold/</guid><description/></item><item><title>Sequestration of carbon in the forearc mantle wedge</title><link>https://kreate-tohoku.github.io/publications/2025_wu/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_wu/</guid><description/></item><item><title>糸魚川巡検</title><link>https://kreate-tohoku.github.io/posts/2025-06-09-itoigawa/</link><pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-06-09-itoigawa/</guid><description>新潟県糸魚川市に巡検に行きました</description></item><item><title>四国・中国山地の地質巡検を行いました！</title><link>https://kreate-tohoku.github.io/posts/2025-06-05-shikoku/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-06-05-shikoku/</guid><description>2025/6/5(木)から6/7(土)にかけて、本研究室の辻森教授とB4帆足で四国・中国山地巡検に行ってきました！</description></item><item><title>Heavy Si isotope compositions of subduction zone fluids controlled by fluid-rock interaction and fluid evolution</title><link>https://kreate-tohoku.github.io/publications/2025_chen/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_chen/</guid><description/></item><item><title>花見+歓迎会</title><link>https://kreate-tohoku.github.io/posts/2025-04-14-cherry-blossom-party/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-04-14-cherry-blossom-party/</guid><description>春から来日した、中国人のD3のKunとタンザニア人のM1のFloraにJapanese cultureを感じてほしいという思いから、4年生の歓迎会を兼ねて花見を開催しました。</description></item><item><title>４年生正式配属</title><link>https://kreate-tohoku.github.io/posts/2025-04-01-new-b4/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-04-01-new-b4/</guid><description>４年生が３名配属しました。</description></item><item><title>研究室引っ越し</title><link>https://kreate-tohoku.github.io/posts/2025-04-01-moving/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-04-01-moving/</guid><description>&lt;p>地殻進化学研究室は、川内キャンパス・東北アジア研究センターから青葉山キャンパス・地学棟へ移転しました。
+当研究室にあるラマン分光装置も無事に地学棟に搬入し、立ち上げまで順調に完了しました。
+また、今回の引っ越しでは地学専攻技術室の皆様に多大なるご協力をいただきました。本当にありがとうございました。&lt;/p>
+&lt;p>現在も少しずつ改良しながら、快適に研究できる実験室づくりを進めています！&lt;/p></description></item><item><title>高橋菜緒子助教が着任しました！</title><link>https://kreate-tohoku.github.io/posts/2025-04-01-takahashi/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-04-01-takahashi/</guid><description>&lt;p>2025年4月に東北大学大学院理学研究科地学専攻地圏進化学講座に高橋菜緒子・助教が着任されました。
+研究室の学生から誕生日ケーキのお祝いをいただきました。皆様、ありがとうございました。（高橋）&lt;/p></description></item><item><title>卒業式</title><link>https://kreate-tohoku.github.io/posts/2025-03-25-graduation/</link><pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-03-25-graduation/</guid><description>卒業式が行われました</description></item><item><title>Rutile solubility in aqueous sodium salt solutions at high pressures and temperatures: in-situ observations using a diamond anvil cell</title><link>https://kreate-tohoku.github.io/publications/2025_takahashi/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_takahashi/</guid><description/></item><item><title>令和6年度 青葉理学振興会各授与式・講演会にて本研究の学生2名が表彰されました！</title><link>https://kreate-tohoku.github.io/posts/2025-03-15-aoba/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-03-15-aoba/</guid><description>2025年3月14日(金)、多目的室にて「令和6年度 青葉理学振興会 各賞授与式・講演会」が行われました。</description></item><item><title>Metamorphic Rocks and Beyond Symposium 2025 (2025 変成岩などシンポジウム 青葉山大会)</title><link>https://kreate-tohoku.github.io/posts/2025-03-12-meta-sympo-index/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-03-12-meta-sympo-index/</guid><description>&lt;h2 id="date-and-venue">Date and Venue&lt;/h2>
+&lt;p>&lt;strong>Date: March 12-14, 2025&lt;/strong> | &lt;a href="https://calendar.app.google/DjqMDQpmjWUpfS7x9">&lt;strong>Calendar&lt;/strong>&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Venue: Tohoku University - Aobayama Campus&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.sci.tohoku.ac.jp/campusmap/kita-aobayama/">Aoba Science Hall (H-04 Science Complex C, 2nd Floor) | 東北大学青葉山キャンパス 理学研究科合同Ｃ棟 2階&lt;/a>, Tohoku University; &lt;a href="https://maps.app.goo.gl/83rm7TXgypz4zKXSA">&lt;strong>Map&lt;/strong>&lt;/a>: 6-3 Aramaki Aza Aoba, Aoba-ku, Sendai, Miyagi, 980-0845 Japan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Access from &lt;a href="https://www.sendai-airport.co.jp/en/">Sendai Airport&lt;/a>: Take the &lt;a href="https://www.senat.co.jp/en/sendaiair">Airport Access Line&lt;/a> to &lt;a href="https://maps.app.goo.gl/vAe7pYwn6GqSJkCC6">&amp;lsquo;JR Sendai Station&amp;rsquo; | JR仙台駅&lt;/a>. From there, use the Subway Tōzai Line from T07 &amp;lsquo;Sendai&amp;rsquo; to &lt;a href="https://maps.app.goo.gl/ejsB2g5Za2tucuie8">T02 &amp;lsquo;Aobayama&amp;rsquo; Station | 青葉山駅&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Access from &lt;a href="https://maps.app.goo.gl/vAe7pYwn6GqSJkCC6">&amp;lsquo;JR Sendai Station&amp;rsquo; | JR仙台駅&lt;/a>: Take the Subway Tōzai Line from T07 &amp;lsquo;Sendai&amp;rsquo; to &lt;a href="https://maps.app.goo.gl/ejsB2g5Za2tucuie8">T02 &amp;lsquo;Aobayama&amp;rsquo; Station | 青葉山駅&lt;/a>&lt;/p></description></item><item><title>変成岩などシンポジウム＠青葉サイエンスホール</title><link>https://kreate-tohoku.github.io/posts/2025-03-12-meta-sympo/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/posts/2025-03-12-meta-sympo/</guid><description>2025年変成岩などシンポジウム開催・参加報告</description></item><item><title>Extremely heavy Ca isotope compositions of rodingites in the oceanic lithosphere formed by fluid-rock interaction: Implications for the discrimination of light Mg isotope components</title><link>https://kreate-tohoku.github.io/publications/2025_zhao/</link><pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_zhao/</guid><description/></item><item><title>The exhumation impact onto fluid-mobile element budget and local Rb-Sr isotope heterogeneity of the subducted eclogitic crust (Alag-Khadny, SW Mongolia)</title><link>https://kreate-tohoku.github.io/publications/2024_skuzovatov/</link><pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_skuzovatov/</guid><description/></item><item><title>Experimental constraints on serpentinite carbonation in the presence of a H2O–CO2–NaCl fluid</title><link>https://kreate-tohoku.github.io/publications/2024_huang/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_huang/</guid><description/></item><item><title>Cold-subduction biogeodynamics boost deep energy delivery to the forearc</title><link>https://kreate-tohoku.github.io/publications/2025_peverelli/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2025_peverelli/</guid><description/></item><item><title>The Cahn–Hilliard model of coherent lamellar microstructure: Application to alkali feldspar</title><link>https://kreate-tohoku.github.io/publications/2024_furukawa/</link><pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_furukawa/</guid><description/></item><item><title>阿武隈山地東縁を探る：南部北上帯の高圧型片岩類と横ずれ剪断帯のフィールドガイド [Exploring the Eastern Abukuma Mountains: A field guide to high-pressure metamorphic rocks and strike-slip crustal shear zones in the Southern Kitakami Belt, NE Japan]</title><link>https://kreate-tohoku.github.io/publications/2024_tsujimori_b/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_tsujimori_b/</guid><description/></item><item><title>Petrological, geochemical and mineralogical characteristics of Wigu Hill carbonatite, Uluguru Mountains, Tanzania: Insights into carbonatite evolution and REE mineralization</title><link>https://kreate-tohoku.github.io/publications/2024_moshi/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_moshi/</guid><description/></item><item><title>Isochemical metamorphism origin of the newly discovered Baqing jadeitoid, eastern-central Tibet, China</title><link>https://kreate-tohoku.github.io/publications/2024_jin/</link><pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_jin/</guid><description/></item><item><title>Simulation of microtextural evolution in omphacite: Ordering transformation kinetics as unexplored archives of slab eclogitization</title><link>https://kreate-tohoku.github.io/publications/2024_fukushima/</link><pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_fukushima/</guid><description/></item><item><title>Regional-scale Paleoproterozoic heating event on Archean Acasta gneisses in Slave Province, Canada: Insights from K-Ar and 40Ar/39Ar chronology</title><link>https://kreate-tohoku.github.io/publications/2024_sato/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_sato/</guid><description/></item><item><title>Crystallographic features of omphacite in lawsonite-eclogite xenolith from Colorado Plateau</title><link>https://kreate-tohoku.github.io/publications/2024_fukushima_a/</link><pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_fukushima_a/</guid><description/></item><item><title>平凡社『最新 地学事典』43収録項目</title><link>https://kreate-tohoku.github.io/publications/2024_tsujimori_a/</link><pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_tsujimori_a/</guid><description/></item><item><title>Methane genesis within olivine-hosted fluid inclusions in dolomitic marble of the Hida Belt, Japan</title><link>https://kreate-tohoku.github.io/publications/2024_harada/</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_harada/</guid><description/></item><item><title>地球史マップ　誕生・進化・流転の全記録</title><link>https://kreate-tohoku.github.io/publications/2024_grataloup/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2024_grataloup/</guid><description/></item><item><title>Progressive lawsonite eclogitization of the oceanic crust: Implications for deep mass transfer in subduction zones</title><link>https://kreate-tohoku.github.io/publications/2023_hernandez/</link><pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2023_hernandez/</guid><description/></item><item><title>A new evaluation method of cation ordering history in eclogite-facies omphacite</title><link>https://kreate-tohoku.github.io/publications/2023_fukushima/</link><pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2023_fukushima/</guid><description/></item><item><title>In situ argon isotope analyses of chondrule-forming materials in the Allende Meteorite: a Preliminary study for 40Ar/39Ar dating based on cosmogenic 39Ar</title><link>https://kreate-tohoku.github.io/publications/2023_takeshima/</link><pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2023_takeshima/</guid><description/></item><item><title>Editorial: Seeing convergent margin processes through metamorphism</title><link>https://kreate-tohoku.github.io/publications/2022_chen/</link><pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_chen/</guid><description/></item><item><title>Age, petrogenesis, and tectonic implications of the late Permian magmatic rocks in the Middle Gobi volcanoplutonic Belt, Mongolia</title><link>https://kreate-tohoku.github.io/publications/2022_ganbat_a/</link><pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_ganbat_a/</guid><description/></item><item><title>Editorial of the special issue, “Evolution and tectonic correlations of East and South Asia: A geochemical, petrological and tectonic perspective”</title><link>https://kreate-tohoku.github.io/publications/2022_oh/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_oh/</guid><description/></item><item><title>プレート境界岩総合解析によるオロゲン地質記録と変成プロセスの研究 [Orogenic and metamorphic processes in plate boundaries: Synopsis and future directions]</title><link>https://kreate-tohoku.github.io/publications/2022_tsujimori/</link><pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_tsujimori/</guid><description/></item><item><title>Nanoscale cation-diffusion modeling in garnet-hosted omphacite: A preliminary result</title><link>https://kreate-tohoku.github.io/publications/2022_fukushima/</link><pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_fukushima/</guid><description/></item><item><title>In-situ Raman spectroscopic analysis of dissolved silica structures in Na2CO3 and NaOH solutions at high pressure and temperature</title><link>https://kreate-tohoku.github.io/publications/2022_takahashi/</link><pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_takahashi/</guid><description/></item><item><title>Neoproterozoic eclogite-to granulite-facies transition in the Ubendian Belt, Tanzania, and the timescale of continental collision</title><link>https://kreate-tohoku.github.io/publications/2022_morita/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2022_morita/</guid><description/></item><item><title>About</title><link>https://kreate-tohoku.github.io/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/about/</guid><description>&lt;p>KREATE（KR8）は、2024年12月1日に東北大学大学院理学研究科 地球科学専攻 地圏環境科学講座に新たに設立された研究グループです。KREATEという名称は、「Key Research in Earth, Astrogeology, and Tectonic Evolution（地球・宇宙地質学・テクトニクス進化に関する重要研究）」の頭文字を取ったもので、「創造（Create）」を重視し、柔軟な発想で研究に挑む姿勢を表しています。略称の「KR8」は、“KR”と、“KREATE”の後半部分“EATE”を組み合わせたもので、“EATE”の発音が数字の“8（エイト）”に似ていることに由来します。&lt;/p>
+&lt;p>KR8では、地質学的なフィールド観察に加え、岩石学・鉱物学・地球化学的手法、数値シミュレーションや実験的アプローチを融合させて、地球に限らず多様な地質プロセスの理解を深めることを目指しています。&lt;/p>
+&lt;p>私たちは、世界中の学生、ポスドク研究者、そして共同研究者の皆さんの参加を心より歓迎します。&lt;/p>
+&lt;p>About KREATE
+KREATE (KR8) is a brand-new research group founded on December 1, 2024, in the Division of Geoenvironmental Science, Department of Earth Science, Graduate School of Science, Tohoku University. The name “KREATE” stands for “Key Research in Earth, Astrogeology, and Tectonic Evolution,” reflecting our dedication to fostering creativity (Create) and undertaking flexible challenges in research. The simplified abbreviation “KR8” combines “KR” and “EATE”—the latter part of “KREATE,” which is phonetically similar to “8 (eight).”&lt;/p></description></item><item><title>Members</title><link>https://kreate-tohoku.github.io/members/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/members/</guid><description>&lt;!-- Markdown の上部などで &lt;style> を書ける環境なら -->
+&lt;style>
+ .img-left {
+ float: left;
+ width: 120px;
+ /* 写真サイズ */
+ margin: 0 1rem 1rem 0;
+ /* 右と下に余白 */
+ }
+
+ .photo-box {
+ /* ↓ これだけで内部の float が div の外へはみ出さない */
+ overflow: hidden;
+ /* 親に BFC を作らせる */
+ margin-bottom: 1rem;
+ /* ブロック間の余白 */
+ }
+
+ .orcid {
+ font-size: small;
+ padding: 0;
+ margin-top: 2px;
+ margin-bottom: 2px;
+ line-height: 1.0em;
+ }
+
+ .program {
+ font-size: small;
+ padding: 0;
+ margin-top: 4px;
+ line-height: 1.0em;
+ }
+
+ .thumb {
+ float: left;
+ width: 120px;
+ margin: 0 0.3rem 0.2rem 0;
+ /* 右と下に余白 */
+ }
+
+ .boldsymbol {
+ font-weight: bold;
+ }
+
+ .box {
+ font-size: 0.9em;
+ margin: 0rem 0.2rem 0rem 0.2rem;
+ /* 右と下に余白 */
+ padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+ /* 右と下に余白 */
+ border: solid 1px;
+ border-radius: 4px;
+ white-space: nowrap;
+ }
+
+ .contents {
+ font-size: 0.9em;
+ line-height: 1.5em;
+ }
+&lt;/style>
+&lt;h2 id="教員--faculty-members">教員 / Faculty members&lt;/h2>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/TatsukiTsujimori.jpg" class="thumb">
+ &lt;span class=boldsymbol>辻森 樹 (Tsujimori, Tatsuki) | 教授&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;div class="orcid">ORCID: https://orcid.org/0000-0001-9202-7312&lt;/div>
+ &lt;span class="box">研究&lt;/span> 変成岩から探る沈み込み帯と固体地球の時空間的進化
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 電子楽器(シンセサイザ、テルミンなど)・芸術創作・料理・チランジア栽培 &lt;span class="box">好きな時代&lt;/span> クライオジェニアン&lt;span
+ class="box">好きな鉱物&lt;/span> 藍閃石
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/NaokoTakahashi.jpg" class="thumb">
+ &lt;span class=boldsymbol>高橋 菜緒子 (Takahashi, Naoko) | 助教 &lt;/span>
+ &lt;div class="contents">
+ &lt;div class="orcid">ORCID: https://orcid.org/0000-0002-3518-8934&lt;/div>
+ &lt;span class="box">研究&lt;/span> 岩石ー水相互作用、地質流体の物理化学的性質、高温高圧実験
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> お菓子・パン作り、スポーツ（サイクリング・スノボ）
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="博士課程--doctoral-student">博士課程 / Doctoral student&lt;/h2>
+&lt;h3 id="d2">D2&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/TanFurukawa.jpg" class="thumb">
+ &lt;span class=boldsymbol>古川 旦 (Furukawa, Tan)&lt;/span>
+ &lt;div class="program">高等大学院国際卓越研究者育成支援プログラム&lt;/div>
+ &lt;div class="orcid">ORCID: https://orcid.org/0000-0002-8512-6985&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 岩石組織の数理
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 砂金・化石・野草・きのこ・園芸・鳥
+ &lt;span class="box">好きな時代&lt;/span> 石炭紀 &lt;span class="box">好きな鉱物&lt;/span> 自然金
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/BoldMunkhdelger.jpg" class="thumb">
+ &lt;span class=boldsymbol>ボルド ムンフデルゲル (Bold, Munkhdelger)&lt;/span>
+ &lt;br>
+ &lt;div class="orcid">ORCID: https://orcid.org/0009-0005-9918-0551&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> Evolution of the Continental Crust, Carbonatite, REE mineralization
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> volleyball, watching movie
+ &lt;span class="box">好きな時代&lt;/span> トニアン
+ &lt;span class="box">好きな鉱物&lt;/span> ジルコン
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/KoheiShiseki.jpg" class="thumb">
+ &lt;span class=boldsymbol>志関 弘平 (Shiseki, Kohei)&lt;/span>
+ &lt;br>
+ &lt;div class="orcid">ORCID: https://orcid.org/0000-0002-1230-2319&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 高圧変成岩上昇機構
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> アルペンスキー、ロードバイク、クラシック音楽、化石、日本酒
+ &lt;span class="box">好きな時代&lt;/span> アプチアン
+ &lt;span class="box">好きな鉱物&lt;/span> オンファス輝石
+ &lt;/div>
+ &lt;br>
+&lt;/div>
+&lt;h3 id="特別研究生">特別研究生&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/ChenKun.jpg" class="thumb">
+ &lt;span class=boldsymbol>陈 坤 (Chen, Kun)&lt;/span>
+ &lt;br>
+ &lt;div class="orcid">ORCID: https://orcid.org/0009-0002-0802-6494&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> Subduction zone fluid, stable isotope, jadeitite, UHT metamophism
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> badminton, swimming, guitar, Ping-Pong
+ &lt;span class="box">好きな時代&lt;/span> 顕生代
+ &lt;span class="box">好きな鉱物&lt;/span> ひすい輝石
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="修士課程--masters-student">修士課程 / Master&amp;rsquo;s student&lt;/h2>
+&lt;h3 id="m2">M2&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/KeiSugiura.jpg" class="thumb">
+ &lt;span class=boldsymbol>杉浦 慶 (Sugiura, Kei)&lt;/span>
+ &lt;br>
+ &lt;div class="orcid">ORCID: https://orcid.org/0000-0002-9168-9274&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 北米カリフォルニア州最初期の蛇紋岩ダイアピルのホウ素同位体組成
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 散歩、コーヒー喫茶巡り
+ &lt;span class="box">好きな時代&lt;/span> 太古代
+ &lt;span class="box">好きな鉱物&lt;/span> ザクロ石
+ &lt;/div>
+ &lt;br>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/SomaKosuke.jpg" class="thumb">
+ &lt;span class=boldsymbol>相馬 耕助 (Soma, Kosuke)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> シンプレクタイト形成の数理
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 散歩、旅行、ポケモン、ハンドボール、バドミントン
+ &lt;span class="box">好きな時代&lt;/span>人新世&lt;span class="box">好きな鉱物&lt;/span>ひすい輝石
+ &lt;br>
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/HonokaUmemiya.jpg" class="thumb">
+ &lt;span class=boldsymbol>梅宮 穂花 (Umemiya, Honoka)&lt;/span>
+ &lt;br>
+ &lt;div class="program">東北大学変動地球共生学卓越大学院プログラム&lt;/div>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> カーボナタイト
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 読書・お風呂
+ &lt;span class="box">好きな時代&lt;/span> カンブリア紀
+ &lt;span class="box">好きな鉱物&lt;/span> 燐灰石
+ &lt;/div>
+ &lt;br>
+ &lt;br>
+&lt;/div>
+&lt;h3 id="m1">M1&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/KoyoTamura.jpg" class="thumb">
+ &lt;span class=boldsymbol>田村 航遥 (Tamura, Koyo)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 変成岩
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 岩石・鉱物・テニス
+ &lt;span class="box">好きな時代&lt;/span> セノマニアン
+ &lt;span class="box">好きな鉱物&lt;/span> 奴奈川石
+ &lt;/div>
+ &lt;br>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/FloraMhindi.jpg" class="thumb">
+ &lt;span class=boldsymbol>ミンディ フローラ (Mhindi, Flora) &lt;/span>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> Carbonatites
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> Reading novels and cooking
+ &lt;span class="box">好きな時代&lt;/span> 新生代
+ &lt;span class="box">好きな鉱物&lt;/span> タンザナイト
+ &lt;/div>
+&lt;/div>
+&lt;h2 id="学部生--undergraduate-student">学部生 / Undergraduate student&lt;/h2>
+&lt;h3 id="b4">B4&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/HarutoKono.jpg" class="thumb">
+ &lt;span class=boldsymbol>河野 晴大 (Kono, Haruto)&lt;/span>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 分子動力学計算、第一原理計算
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 音楽、映画
+ &lt;span class="box">好きな時代&lt;/span> チバニアン
+ &lt;span class="box">好きな鉱物&lt;/span> 翡翠
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/AokaHoashi.jpg" class="thumb">
+ &lt;span class=boldsymbol>帆足 碧夏 (Hoashi, Aoka)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class="box">研究&lt;/span> 変成岩(青色片岩)
+ &lt;br>
+ &lt;span class="box">趣味&lt;/span> 芸術/創作活動・自然/野鳥観察
+ &lt;span class="box">好きな時代&lt;/span> チトニアン
+ &lt;span class="box">好きな鉱物&lt;/span> 藍閃石
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/NaotakaTakino.jpg" class="thumb">
+ &lt;span class=boldsymbol>瀧野　直峻 (Takino, Naotaka) &lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class=box>研究&lt;/span> 岩石中のヒ素、アンチモンの挙動
+ &lt;br>
+ &lt;span class=box>趣味&lt;/span> 陸上競技、スキー
+ &lt;span class=box>好きな時代&lt;/span> NOW
+ &lt;span class=box>好きな鉱物&lt;/span> 辰砂
+ &lt;/div>
+&lt;/div>
+&lt;h3 id="b3">B3&lt;/h3>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/TomoyaHashimoto.jpg" class="thumb">
+ &lt;span class=boldsymbol>橋本　朋弥 (Hashimoto, Tomoya)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class=box>研究&lt;/span> アストロジオロジー
+ &lt;br>
+ &lt;span class=box>趣味&lt;/span> バイク・鉱物・自然散策
+ &lt;span class=box>好きな時代&lt;/span> オルドビス紀
+ &lt;span class=box>好きな鉱物&lt;/span> 藍晶石
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/HirotoKitawada.jpg" class="thumb">
+ &lt;span class=boldsymbol>北和田　浩人 (Kitawada, Hiroto)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class=box>研究&lt;/span> 未定
+ &lt;br>
+ &lt;span class=box>趣味&lt;/span> ゲーム、18きっぷでの旅行、ゴルフ、音楽鑑賞
+ &lt;span class=box>好きな時代&lt;/span> 第四紀
+ &lt;span class=box>好きな鉱物&lt;/span> ひすい輝石
+ &lt;/div>
+&lt;/div>
+&lt;div class="photo-box">
+ &lt;img src="https://kreate-tohoku.github.io/images/members/NanaSuzuki.jpg" class="thumb">
+ &lt;span class=boldsymbol>鈴木　那菜 (Suzuki, Nana)&lt;/span>
+ &lt;br>
+ &lt;div class="contents">
+ &lt;span class=box>研究&lt;/span> BIF
+ &lt;br>
+ &lt;span class=box>趣味&lt;/span> 散歩・音楽鑑賞
+ &lt;span class=box>好きな時代&lt;/span> エディアカラン
+ &lt;/div>
+&lt;/div></description></item><item><title>Tags</title><link>https://kreate-tohoku.github.io/tags/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://kreate-tohoku.github.io/tags/</guid><description>&lt;p>aaaa&lt;/p></description></item><item><title>Late Paleozoic–Early Mesozoic granitoids in the Khangay–Khentey basin, Central Mongolia: Implication for the tectonic evolution of the Mongol–Okhotsk Ocean margin</title><link>https://kreate-tohoku.github.io/publications/2021_ganbat_c/</link><pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_ganbat_c/</guid><description/></item><item><title>New tectonic model and division of the Ubendian–Usagaran Belt, Tanzania: A review and in-situ dating of eclogites</title><link>https://kreate-tohoku.github.io/publications/2021_boniface/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_boniface/</guid><description/></item><item><title>第3章 科学教育イニシアチブ(SEI)による変革の過程</title><link>https://kreate-tohoku.github.io/publications/2021_tsujimori_b/</link><pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_tsujimori_b/</guid><description/></item><item><title>Nature and timing of anatectic event of the Hida Belt (Japan): Constraints from titanite geochemistry and U-Pb age of clinopyroxene-bearing leucogranite</title><link>https://kreate-tohoku.github.io/publications/2021_harada_b/</link><pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_harada_b/</guid><description/></item><item><title>Cretaceous to Miocene NW Pacific Plate kinematic constraints: Paleomagnetism and Ar-Ar geochronology in the Mineoka Ophiolite Mélange (Japan)</title><link>https://kreate-tohoku.github.io/publications/2021_ganbat_b/</link><pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_ganbat_b/</guid><description/></item><item><title>Evidence for crustal removal, tectonic erosion and flare-ups from the Japanese evolving forearc sediment provenance</title><link>https://kreate-tohoku.github.io/publications/2021_pastor-galan/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_pastor-galan/</guid><description/></item><item><title>Revising antiphase domains in eclogitefacies omphacites</title><link>https://kreate-tohoku.github.io/publications/2021_fukushima_b/</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_fukushima_b/</guid><description/></item><item><title>Evidences for multistage and polychronous alkaline-ultrabasic Mesozoic magmatism in area of alluvial diamondiferous placers of the Anabar river basin (eastern slope of the Anabar shield)</title><link>https://kreate-tohoku.github.io/publications/2021_malkovets/</link><pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_malkovets/</guid><description/></item><item><title>Various antiphase domains in garnet-hosted omphacite in low temperature eclogite: A FIB–TEM study on heterogeneous ordering processes</title><link>https://kreate-tohoku.github.io/publications/2021_fukushima_c/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_fukushima_c/</guid><description/></item><item><title>Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model</title><link>https://kreate-tohoku.github.io/publications/2021_fukushima_a/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_fukushima_a/</guid><description/></item><item><title>Crustal evolution of the Paleoproterozoic Ubendian Belt (SW Tanzania) western margin: A Central African Shield amalgamation tale</title><link>https://kreate-tohoku.github.io/publications/2021_ganbat_a/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_ganbat_a/</guid><description/></item><item><title>The δ13C–δ18O variations in marble in the Hida Belt, Japan</title><link>https://kreate-tohoku.github.io/publications/2021_harada_a/</link><pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_harada_a/</guid><description/></item><item><title>Temporal and spatial mineralogical changes in clasts from Mariana serpentinite mud volcanoes: Cooling of the hot forearc mantle at subduction initiation</title><link>https://kreate-tohoku.github.io/publications/2021_ichiyama/</link><pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_ichiyama/</guid><description/></item><item><title>Eclogites in different tectonic settings</title><link>https://kreate-tohoku.github.io/publications/2021_tsujimori_a/</link><pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_tsujimori_a/</guid><description/></item><item><title>Reappraisal of the oldest high-pressure type schist in Japan: New zircon U-Pb age of the Kitomyo Schist of the Kurosegawa Belt</title><link>https://kreate-tohoku.github.io/publications/2021_matsunaga/</link><pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2021_matsunaga/</guid><description/></item><item><title>[論点] 国内拠点の国際学術ジャーナルは必要か？</title><link>https://kreate-tohoku.github.io/publications/2020_tsujimori_c/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_tsujimori_c/</guid><description/></item><item><title>Retrograde phases of former bridgmanite inclusions in superdeep diamonds</title><link>https://kreate-tohoku.github.io/publications/2020_zedgenizov/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_zedgenizov/</guid><description/></item><item><title>Reappraisal of natural omphacite: To see a world in a nanoscale domain</title><link>https://kreate-tohoku.github.io/publications/2020_tsujimori_b/</link><pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_tsujimori_b/</guid><description/></item><item><title>The Tekturmas ophiolite belt of central Kazakhstan: Geology, magmatism and tectonics</title><link>https://kreate-tohoku.github.io/publications/2020_khassen/</link><pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_khassen/</guid><description/></item><item><title>Editorial of the special issue 'Subduction and continental collision processes: Petrologic, geochemical and structural perspectives'</title><link>https://kreate-tohoku.github.io/publications/2020_rehman/</link><pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_rehman/</guid><description/></item><item><title>Revisiting Pb isotope signatures of Ni–Fe alloy hosted by antigorite serpentinite from the Josephine Ophiolite, USA</title><link>https://kreate-tohoku.github.io/publications/2020_kakefuda/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_kakefuda/</guid><description/></item><item><title>世界に誇れる国産ジャーナルをめざして</title><link>https://kreate-tohoku.github.io/publications/2020_tsujimori_a/</link><pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_tsujimori_a/</guid><description/></item><item><title>Greetings from the new Editors‐in‐Chief</title><link>https://kreate-tohoku.github.io/publications/2020_kano/</link><pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_kano/</guid><description/></item><item><title>Oceanic-arc subduction, stagnation, and exhumation: Zircon U-Pb geochronology and trace-element geochemistry of the Sanbagawa eclogites in central Shikoku, SW Japan</title><link>https://kreate-tohoku.github.io/publications/2020_aoki/</link><pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_aoki/</guid><description/></item><item><title>The Itmurundy Pacific-type orogenic belt in northern Balkhash, central Kazakhstan: Revisited plus first U-Pb age, geochemical and Nd isotope data from igneous rocks</title><link>https://kreate-tohoku.github.io/publications/2020_safonova/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2020_safonova/</guid><description/></item><item><title>Boron isotope compositions of antigorite–grade serpentinites in the Itoigawa–Omi area of the Hida–Gaien Belt, Japan</title><link>https://kreate-tohoku.github.io/publications/2019_yamada_b/</link><pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_yamada_b/</guid><description/></item><item><title>Sr–Pb isotope compositions of lawsonites in a Pacheco Pass metagraywacke, Franciscan Complex, California</title><link>https://kreate-tohoku.github.io/publications/2019_hara/</link><pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_hara/</guid><description/></item><item><title>Two groups of fluid inclusions in the Yunotani eclogite from the Hida–Gaien Belt: Implications for changes of fluid salinity during exhumation</title><link>https://kreate-tohoku.github.io/publications/2019_shinji_b/</link><pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_shinji_b/</guid><description/></item><item><title>変成岩と変成作用 (1.鉱物 [地球編：表層])</title><link>https://kreate-tohoku.github.io/publications/2019_osanai/</link><pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_osanai/</guid><description/></item><item><title>一家に１枚 日本列島7億年</title><link>https://kreate-tohoku.github.io/publications/2019_tsujimori_b/</link><pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_tsujimori_b/</guid><description/></item><item><title>Pillow lava basalts with back-arc MORB affinity from the Usagaran Belt, Tanzania: Relics of Orosirian ophiolites</title><link>https://kreate-tohoku.github.io/publications/2019_boniface/</link><pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_boniface/</guid><description/></item><item><title>「一家に1枚 日本列島7億年」ポスター</title><link>https://kreate-tohoku.github.io/publications/2019_tsujimori_a/</link><pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_tsujimori_a/</guid><description/></item><item><title>Boron isotope variations of Franciscan serpentinites, northern California</title><link>https://kreate-tohoku.github.io/publications/2019_yamada_a/</link><pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_yamada_a/</guid><description/></item><item><title>日本の国石「ひすい」ーバラエティに富んだ鉱物の国ー（第4章 日本の「国石」ひすい）</title><link>https://kreate-tohoku.github.io/publications/2019_miyajima/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_miyajima/</guid><description/></item><item><title>Retrograde pumpellyite in the Yunotani garnet blueschist of the Omi area, Japan: An update on the cooling path</title><link>https://kreate-tohoku.github.io/publications/2019_shinji_a/</link><pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2019_shinji_a/</guid><description/></item><item><title>[巻頭言] 加速の時代に</title><link>https://kreate-tohoku.github.io/publications/2018_tsujimori/</link><pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2018_tsujimori/</guid><description/></item><item><title>Finding of talc- and kyanite-bearing amphibolite from the Paleoproterozoic Usagaran Belt, Tanzania</title><link>https://kreate-tohoku.github.io/publications/2018_mori/</link><pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2018_mori/</guid><description/></item><item><title>Eldridge M. Moores名誉教授を慎む</title><link>https://kreate-tohoku.github.io/publications/2018_ogawa/</link><pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2018_ogawa/</guid><description/></item><item><title>In-situ Sr-Pb isotope geochemistry of lawsonite: A new method to investigate slab-fluids</title><link>https://kreate-tohoku.github.io/publications/2018_hara/</link><pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2018_hara/</guid><description/></item><item><title>In-situ lithium isotope geochemistry for a veined jadeitite from the New Idria serpentinite body, California: Constraints on slab-derived fluid and fluid-rock interaction</title><link>https://kreate-tohoku.github.io/publications/2018_takahashi/</link><pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2018_takahashi/</guid><description/></item><item><title>Cathodoluminescence petrography of P-type jadeitites from the New Idria serpentinite body, California</title><link>https://kreate-tohoku.github.io/publications/2017_takahashi/</link><pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_takahashi/</guid><description/></item><item><title>Early Paleozoic jadeitites in Japan: An overview</title><link>https://kreate-tohoku.github.io/publications/2017_tsujimori_a/</link><pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_tsujimori_a/</guid><description/></item><item><title>Gem sparkles deep: Preface of the special issue on ‘Jadeite and jadeitite’</title><link>https://kreate-tohoku.github.io/publications/2017_tsujimori_c/</link><pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_tsujimori_c/</guid><description/></item><item><title>Jadeitite (jadeite jade) from Japan: History, characteristics, and perspectives</title><link>https://kreate-tohoku.github.io/publications/2017_tsujimori_b/</link><pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_tsujimori_b/</guid><description/></item><item><title>Kimberlites and the start of plate tectonics: Reply</title><link>https://kreate-tohoku.github.io/publications/2017_stern/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_stern/</guid><description/></item><item><title>Eclogite varieties and petrotectonic evolution of the northern Guatemala Suture Complex</title><link>https://kreate-tohoku.github.io/publications/2017_martens/</link><pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_martens/</guid><description/></item><item><title>Influence of laser parameters on isotope fractionation and optimisation of lithium and boron isotope ratio measurements using laser ablation-multiple Faraday collector-inductively coupled plasma mass spectrometry</title><link>https://kreate-tohoku.github.io/publications/2016_kimura/</link><pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_kimura/</guid><description/></item><item><title>Plate-tectonic evolution of the Earth: Bottom-up and top-down mantle circulation</title><link>https://kreate-tohoku.github.io/publications/2016_ernst/</link><pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_ernst/</guid><description/></item><item><title>Kimberlites and the start of plate tectonics</title><link>https://kreate-tohoku.github.io/publications/2016_stern/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_stern/</guid><description/></item><item><title>Relict chromian spinels in Tulu Dimtu serpentinites and listvenite, Western Ethiopia: Implications for the timing of listvenite formation</title><link>https://kreate-tohoku.github.io/publications/2017_sofiya/</link><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2017_sofiya/</guid><description/></item><item><title>Petrology and geochemistry of an upper crustal pluton: A view into crustal-scale magmatism during arc to retro-arc transition</title><link>https://kreate-tohoku.github.io/publications/2016_barnes/</link><pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_barnes/</guid><description/></item><item><title>[論点] 改めて国際交流について考える</title><link>https://kreate-tohoku.github.io/publications/2016_tsujimori_a/</link><pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_tsujimori_a/</guid><description/></item><item><title>[活動風景] タンザニア再訪、ダルエスサラーム便り2016</title><link>https://kreate-tohoku.github.io/publications/2016_tsujimori_b/</link><pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_tsujimori_b/</guid><description/></item><item><title>Chapter 2a. Palaeozoic basement and associated cover</title><link>https://kreate-tohoku.github.io/publications/2016_ehiro/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_ehiro/</guid><description/></item><item><title>Chapter 2b. Pre-Cretaceous accretionary complexes</title><link>https://kreate-tohoku.github.io/publications/2016_kojima/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2016_kojima/</guid><description/></item><item><title>Petrogenesis and chemogenesis of oceanic and continental orogens in Asia: Current topics, Part I</title><link>https://kreate-tohoku.github.io/publications/2014_rehman_a/</link><pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_rehman_a/</guid><description/></item><item><title>東北日本に産する高圧変成岩類のK-Ar年代値データベース：辻森・八木（2014）の補記 [Database of K-Ar ages reported from high-pressure metamorphic rocks in NE Japan: An addition for the karsheet database]</title><link>https://kreate-tohoku.github.io/publications/2015_tsujimori/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2015_tsujimori/</guid><description/></item><item><title>Introduction —Convergent plate margin processes and their rock record—</title><link>https://kreate-tohoku.github.io/publications/2015_wakabayashi/</link><pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2015_wakabayashi/</guid><description/></item><item><title>White mica K-Ar geochronology of Sanbagawa eclogites from SW Japan: Implications for deformation-controlled K-Ar closure temperature</title><link>https://kreate-tohoku.github.io/publications/2015_itaya/</link><pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2015_itaya/</guid><description/></item><item><title>Jadeitites and plate tectonics</title><link>https://kreate-tohoku.github.io/publications/2015_harlow/</link><pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2015_harlow/</guid><description/></item><item><title>Recycling of crustal materials through study of ultrahigh-pressure minerals in collisional orogens, ophiolites, and mantle xenoliths: A Review</title><link>https://kreate-tohoku.github.io/publications/2014_liou/</link><pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_liou/</guid><description/></item><item><title>Oxygen isotopes in Indian Plate eclogites (Kaghan Valley, Pakistan): Negative δ18O values from a high latitude protolith reset by Himalayan metamorphism</title><link>https://kreate-tohoku.github.io/publications/2014_rehman_b/</link><pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_rehman_b/</guid><description/></item><item><title>Editorial —Minerals, rocks, and mountains: Linking petrology, geochemistry, and geochronology—</title><link>https://kreate-tohoku.github.io/publications/2012_rehman_a/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_rehman_a/</guid><description/></item><item><title>Rare earth element–SiO2 systematics of island arc crustal amphibolite migmatites from the Asago body of the Yakuno Ophiolite, Japan: A field evaluation of some model predictions</title><link>https://kreate-tohoku.github.io/publications/2014_pu/</link><pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_pu/</guid><description/></item><item><title>西南日本に産する高圧変成岩類のK-Ar年代値データベース [Database of K-Ar ages reported from high-pressure metamorphic rocks in SW Japan]</title><link>https://kreate-tohoku.github.io/publications/2014_tsujimori_b/</link><pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_tsujimori_b/</guid><description/></item><item><title>Lawsonite blueschists and lawsonite eclogites as proxies for paleo-subduction zone processes: A review</title><link>https://kreate-tohoku.github.io/publications/2014_tsujimori_a/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2014_tsujimori_a/</guid><description/></item><item><title>Metamorphic history of glaucophane-paragonite-zoisite eclogites from the Shanderman area, northern Iran</title><link>https://kreate-tohoku.github.io/publications/2013_omrani/</link><pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_omrani/</guid><description/></item><item><title>Deformation fabrics of natural blueschists and implications for seismic anisotropy in subducting oceanic crust</title><link>https://kreate-tohoku.github.io/publications/2013_kim_b/</link><pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_kim_b/</guid><description/></item><item><title>The fate of subducted continental crust: Evidence from recycled UHP-UHT minerals</title><link>https://kreate-tohoku.github.io/publications/2013_liou/</link><pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_liou/</guid><description/></item><item><title>Plate tectonic gemstones</title><link>https://kreate-tohoku.github.io/publications/2013_stern/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_stern/</guid><description/></item><item><title>Rheological contrast between glaucophane and lawsonite in naturally deformed blueschist from Diablo Range, California</title><link>https://kreate-tohoku.github.io/publications/2013_kim_a/</link><pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_kim_a/</guid><description/></item><item><title>Ion microprobe U-Th-Pb geochronology and study of micro-inclusions in zircon from the Himalayan high- and ultrahigh-pressure eclogites, Kaghan Valley of Pakistan</title><link>https://kreate-tohoku.github.io/publications/2013_rehman/</link><pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2013_rehman/</guid><description/></item><item><title>Tectono-metamorphic evolution of high P/T and low-P/T metamorphic rocks in the Tia complex, southern New England fold belt, eastern Australia: Insights from K-Ar chronology</title><link>https://kreate-tohoku.github.io/publications/2012_fukui/</link><pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_fukui/</guid><description/></item><item><title>Chapter 6. Sm-Nd and Lu-Hf isotope geochemistry of the Himalayan high- and ultrahigh-pressure eclogites, Kaghan valley, Pakistan—</title><link>https://kreate-tohoku.github.io/publications/2012_rehman_b/</link><pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_rehman_b/</guid><description/></item><item><title>Introduction —Jadeitite: New occurrences, new data, new interpretations—</title><link>https://kreate-tohoku.github.io/publications/2012_harlow/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_harlow/</guid><description/></item><item><title>Petrogenetic relationships between jadeitite and associated high-pressure and low-temperature metamorphic rocks in worldwide jadeitite localities: A review</title><link>https://kreate-tohoku.github.io/publications/2012_tsujimori/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_tsujimori/</guid><description/></item><item><title>東アジアの250Ma大陸衝突帯と日本－八重山プロモントリ－説再考－ [Japan and the 250 Ma continental collision belt in East Asia: Yaeyama promontory hypothesis revisited]</title><link>https://kreate-tohoku.github.io/publications/2012_ishiwatari/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_ishiwatari/</guid><description/></item><item><title>「はやぶさ」回収試料初期分析に至るまで：地球惑星物質総合解析システムの構築 [Establishment of comprehensive analytical system for terrestrial and extraterrestrial materials behind the Initial analysis of particles from an asteroid, Itokawa, returned by Hayabusa Spacecraft]</title><link>https://kreate-tohoku.github.io/publications/2012_nakamura_b/</link><pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_nakamura_b/</guid><description/></item><item><title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title><link>https://kreate-tohoku.github.io/publications/2012_nakamura_a/</link><pubDate>Sat, 28 Jan 2012 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2012_nakamura_a/</guid><description/></item><item><title>Evolution of the Sanbagawa and Shimanto high-pressure belts in SW Japan: Insights from K-Ar (Ar-Ar) geochronology</title><link>https://kreate-tohoku.github.io/publications/2011_itaya/</link><pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2011_itaya/</guid><description/></item><item><title>In situ ion-microbe determination of trace element partition coefficients for hornblende, plagioclase, orthopyroxene and apatite in equilibrium with natural rhyolitic glass, Little Glass Mountain Rhyolite, California</title><link>https://kreate-tohoku.github.io/publications/2011_brophy/</link><pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2011_brophy/</guid><description/></item><item><title>Multiple origins of zircons in jadeitite</title><link>https://kreate-tohoku.github.io/publications/2010_fu/</link><pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2010_fu/</guid><description/></item><item><title>造山帯中の高圧低温変成岩を伴う蛇紋岩メランジュ [Blueschist-bearing serpentine mélange in orogenic belt: A review]</title><link>https://kreate-tohoku.github.io/publications/2010_tsujimori_b/</link><pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2010_tsujimori_b/</guid><description/></item><item><title>日本列島に記録された古生代高圧変成作用 －新知見とこれから解決すべき問題点－ [Paleozoic subduction-related metamorphism in Japan: New insights and perspectives]</title><link>https://kreate-tohoku.github.io/publications/2010_tsujimori_a/</link><pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2010_tsujimori_a/</guid><description/></item><item><title>Metamorphic P-T conditions and thermal structure of Chinese Continental Scientific Drilling main hole eclogites: Fe-Mg partitioning thermometer vs Zr-in-rutile thermometer</title><link>https://kreate-tohoku.github.io/publications/2009_zhang/</link><pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_zhang/</guid><description/></item><item><title>周防帯 §4.5.11 岡山県勝山－大佐地域 (第4章変成岩と変成作用) [§4.5.11 Suo metamorphic belt: Katsuyama-Osa area, Tottori Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_g/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_g/</guid><description/></item><item><title>周防帯 §4.5.12 岡山県北房地域 (第4章変成岩と変成作用) [§4.5.12 Suo metamorphic belt: Hokubo area, Okayama Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_h/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_h/</guid><description/></item><item><title>周防帯 §4.5.7 鳥取県多里地域 (第4章変成岩と変成作用) [§4.5.7 Suo metamorphic belt: Tari area, Tottori Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_e/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_e/</guid><description/></item><item><title>周防帯 §4.5.8 鳥取県江府－根雨地域 (第4章変成岩と変成作用) [§4.5.8 Suo metamorphic belt: Koufu–Neu area, Tottori Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_f/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_f/</guid><description/></item><item><title>大江山オフィオライト §4.3.1 岡山県大佐山地域 (第4章変成岩と変成作用) [§4.3.1 Oeyama ophiolite: Osayama area, Okayama Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_a/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_a/</guid><description/></item><item><title>大江山オフィオライト §4.3.2 岡山県足立地域 (第4章変成岩と変成作用) [§4.3.2 Oeyama ophiolite: Ashidachi area, Okayama Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_c/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_c/</guid><description/></item><item><title>大江山オフィオライト §4.3.3 広島県道後山地域 (第4章変成岩と変成作用) [§4.3.3 Oeyama ophiolite: Dougoyama area, Hiroshima Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_b/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_b/</guid><description/></item><item><title>接触変成帯 §4.8.5 鳥取・広島・岡山県境の多里・三坂－大佐山地域：大江山オフィオライトの超苦鉄質岩 (第4章変成岩と変成作用) [§4.8.5 Contact metamorphism: Metaserpentinite of the Tari-Misaka–Osayama area (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimorii/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimorii/</guid><description/></item><item><title>蓮華帯 §4.4.2 岡山県大佐山地域 (第4章変成岩と変成作用) [§4.4.2 Renge metamorphic belt: Osayama area, Okayama Prefecture (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2009_tsujimori_d/</link><pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_tsujimori_d/</guid><description/></item><item><title>Ultrahigh-pressure minerals and metamorphic terranes – The view from China</title><link>https://kreate-tohoku.github.io/publications/2009_liou/</link><pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_liou/</guid><description/></item><item><title>Metamorphic reworking of a high pressure–low temperature mélange along the Motagua fault, Guatemala: A record of Neocomian and Maastrichtian transpressional tectonics</title><link>https://kreate-tohoku.github.io/publications/2009_brueckner/</link><pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_brueckner/</guid><description/></item><item><title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title><link>https://kreate-tohoku.github.io/publications/2009_itaya/</link><pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2009_itaya/</guid><description/></item><item><title>Orogeny and metallogenesis along the margin of eastern Asia: Permo-Triassic subduction-zone metamorphism, crustal accretion, and exhumation</title><link>https://kreate-tohoku.github.io/publications/2008_ernst/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2008_ernst/</guid><description/></item><item><title>High-pressure belts of central Guatemala: the Motagua suture and the Chuacús complex</title><link>https://kreate-tohoku.github.io/publications/2007_martens/</link><pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_martens/</guid><description/></item><item><title>Petrology and U-Pb SHRIMP geochronology of a garnet peridotite, Sulu UHP terrane, east-central China</title><link>https://kreate-tohoku.github.io/publications/2007_zhao/</link><pubDate>Fri, 05 Oct 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_zhao/</guid><description/></item><item><title>Significance of the Ca-Na pyroxene-lawsonite-chlorite assemblage in blueschist-facies metabasalts: An example from the Renge metamorphic rocks, SW Japan</title><link>https://kreate-tohoku.github.io/publications/2007_tsujimori_b/</link><pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_tsujimori_b/</guid><description/></item><item><title>Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin</title><link>https://kreate-tohoku.github.io/publications/2007_ernst/</link><pubDate>Tue, 30 Jan 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_ernst/</guid><description/></item><item><title>Finding of high-grade tectonic blocks from the New Idria serpentinite body, Diablo Range, California: Petrologic constraints on the tectonic evolution of an active serpentinite diapir</title><link>https://kreate-tohoku.github.io/publications/2007_tsujimori_a/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_tsujimori_a/</guid><description/></item><item><title>On-going orogeny in the outer arc of Timor-Tanimbar region, eastern Indonesia</title><link>https://kreate-tohoku.github.io/publications/2007_kaneko/</link><pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2007_kaneko/</guid><description/></item><item><title>Very-low-temperature record in subduction process: A review of worldwide lawsonite eclogites</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_b/</link><pubDate>Fri, 01 Dec 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_b/</guid><description/></item><item><title>Franciscan eclogite revisited: Reevaluation of the P-T evolution of tectonic blocks from Tiburon Peninsula, California, U.S.A.</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_c/</link><pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_c/</guid><description/></item><item><title>Protolith and metamorphic ages of the Haiyangsuo Complex, eastern China: A Non-UHP exotic tectonic slab in the Sulu ultrahigh-pressure terrane</title><link>https://kreate-tohoku.github.io/publications/2006_liou/</link><pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_liou/</guid><description/></item><item><title>[口絵] グアテマラ中央部の地質調査 [Pictorial —Geologic fieldwork in central Guatemala—]</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_f/</link><pubDate>Mon, 12 Jun 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_f/</guid><description/></item><item><title>青海蛇紋岩メンランジュ産の藍閃石−緑れん石エクロジャイトの圧力温度シュードセクション：予報 [P-T pseudosection of a glaucophane-epidote eclogite from Omi serpentinite melange, SW Japan: A preliminary report]</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_e/</link><pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_e/</guid><description/></item><item><title>青色片岩相からローソン石エクロジャイトへ [From blueschist to lawsonite eclogite: An essay]</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_g/</link><pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_g/</guid><description/></item><item><title>飛騨外縁帯・秋吉帯 §2.2.3 青海地域湯之谷の高圧型変成岩類：古生代に沈み込んだスラブ物質のエクロジャイト化の記録 (各論第2章飛騨外縁帯・秋吉帯：日本最古の地層を含む地質帯) [§2.2.3 Paleozoic high-pressure metamorphic rocks in the Yunotani Valley, Omi area (SW Japan)]</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_h/</link><pubDate>Fri, 20 Jan 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_h/</guid><description/></item><item><title>Honvang serpentinite body of the Song Ma fault zone, Northern Vietnam: A remnant of oceanic lithosphere within the Indochina-South China suture</title><link>https://kreate-tohoku.github.io/publications/2006_trung/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_trung/</guid><description/></item><item><title>Non-ultrahigh-pressure unit bordering the Sulu ultrahigh-pressure terrane, eastern China: Transformation of Proterozoic granulite and gabbro to garnet amphibolite</title><link>https://kreate-tohoku.github.io/publications/2006_zhang/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_zhang/</guid><description/></item><item><title>Petrologic characterization of Guatemalan lawsonite eclogite: Eclogitization of subducted oceanic crust in a cold subduction zone</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_a/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_a/</guid><description/></item><item><title>Triassic paragonite- and garnet-bearing epidote-amphibolite from the Hida Mountains, Japan</title><link>https://kreate-tohoku.github.io/publications/2006_tsujimori_d/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2006_tsujimori_d/</guid><description/></item><item><title>Coexisting retrograde jadeite and omphacite in a jadeite-bearing lawsonite eclogite from the Motagua Fault Zone, Guatemala</title><link>https://kreate-tohoku.github.io/publications/2005_tsujimori_c/</link><pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_tsujimori_c/</guid><description/></item><item><title>Low-pressure and low-temperature K-bearing kosmochloric diopside from the Osayama serpentinite melange, SW Japan</title><link>https://kreate-tohoku.github.io/publications/2005_tsujimori_d/</link><pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_tsujimori_d/</guid><description/></item><item><title>U-Pb dating of large zircons in low-temperature jadeitite from the Osayama serpentinite melange, Southwest Japan: Insights into the timing of serpentinization</title><link>https://kreate-tohoku.github.io/publications/2005_tsujimori_b/</link><pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_tsujimori_b/</guid><description/></item><item><title>[口絵] カリフォルニア州Hollisterにみられる断層クリープ [Pictorial —Creep fault observed in Hollister, California—]</title><link>https://kreate-tohoku.github.io/publications/2005_takagi/</link><pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_takagi/</guid><description/></item><item><title>白山弥陀ヶ原から発見されたアルカリ岩質テフラ [An alkaline tephra found at Midagahara, Mt. Hakusan]</title><link>https://kreate-tohoku.github.io/publications/2005_higashino/</link><pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_higashino/</guid><description/></item><item><title>Eclogite-facies mineral inclusions in clinozoisite from Paleozoic blueschist, central Chugoku Mountains, Southwest Japan: Evidence of regional eclogite-facies metamorphism</title><link>https://kreate-tohoku.github.io/publications/2005_tsujimori_a/</link><pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_tsujimori_a/</guid><description/></item><item><title>UHP metamorphism and continental subduction/collision</title><link>https://kreate-tohoku.github.io/publications/2005_liou/</link><pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2005_liou/</guid><description/></item><item><title>Electron-microprobe analyses of Allende chondrules and CAIs: Implication to the argon isotope study of carbonaceous chondrite</title><link>https://kreate-tohoku.github.io/publications/2004_takeshima/</link><pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_takeshima/</guid><description/></item><item><title>Epidote-rich talc-kyanite-phengite eclogites, Sulu terrane, eastern China: P-T-f(O2) estimates and the significance of the epidote-talc assemblage in eclogite</title><link>https://kreate-tohoku.github.io/publications/2004_mattinson/</link><pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_mattinson/</guid><description/></item><item><title>組成累帯クロムスピネルからみた青海蛇紋岩メランジュを構成する蛇紋岩の起源 [Origin of serpentinites in the Omi serpentinite melange (Hida Mountains, Japan) deduced from zoned chromian spinel]</title><link>https://kreate-tohoku.github.io/publications/2004_tsujimori_c/</link><pubDate>Fri, 01 Oct 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_tsujimori_c/</guid><description/></item><item><title>A pictorial introduction to coarse-grained symplectites in low-temperature jadeitite from Guatemala</title><link>https://kreate-tohoku.github.io/publications/2004_tsujimori_d/</link><pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_tsujimori_d/</guid><description/></item><item><title>[口絵] 九州，天草下島の含藍晶石緑れん石角閃岩類 [Pictorial —Kyanite-bearing epidote amphibolites from Amakusa-shimonoshima, Kyusyu, Southwest Japan—]</title><link>https://kreate-tohoku.github.io/publications/2004_takeda/</link><pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_takeda/</guid><description/></item><item><title>Coexisting chromian omphacite and diopside in tremolite schist from the Chugoku Mountains, SW Japan: The effect of Cr on the omphacite-diopside immiscibility gap</title><link>https://kreate-tohoku.github.io/publications/2004_tsujimori_b/</link><pubDate>Thu, 22 Apr 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_tsujimori_b/</guid><description/></item><item><title>Metamorphic evolution of kyanite-staurolite-bearing epidote-amphibolite from the Early Paleozoic Oeyama belt, SW Japan</title><link>https://kreate-tohoku.github.io/publications/2004_tsujimori_a/</link><pubDate>Thu, 22 Apr 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_tsujimori_a/</guid><description/></item><item><title>Global UHP metamorphism and continental subduction/collision: The Himalayan model</title><link>https://kreate-tohoku.github.io/publications/2004_liou/</link><pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2004_liou/</guid><description/></item><item><title>Extremely Fe-rich metamorphic sekaninaite in a sillimanite-grade schist clast from the Middle Jurassic conglomerate, Hida Mountains, Japan</title><link>https://kreate-tohoku.github.io/publications/2003_tsujimori/</link><pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2003_tsujimori/</guid><description/></item><item><title>Paleozoic ophiolites and blueschists in Japan and Russian Primorye in the tectonic framework of East Asia: A synthesis</title><link>https://kreate-tohoku.github.io/publications/2003_ishiwatari/</link><pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2003_ishiwatari/</guid><description/></item><item><title>炭素質コンドライトに40Ar-39Ar法を適用するための基礎研究（その１）：アエンデ隕石中の含塩素物質の重要性 [Fundamental research on the application of 40Ar-39Ar chronology to chondritic meteorite (1): Significance of Cl-bearing material in Allende meteorite]</title><link>https://kreate-tohoku.github.io/publications/2003_takeshima/</link><pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2003_takeshima/</guid><description/></item><item><title>Cenozoic and Mesozoic metamorphism in the Longmenshan orogen: Implications for geodynamic models of eastern Tibet</title><link>https://kreate-tohoku.github.io/publications/2003_wallis/</link><pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2003_wallis/</guid><description/></item><item><title>Phlogopite in jadeitite from the Osayama serpentinite melange, Chugoku Mountains, Southwest Japan</title><link>https://kreate-tohoku.github.io/publications/2002_tsujimori_d/</link><pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2002_tsujimori_d/</guid><description/></item><item><title>中国山地，大佐山産ローソン石青色片岩中のスティルプノメレンK-Ar年代測定：予報 [Stilpnomelane K-Ar age dating for the lawsonite blueschist from the Osayama serpentinite melange in Chugoku Mountains, Southwest Japan: A preliminary report]</title><link>https://kreate-tohoku.github.io/publications/2002_tsujimori_c/</link><pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2002_tsujimori_c/</guid><description/></item><item><title>Prograde and retrograde P-T paths of the late Paleozoic glaucophane eclogite from the Renge metamorphic belt, Hida Mountains, southwestern Japan</title><link>https://kreate-tohoku.github.io/publications/2002_tsujimori_a/</link><pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2002_tsujimori_a/</guid><description/></item><item><title>Granulite facies relics in the early Paleozoic kyanite-bearing ultrabasic metacumulate in the Oeyama belt, the inner zone of southwestern Japan</title><link>https://kreate-tohoku.github.io/publications/2002_tsujimori_b/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2002_tsujimori_b/</guid><description/></item><item><title>Database on rock-forming minerals (1): Na amphibole from Renghe schist at Osayama, Wakasa, Oya, Hakogase and Omi areas, SW Japan</title><link>https://kreate-tohoku.github.io/publications/2001_tsujimori_b/</link><pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2001_tsujimori_b/</guid><description/></item><item><title>Developments of the Hida and Hida marginal belts</title><link>https://kreate-tohoku.github.io/publications/2001_kunugiza/</link><pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2001_kunugiza/</guid><description/></item><item><title>日本海及びその周辺域の岩石 [Rocks in the Japan Sea and surrounding areas]</title><link>https://kreate-tohoku.github.io/publications/2001_ishiwatari_b/</link><pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2001_ishiwatari_b/</guid><description/></item><item><title>糸魚川−青海地域の古生代高圧変成岩 [Paleozoic high-pressure metamorphic rocks in the Itoigawa-Omi area, SW Japan]</title><link>https://kreate-tohoku.github.io/publications/2001_tsujimori_a/</link><pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2001_tsujimori_a/</guid><description/></item><item><title>Late Paleozoic high-pressure metamorphic belts in Japan and Sikhote-Alin: Possible oceanic extension of the Chinese Dabie-Sulu suture detouring Korea</title><link>https://kreate-tohoku.github.io/publications/2001_ishiwatari_a/</link><pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2001_ishiwatari_a/</guid><description/></item><item><title>[口絵] 大陸衝突の現場: 南チベットの地質調査 [Pictorial —Orogenesis in action: Geological survey in Southern Tibet—]</title><link>https://kreate-tohoku.github.io/publications/2000_wallis_a/</link><pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_wallis_a/</guid><description/></item><item><title>Eclogite and related metamorphism in the Sanbagawa belt, Southwest Japan</title><link>https://kreate-tohoku.github.io/publications/2000_wallis_b/</link><pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_wallis_b/</guid><description/></item><item><title>Illustrated introduction to eclogite in Japan</title><link>https://kreate-tohoku.github.io/publications/2000_tsujimori_d/</link><pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_tsujimori_d/</guid><description/></item><item><title>西南日本内帯大江山地域の普甲峠変成沈積岩に産する4～4.4億年含藍晶石緑れん石角閃岩 [403-443 Ma kyanite-bearing epidote amphibolite from the Fuko Pass metacumulate in Oeyama, the Inner Zone of southwestern Japan]</title><link>https://kreate-tohoku.github.io/publications/2000_tsujimori_c/</link><pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_tsujimori_c/</guid><description/></item><item><title>西南日本内帯蓮華変成帯，青海町湯ノ谷のエクロジャイト質藍閃石片岩について [Eclogitic glaucophane schist from the Yunotani valley in Omi Town, the Renge metamorphic belt, the Inner Zone of southwestern Japan]</title><link>https://kreate-tohoku.github.io/publications/2000_tsujimori_b/</link><pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_tsujimori_b/</guid><description/></item><item><title>Pictorial —Discovery of eclogitic glaucophane schist from the Omi area, Renge metamorphic belt, the Inner Zone of southwestern Japan—</title><link>https://kreate-tohoku.github.io/publications/2000_tsujimori_a/</link><pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/2000_tsujimori_a/</guid><description/></item><item><title>Petrogenesis of the Fuko Pass high-pressure metacumulate from the Oeyama peridotite body, southwestern Japan: Evidence for Early Paleozoic subduction metamorphism</title><link>https://kreate-tohoku.github.io/publications/1999_tsujimori_b/</link><pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_tsujimori_b/</guid><description/></item><item><title>ロシア極東，タイガノス半島のエリストラートバ・オフィオライト：海洋底マントルに貫入する島弧オフィオライト [Elistratova ophiolite in Taiganos peninsula, Far East Russia]</title><link>https://kreate-tohoku.github.io/publications/1999_saito/</link><pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_saito/</guid><description/></item><item><title>[口絵] ロシア沿海州の古生代藍閃変成帯 [Pictorial —Paleozoic blueschists in Primorye, Russia—]</title><link>https://kreate-tohoku.github.io/publications/1999_ishiwatari_b/</link><pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_ishiwatari_b/</guid><description/></item><item><title>[口絵] 西南日本内帯古～中生代付加型造山帯のナップ境界の衝上断層 [Pictorial —Nappe-bounding thrust faults in the Paleozoic-Mesozoic accretionary orogen in the Inner Zone of Southwestern Japan—]</title><link>https://kreate-tohoku.github.io/publications/1999_ishiwatari_a/</link><pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_ishiwatari_a/</guid><description/></item><item><title>Blueschist-facies metamorphism during Paleozoic orogeny in southwestern Japan: Phengite K-Ar ages of blueschist-facies tectonic blocks in a serpentinite melange beneath early Paleozoic Oeyama ophiolite</title><link>https://kreate-tohoku.github.io/publications/1999_tsujimori_a/</link><pubDate>Mon, 01 Feb 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_tsujimori_a/</guid><description/></item><item><title>Boninite–ophiolite assemblages – the specific formations of ensimatic island arc systems</title><link>https://kreate-tohoku.github.io/publications/1999_vysotskiy/</link><pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_vysotskiy/</guid><description/></item><item><title>Electron microprobe element image of zoned chromian spinel with hydrous mineral inclusions in a chromitite from Elistratova ophiolite, Far East Russia</title><link>https://kreate-tohoku.github.io/publications/1999_tsujimori_c/</link><pubDate>Tue, 01 Dec 1998 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1999_tsujimori_c/</guid><description/></item><item><title>[口絵] ロシア極東タイガノス半島の付加体とオフィオライト [Pictorial —Accretionary complexes and ophiolites in Taigonos Peninsula, Far-Eastern Russia—]</title><link>https://kreate-tohoku.github.io/publications/1998_ishiwatari/</link><pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1998_ishiwatari/</guid><description/></item><item><title>中国山地中央部，大佐山蛇紋岩メランジュの地質：大江山オフィオライトの下に発達した320 Ma 青色片岩を含む蛇紋岩メランジュ [Geology of the Osayama serpentinite melange in the central Chugoku Mountains, southwestern Japan: 320 Ma blueschist-bearing serpentinite melange beneath the Oeyama ophiolite]</title><link>https://kreate-tohoku.github.io/publications/1998_tsujimori/</link><pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1998_tsujimori/</guid><description/></item><item><title>Omphacite-diopside vein in an omphacitite block from the Osayama serpentinite melange, Sangun-Renge metamorphic belt, southwestern Japan</title><link>https://kreate-tohoku.github.io/publications/1997_tsujimori_a/</link><pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1997_tsujimori_a/</guid><description/></item><item><title>Quantitative analysis of common rock-forming minerals by a modern wavelength-dispersive type EPMA: A preliminary report</title><link>https://kreate-tohoku.github.io/publications/1997_tsujimori_b/</link><pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1997_tsujimori_b/</guid><description/></item><item><title>中国山地中央部，320Ma青色片岩を含む蛇紋岩メランジュのメランジュ・マトリクスの初生かんらん岩 [Primary peridotite in the melange-matrix of the 320 Ma blueschist-bearing Osayama serpentinite melange, central Chugoku Mountains]</title><link>https://kreate-tohoku.github.io/publications/1997_tsujimori_c/</link><pubDate>Mon, 31 Mar 1997 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1997_tsujimori_c/</guid><description/></item><item><title>Staurolite-bearing sillimanite schist cobble from the Upper Jurassic Tetori Group in the Kuzuryu area, Hida Mountains, central Japan</title><link>https://kreate-tohoku.github.io/publications/1995_tsujimori/</link><pubDate>Fri, 01 Dec 1995 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1995_tsujimori/</guid><description/></item><item><title>1995年2月18日落下「根上隕石」概報 [A preliminary report on the Neagari meteorite fall on February 18th, 1995]</title><link>https://kreate-tohoku.github.io/publications/1995_ishiwatari/</link><pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/publications/1995_ishiwatari/</guid><description/></item></channel></rss>

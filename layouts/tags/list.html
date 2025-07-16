@@ -11,7 +11,7 @@
             <!-- .Titleが、Tags/Newsの形のときと、Newsの形のときで２通り存在する謎現象への対応 -->
             <!-- .Title を整形：頭の "Tags/" を除去する -->
             {{ $displayTitle := replaceRE "^Tags/" "" .Title }}
-  {{/* 2) News かどうかで表示テキストを決定 */}}
+            {{/* 2) News かどうかで表示テキストを決定 */}}
             {{ $titleToShow := cond (eq $displayTitle "News") "News" (printf "Tag: %s" $displayTitle) }}
 
             <img src="{{ $large }}" alt="{{ $titleToShow }}" class="w-full h-[60vh] object-cover" />
