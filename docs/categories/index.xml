@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on KREATE</title><link>https://kreate-tohoku.github.io/categories/</link><description>Recent content in Categories on KREATE</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 15 Jul 2025 10:58:18 +0900</lastBuildDate><atom:link href="https://kreate-tohoku.github.io/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https://kreate-tohoku.github.io/categories/blog/</link><pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/categories/blog/</guid><description/></item><item><title>Categories/巡検</title><link>https://kreate-tohoku.github.io/categories/%E5%B7%A1%E6%A4%9C/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/categories/%E5%B7%A1%E6%A4%9C/</guid><description/></item><item><title>Categories/イベント</title><link>https://kreate-tohoku.github.io/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid><description/></item><item><title>Categories/Event</title><link>https://kreate-tohoku.github.io/categories/event/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/categories/event/</guid><description/></item><item><title>Categories/受賞</title><link>https://kreate-tohoku.github.io/categories/%E5%8F%97%E8%B3%9E/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://kreate-tohoku.github.io/categories/%E5%8F%97%E8%B3%9E/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on KREATE</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on KREATE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2025 21:20:13 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/categories/blog/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/巡検</title>
+      <link>http://localhost:1313/categories/%E5%B7%A1%E6%A4%9C/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%B7%A1%E6%A4%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/イベント</title>
+      <link>http://localhost:1313/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/Event</title>
+      <link>http://localhost:1313/categories/event/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/受賞</title>
+      <link>http://localhost:1313/categories/%E5%8F%97%E8%B3%9E/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%8F%97%E8%B3%9E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Categories/学会</title>
+      <link>http://localhost:1313/categories/%E5%AD%A6%E4%BC%9A/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E5%AD%A6%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

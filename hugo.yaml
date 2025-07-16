@@ -127,27 +127,33 @@ menu:
     #   name: Prose
     #   url: /prose/
     #   weight: 10
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
     - identifier: about
       name: About
       url: /about/
       weight: 20
-    - identifier: news
-      name: News
-      url: /news/
-      weight: 20
     - identifier: members
       name: Members
       url: /members/
-      weight: 20
-    - identifier: publications
-      name: Publications
-      url: /publications/
+      weight: 30
     # - identifier: Outreach
     #   name: Outreach
     #   url: /Outreach/
     - identifier: posts
       name: Posts
       url: /posts/
+      weight: 40
+    - identifier: news
+      name: News
+      url: /tags/news/
+      weight: 50
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 60
     # - identifier: categories
     #   pre: dropdown
     #   name: Categories
@@ -198,9 +204,9 @@ menu:
     #   url: /categories/blog/
     #   weight: 20
     - identifier: news
-      name: News
-      url: /news/
-      weight: 30
+      name: news
+      url: /tags/news/
+      weight: 60
     - identifier: posts
       name: posts
       url: /posts/
@@ -208,7 +214,7 @@ menu:
     - identifier: publications
       name: Publications
       url: /publications/
-      weight: 50
+      weight: 60
 
 markup:
   goldmark:

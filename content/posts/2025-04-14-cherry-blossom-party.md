@@ -7,7 +7,7 @@ featured_image: ../assets/images/posts/2025-04-14-cherry-blossom-party.jpeg
 summary: 春から来日した、中国人のD3のKunとタンザニア人のM1のFloraにJapanese cultureを感じてほしいという思いから、4年生の歓迎会を兼ねて花見を開催しました。
 author: 瀧野　直峻
 categories: イベント
-tags: イベント
+tags: [イベント]
 ---
 
 # 花見の準備

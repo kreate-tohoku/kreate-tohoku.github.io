@@ -6,8 +6,9 @@ language: ja
 featured_image: ../assets/images/posts/example/acon.jpg
 summary: 2025年変成岩などシンポジウム開催・参加報告
 author: 梅宮 穂花
-categories: blog
+categories: 学会
 tags: [学会]
+
 ---
 
 # 2025年変成岩などシンポジウム開催・参加報告

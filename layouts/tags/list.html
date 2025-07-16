@@ -1,0 +1,45 @@
+{{ define "main" }}
+<main>
+    <article>
+        <div class="relative w-full">
+
+            {{ $featured_image := resources.GetMatch "images/featured/flower-hagi.jpg" }}
+            {{ $large := ($featured_image.Fill "1500x300 webp q90").RelPermalink }}
+
+
+
+            <!-- .Titleが、Tags/Newsの形のときと、Newsの形のときで２通り存在する謎現象への対応 -->
+            <!-- .Title を整形：頭の "Tags/" を除去する -->
+            {{ $displayTitle := replaceRE "^Tags/" "" .Title }}
+  {{/* 2) News かどうかで表示テキストを決定 */}}
+            {{ $titleToShow := cond (eq $displayTitle "News") "News" (printf "Tag: %s" $displayTitle) }}
+
+            <img src="{{ $large }}" alt="{{ $titleToShow }}" class="w-full h-[60vh] object-cover" />
+
+            {{/* テキストオーバーレイ */}}
+            <div class="absolute inset-0 flex flex-col items-center justify-center text-center space-y-4">
+                <h1
+                    class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
+                    {{ $titleToShow }}
+                </h1>
+            </div>
+
+
+
+
+
+        </div>
+
+
+        {{ with .Content }}
+        <div class="max-w-3xl px-6 mx-auto mt-6 prose dark:prose-invert dark:text-white">
+            {{- . -}}
+        </div>
+        {{ end }}
+        {{ partial "posts-template.html" . }}
+    </article>
+    <div class="max-w-xl mx-auto my-16">
+        {{ partial "pagination" . }}
+    </div>
+</main>
+{{ end }}
