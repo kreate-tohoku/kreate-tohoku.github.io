@@ -13,6 +13,7 @@ tags: [学会, News]
 
 ## Date and Venue
 
+
 **Date: March 12-14, 2025** | [**Calendar**](https://calendar.app.google/DjqMDQpmjWUpfS7x9) 
 
 **Venue: Tohoku University - Aobayama Campus**
@@ -22,6 +23,9 @@ tags: [学会, News]
 * Access from ['JR Sendai Station' | JR仙台駅](https://maps.app.goo.gl/vAe7pYwn6GqSJkCC6): Take the Subway Tōzai Line from T07 'Sendai' to [T02 'Aobayama' Station | 青葉山駅](https://maps.app.goo.gl/ejsB2g5Za2tucuie8)
 
 --------------------------------
+
+<img src = /images/posts/2025-03-12-meta-sympo-index/img.jpg style="width: 90%">
+
 ## Program
 
 **Day 1, March 12 | Oral and Poster**

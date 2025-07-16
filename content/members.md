@@ -95,6 +95,25 @@ featured_image: ../assets/images/featured/bird.JPG
   </div>
 </div>
 
+## 客員・兼務教員 / Visiting & Cross-affiliated Faculty
+
+
+<div class="photo-box">
+  <img src="/images/members/Daniel.jpg" class="thumb">
+  <span class=boldsymbol>Daniel Pastor-Galán 助教 </span>
+  <div class="contents">
+    <div class="orcid">ORCID: https://orcid.org/ORCID: 0000-0002-0226-2739</div>
+    <span class="box">研究</span> プレートキネマティクス
+    <br>
+    <span class="box">所属</span> 所属: 学際科学フロンティア研究所 新領域創成研究部 (グラナダ大学とクロスアポイント)
+  </div>
+</div>
+
+
+
+
+
+
 
 ## 博士課程 / Doctoral student
 
