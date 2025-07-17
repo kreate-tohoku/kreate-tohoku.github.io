@@ -11,7 +11,6 @@ tags: [学会, News]
 
 ---
 
-## Date and Venue
 
 ----------
 
@@ -38,6 +37,8 @@ Date: April 6, 2025 at 17:01:30 JST
 辻森 樹
 
 ----------
+
+## Date and Venue
 
 **Date: March 12-14, 2025** | [**Calendar**](https://calendar.app.google/DjqMDQpmjWUpfS7x9) 
 
