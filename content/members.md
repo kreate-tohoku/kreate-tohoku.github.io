@@ -105,7 +105,7 @@ featured_image: ../assets/images/featured/bird.JPG
     <div class="orcid">ORCID: https://orcid.org/0000-0002-0226-2739</div>
     <span class="box">研究</span> プレートキネマティクス
     <br>
-    <span class="box">所属</span> 所属: 学際科学フロンティア研究所 新領域創成研究部 (スペイン科学技術最高評議会とのクロスアポイント)
+    <span class="box">所属</span> 学際科学フロンティア研究所 新領域創成研究部 (スペイン科学技術最高評議会とのクロスアポイント)
   </div>
 </div>
 
