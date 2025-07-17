@@ -247,6 +247,26 @@
                 <h2 class="text-3xl font-black tracking-tight text-primary-500 dark:text-primary-300 sm:text-4xl">
                     {{ .Site.Params.P4.Heading }}
                 </h2>
+
+                <!-- ---------- Tag list (site-wide) ---------- -->
+                {{- $tags := site.Taxonomies.tags -}}
+                {{- if $tags }}
+                <section class="max-w-1xl mx-auto mt-12 px-6">
+                    <ul class="flex flex-wrap gap-3">
+                        {{- range $name, $pages := $tags }}
+                        <li>
+                            <a href="{{ $pages.Page.RelPermalink }}"
+                                class="inline-flex items-center border rounded-md bg-gray-100 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-white capitalize">
+                                {{ $name }} <span class="ml-1 text-xs opacity-70">({{ len $pages }})</span>
+                            </a>
+                        </li>
+                        &nbsp;
+                        {{- end }}
+                    </ul>
+                </section>
+                {{- end }}
+                <!-- ---------- Tag list (site-wide) ---------- -->
+
                 {{ range .Site.Params.P4.Content }}
                 <p class="max-w-3xl mx-auto mt-3 text-xl text-gray-500 dark:text-gray-300 sm:mt-4">
                     {{ .text }}
@@ -267,7 +287,7 @@
                             <!--mdファイルのヘッダ部分に、featured_imageが設定されているとき-->
                             {{ if .Params.featured_image }}
                             {{ with resources.Get .Params.featured_image }}
-                            {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
+                            {{ $postimage := (.Resize "600x400 webp q90").RelPermalink }}
                             <a href="{{ $.Permalink }}">
                                 <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg"
                                     width="100%" loading="lazy" alt="{{ $.Title }}" />
@@ -291,7 +311,6 @@
                             {{ end }}
                             {{ end }}
                             <!---------------------------------- -->
-
 
                             <div class="p-6">
                                 <div class="flex-1">

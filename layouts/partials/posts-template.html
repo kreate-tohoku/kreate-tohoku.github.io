@@ -1,12 +1,19 @@
 <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50">
+
+
+
     <div class="px-4 not-prose">
         <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
+
+
+
             {{ range .Paginator.Pages }}
             <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
                 <a href="{{.Permalink}}">
                     {{ with .Params.featured_image }}
                     {{ with resources.Get . }}
-                    {{ $postimage := (.Resize "600x400 webp q90").RelPermalink }}
+                    {{ $postimage := (.Fill "600x400 webp q90").RelPermalink }}
+
                     <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
                         loading="lazy" alt="{{ .Title }}" />
 
@@ -48,7 +55,7 @@
                             {{ range $i, $t := (.GetTerms "tags") -}}
                             {{- if gt $i 0 }}&nbsp; {{ end -}}
                             <a href="{{ $t.Permalink }}"
-                                class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 capitalize">
+                                class="inline-flex items-center border rounded-md bg-gray-100 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-white capitalize">
                                 {{ $t.Name }}
                             </a>
                             {{- end }}

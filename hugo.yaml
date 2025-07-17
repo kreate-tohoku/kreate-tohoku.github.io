@@ -223,7 +223,7 @@ markup:
 
 taxonomies:
   category: Categories
-  tag: Tags
+  tag: tags
 
 privacy:
   disqus:
