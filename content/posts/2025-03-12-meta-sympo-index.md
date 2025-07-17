@@ -38,6 +38,8 @@ Date: April 6, 2025 at 17:01:30 JST
 
 ----------
 
+<img src = /images/posts/2025-03-12-meta-sympo-index/img.jpg style="width: 90%">
+
 ## Date and Venue
 
 **Date: March 12-14, 2025** | [**Calendar**](https://calendar.app.google/DjqMDQpmjWUpfS7x9) 
@@ -50,7 +52,6 @@ Date: April 6, 2025 at 17:01:30 JST
 
 --------------------------------
 
-<img src = /images/posts/2025-03-12-meta-sympo-index/img.jpg style="width: 90%">
 
 ## Program
 
