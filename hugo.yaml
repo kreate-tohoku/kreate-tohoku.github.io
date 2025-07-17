@@ -53,7 +53,7 @@ params:
   # og_image: /images/tailbliss-cover.png
   # moto: 東北大学理学部地球科学系・理学研究科地学専攻 地殻進化学グループ
   moto: ""
-  description: Key Research in Earth, Astrogeology, and Tectonic Evolution
+  description: KREATE (KR8) | Key Research in Earth, Astrogeology, and Tectonic Evolution 
   disable_theme_toggle: True
   disable_stay_uptodate: True
 
