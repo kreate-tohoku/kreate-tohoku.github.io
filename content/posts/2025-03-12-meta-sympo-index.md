@@ -11,10 +11,12 @@ tags: [学会, News]
 
 ---
 
+## Date and Venue
 
 ----------
-<!-- Subject: [2025変成岩などシンポジウム] 会計報告 - 変成岩などシンポジウム2025 青葉山大会 -->
-<!-- Date: April 6, 2025 at 17:01:30 JST -->
+
+Subject: [2025変成岩などシンポジウム] 会計報告 - 変成岩などシンポジウム2025 青葉山大会
+Date: April 6, 2025 at 17:01:30 JST
 
 関係各位
 
@@ -37,10 +39,6 @@ tags: [学会, News]
 
 ----------
 
-<img src = /images/posts/2025-03-12-meta-sympo-index/img.jpg style="width: 90%">
-
-## Date and Venue
-
 **Date: March 12-14, 2025** | [**Calendar**](https://calendar.app.google/DjqMDQpmjWUpfS7x9) 
 
 **Venue: Tohoku University - Aobayama Campus**
@@ -51,6 +49,7 @@ tags: [学会, News]
 
 --------------------------------
 
+<img src = /images/posts/2025-03-12-meta-sympo-index/img.jpg style="width: 90%">
 
 ## Program
 
