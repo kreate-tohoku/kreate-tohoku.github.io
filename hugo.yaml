@@ -48,6 +48,8 @@ markup:
       xhtml: false
 
 params:
+  googleAnalytics: "G-V0SVNRD4TFX"
+  googleTagManager: "GTM-TJLFFRXB"
   author: 地殻進化
   # authorimage: ../assets/images/global/author.webp
   # og_image: /images/tailbliss-cover.png
