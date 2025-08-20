@@ -295,7 +295,8 @@
                             <!--mdファイルのヘッダ部分に、featured_imageが設定されているとき-->
                             {{ if .Params.featured_image }}
                             {{ with resources.Get .Params.featured_image }}
-                            {{ $postimage := (.Resize "600x400 webp q90").RelPermalink }}
+
+                            {{ $postimage := (.Fill "600x400 webp q90").RelPermalink }}
                             <a href="{{ $.Permalink }}">
                                 <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg"
                                     width="100%" loading="lazy" alt="{{ $.Title }}" />

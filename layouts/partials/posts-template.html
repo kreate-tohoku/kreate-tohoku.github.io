@@ -14,8 +14,7 @@
                     {{ with resources.Get . }}
                     {{ $postimage := (.Fill "600x400 webp q90").RelPermalink }}
 
-                    <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height=""
-                        loading="lazy" alt="{{ .Title }}" />
+                    <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg"  loading="lazy" alt="{{ .Title }}" />
 
                     {{ end }}
                     {{ end }}
