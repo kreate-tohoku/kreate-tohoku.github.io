@@ -270,6 +270,22 @@ featured_image: ../assets/images/featured/bird.JPG
   </div>
 </div>
 
+
+<div class="photo-box">
+  <img src="/images/members/ChimidtserenAnkhbayar.png" class="thumb">
+  <span class=boldsymbol>チミドツェレン アンカバヤル (Chimidtseren, Ankhbayar) </span>
+  <div class="contents">
+    <span class="box">研究</span> Li-F peraluminous granites
+    <br>
+    <span class="box">趣味</span> Reading novels and cooking
+    <span class="box">好きな時代</span> 冥王代-太古代
+    <span class="box">好きな鉱物</span> アレクサンドライト
+  </div>
+</div>
+
+.
+
+
 ## 学部生 / Undergraduate student
 
 
