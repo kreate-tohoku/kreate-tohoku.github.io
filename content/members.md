@@ -117,7 +117,7 @@ featured_image: ../assets/images/featured/bird.JPG
 
 ## 博士課程 / Doctoral student
 
-### D2
+### D3
 
 <div class="photo-box">
   <img src="/images/members/TanFurukawa.jpg" class="thumb">
