@@ -55,6 +55,13 @@ featured_image: ../assets/images/posts/wawawawa.jpg
 
 
 ## HPを更新するときのワークフロー
+- めんどくさい人は、書き終わった後、
+
+```
+npm run push
+```
+
+を実行すること。
 
 - githubにアップロードするときの基本操作。
     1. ホームページをビルドする (git addするまえにこれをやらないと、生成されるHPがおかしくなるので注意)
