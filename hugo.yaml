@@ -216,10 +216,10 @@ menu:
       url: /publications/
       weight: 60
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
 
 taxonomies:
   category: Categories
