@@ -71,7 +71,8 @@ featured_image: ../assets/images/featured/bird.JPG
 
 <div class="photo-box">
   <img src="/images/members/TatsukiTsujimori.jpg" class="thumb">
-  <span class=boldsymbol>辻森 樹 (Tsujimori, Tatsuki) | 教授</span>
+  <span class=boldsymbol>辻森 樹 (Tsujimori, Tatsuki) | 教授</span> | <a href="https://tatsukix.netlify.app/uploads/CV_TatsukiTsujimori.pdf">CV</a>
+
   <br>
   <div class="contents">
     <div class="orcid">ORCID: https://orcid.org/0000-0001-9202-7312</div>
