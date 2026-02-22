@@ -1,5 +1,5 @@
 ---
-title: 卒業課題研究発表会
+title: 2025年度卒業課題研究発表会(地惑)
 date: 2026-02-02
 draft: False
 language: ja
@@ -13,15 +13,15 @@ tags: [イベント]
 
 2026年2月2日から2月6日にかけて、東北大学理学部地球惑星物質科学科(通称: 地惑)にて、課題研究発表会(学部4年生・修士2年生対象)が開催されました。\
 本研究室の学部4年生3名(帆足・瀧野・河野)は、2月3日午後に3人連続で登壇し、その日の最後を飾りました。\
-3名はそれぞれ、①**霰石大理石**、②**含金銀石英脈**、③**衝撃圧縮曹長石**をキーワードに、以下の題目で発表を行いました:
+3名はそれぞれ、(1)**霰石大理石**、(2)**含金銀石英脈**、(3)**衝撃圧縮曹長石**をキーワードに、以下の題目で発表を行いました:
 
->①Petrological and geochemical study of aragonite marble from the Cazadero Area, Franciscan Complex, California\
+>(1) Petrological and geochemical study of aragonite marble from the Cazadero Area, Franciscan Complex, California\
 (北米フランシスカン帯カザデロ地域のアラゴナイト大理石の岩石学的・地球化学的研究)\
 
->②Microstructural constraints on hydrothermal mineral precipitation within gold- and silver-bearing quartz veins: A case study from the Nebazawa Mine, Gunma Prefecture\
+>(2) Microstructural constraints on hydrothermal mineral precipitation within gold- and silver-bearing quartz veins: A case study from the Nebazawa Mine, Gunma Prefecture\
 (含金銀石英脈中の熱水性鉱物沈殿に対する微細組織学的制約：根羽沢鉱山（群馬県）を例として)\
 
->③Molecular dynamics investigation of the atomic structure of albite glass under static and shock compression\
+>(3) Molecular dynamics investigation of the atomic structure of albite glass under static and shock compression\
 (静的圧縮および衝撃圧縮下におけるアルバイトガラスの原子構造に関する分子動力学的研究)
 
 
