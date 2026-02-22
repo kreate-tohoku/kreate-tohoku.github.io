@@ -16,10 +16,10 @@ tags: [イベント]
 3名はそれぞれ、(1)**霰石大理石**、(2)**含金銀石英脈**、(3)**衝撃圧縮曹長石**をキーワードに、以下の題目で発表を行いました:
 
 >(1) Petrological and geochemical study of aragonite marble from the Cazadero Area, Franciscan Complex, California\
-(北米フランシスカン帯カザデロ地域のアラゴナイト大理石の岩石学的・地球化学的研究)\
+(北米フランシスカン帯カザデロ地域のアラゴナイト大理石の岩石学的・地球化学的研究)
 
 >(2) Microstructural constraints on hydrothermal mineral precipitation within gold- and silver-bearing quartz veins: A case study from the Nebazawa Mine, Gunma Prefecture\
-(含金銀石英脈中の熱水性鉱物沈殿に対する微細組織学的制約：根羽沢鉱山（群馬県）を例として)\
+(含金銀石英脈中の熱水性鉱物沈殿に対する微細組織学的制約：根羽沢鉱山（群馬県）を例として)
 
 >(3) Molecular dynamics investigation of the atomic structure of albite glass under static and shock compression\
 (静的圧縮および衝撃圧縮下におけるアルバイトガラスの原子構造に関する分子動力学的研究)
