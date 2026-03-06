@@ -6,8 +6,8 @@ language: ja
 featured_image: ../assets/images/posts/2026-02-23-america-stay1.jpg
 summary: 2月23日から3月2日まで、アメリカ・ノースカロライナ州のノースカロライナ大学チャペルヒル校の教授 Prof. Flores、およびワシントンD.C.の Ms. Ann のもとでホームステイをしました。本記事では、ノースカロライナでの滞在について紹介します。
 author: 瀧野　直峻
-categories: イベント
-tags: [イベント]
+categories: 日記
+tags: [日記]
 ---
 
 2月23日から3月2日まで、アメリカ・ノースカロライナ州のノースカロライナ大学チャペルヒル校の教授 Prof. Flores、およびワシントンD.C.の Ms. Ann のもとでホームステイをしました。本記事では、ノースカロライナでの滞在について紹介します。
