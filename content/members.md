@@ -165,60 +165,7 @@ featured_image: ../assets/images/featured/bird.JPG
   <br>
 </div>
 
-### 特別研究生
-
-<div class="photo-box">
-  <img src="/images/members/ChenKun.jpg" class="thumb">
-  <span class=boldsymbol>陈 坤 (Chen, Kun)</span>
-  <br>
-  <div class="orcid">ORCID: https://orcid.org/0009-0002-0802-6494</div>
-
-  <div class="contents">
-    <span class="box">研究</span> Subduction zone fluid, stable isotope, jadeitite, UHT metamophism
-    <br>
-    <span class="box">趣味</span> badminton, swimming, guitar, Ping-Pong
-    <span class="box">好きな時代</span> 顕生代
-    <span class="box">好きな鉱物</span> ひすい輝石
-
-  </div>
-</div>
-
-
-## 修士課程 / Master's student
-
-### M2
-
-<div class="photo-box">
-  <img src="/images/members/KeiSugiura.jpg" class="thumb">
-  <span class=boldsymbol>杉浦 慶 (Sugiura, Kei)</span>
-  <br>
-  <div class="orcid">ORCID: https://orcid.org/0000-0002-9168-9274</div>
-  <div class="contents">
-    <span class="box">研究</span> 北米カリフォルニア州最初期の蛇紋岩ダイアピルのホウ素同位体組成
-    <br>
-    <span class="box">趣味</span> 散歩、コーヒー喫茶巡り
-    <span class="box">好きな時代</span> 太古代
-    <span class="box">好きな鉱物</span> ザクロ石
-  </div>
-  <br>
-</div>
-
-
-
-<div class="photo-box">
-  <img src="/images/members/SomaKosuke.jpg" class="thumb">
-  <span class=boldsymbol>相馬 耕助 (Soma, Kosuke)</span>
-  <br>
-  <div class="contents">
-    <span class="box">研究</span> シンプレクタイト形成の数理
-    <br>
-    <span class="box">趣味</span> 散歩、旅行、ポケモン、ハンドボール、バドミントン
-    <span class="box">好きな時代</span>人新世<span class="box">好きな鉱物</span>ひすい輝石
-    <br>
-
-  </div>
-</div>
-
+### D1
 
 <div class="photo-box">
   <img src="/images/members/HonokaUmemiya.jpg" class="thumb">
@@ -237,7 +184,61 @@ featured_image: ../assets/images/featured/bird.JPG
   <br>
 </div>
 
-### M1
+<!-- ### 特別研究生 -->
+
+<!-- <div class="photo-box">
+  <img src="/images/members/ChenKun.jpg" class="thumb">
+  <span class=boldsymbol>陈 坤 (Chen, Kun)</span>
+  <br>
+  <div class="orcid">ORCID: https://orcid.org/0009-0002-0802-6494</div>
+
+  <div class="contents">
+    <span class="box">研究</span> Subduction zone fluid, stable isotope, jadeitite, UHT metamophism
+    <br>
+    <span class="box">趣味</span> badminton, swimming, guitar, Ping-Pong
+    <span class="box">好きな時代</span> 顕生代
+    <span class="box">好きな鉱物</span> ひすい輝石
+
+  </div>
+</div>
+ -->
+
+## 修士課程 / Master's student
+
+<!-- ### -->
+
+<!-- <div class="photo-box">
+  <img src="/images/members/KeiSugiura.jpg" class="thumb">
+  <span class=boldsymbol>杉浦 慶 (Sugiura, Kei)</span>
+  <br>
+  <div class="orcid">ORCID: https://orcid.org/0000-0002-9168-9274</div>
+  <div class="contents">
+    <span class="box">研究</span> 北米カリフォルニア州最初期の蛇紋岩ダイアピルのホウ素同位体組成
+    <br>
+    <span class="box">趣味</span> 散歩、コーヒー喫茶巡り
+    <span class="box">好きな時代</span> 太古代
+    <span class="box">好きな鉱物</span> ザクロ石
+  </div>
+  <br>
+</div> -->
+
+<!-- <div class="photo-box">
+  <img src="/images/members/SomaKosuke.jpg" class="thumb">
+  <span class=boldsymbol>相馬 耕助 (Soma, Kosuke)</span>
+  <br>
+  <div class="contents">
+    <span class="box">研究</span> シンプレクタイト形成の数理
+    <br>
+    <span class="box">趣味</span> 散歩、旅行、ポケモン、ハンドボール、バドミントン
+    <span class="box">好きな時代</span>人新世<span class="box">好きな鉱物</span>ひすい輝石
+    <br>
+
+  </div>
+</div> -->
+
+
+
+### M2
 
 <div class="photo-box">
   <img src="/images/members/KoyoTamura.jpg" class="thumb">
@@ -271,7 +272,6 @@ featured_image: ../assets/images/featured/bird.JPG
   </div>
 </div>
 
-
 <div class="photo-box">
   <img src="/images/members/ChimidtserenAnkhbayar.png" class="thumb">
   <span class=boldsymbol>チミドツェレン アンカバヤル (Chimidtseren, Ankhbayar) </span>
@@ -284,13 +284,8 @@ featured_image: ../assets/images/featured/bird.JPG
   </div>
 </div>
 
-.
 
-
-## 学部生 / Undergraduate student
-
-
-### B4
+### M1
 
 <div class="photo-box">
   <img src="/images/members/HarutoKono.jpg" class="thumb">
@@ -330,7 +325,23 @@ featured_image: ../assets/images/featured/bird.JPG
   </div>
 </div>
 
-### B3
+<div class="photo-box">
+  <img src="/images/acon.jpg" class="thumb">
+  <span class=boldsymbol>田中 康誠 (Tanaka, Kosei) </span>
+  <br>
+  <div class="contents">
+    <span class=box>研究</span> 高温低圧型変成岩の形成史と鉱物学
+    <!-- <br> -->
+    <!-- <span class=box>趣味</span> 陸上競技、スキー -->
+    <!-- <span class=box>好きな時代</span> NOW -->
+    <!-- <span class=box>好きな鉱物</span> 辰砂 -->
+  </div>
+</div>
+
+
+## 学部生 / Undergraduate student
+
+### B4
 
 <div class="photo-box">
   <img src="/images/members/TomoyaHashimoto.jpg" class="thumb">
