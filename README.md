@@ -41,7 +41,7 @@ featured_image: ../assets/images/posts/wawawawa.jpg
 ```
 
 
-記事の中に使用する画像は、`static/images/`に入れましょう。とくに、postsを更新した場合は、 `static/images/posts/`にいれましょう。**画像はそのままのサイズで入るので、リサイズしてから入れましょう**
+記事の中に使用する画像は、`static/images/`に入れましょう。とくに、postsを更新した場合は、 `static/images/posts/`にいれましょう。**画像はそのままのサイズで入るので、重い場合はリサイズしてから入れましょう**
 
 ```markdown
 <!-- 例 -->
