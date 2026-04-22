@@ -128,7 +128,7 @@ featured_image: ../assets/images/featured/bird.JPG
   <div class="contents">
     <span class="box">研究</span> 岩石組織の数理
     <br>
-    <span class="box">趣味</span> 砂金・化石・野草・きのこ・園芸・鳥
+    <span class="box">趣味</span> 砂金・化石・野草・きのこ・園芸・鳥・花
     <span class="box">好きな時代</span> 石炭紀 <span class="box">好きな鉱物</span> 自然金
   </div>
 </div>
@@ -332,7 +332,7 @@ featured_image: ../assets/images/featured/bird.JPG
   <div class="contents">
     <span class=box>研究</span> 高温低圧型変成岩の形成史と鉱物学
     <br>
-    <span class=box>趣味</span> 
+    <span class=box>趣味</span> 車鑑賞/野鳥観察
     <span class=box>好きな時代</span> 白亜紀
     <span class=box>好きな鉱物</span> かんらん石
   </div>
