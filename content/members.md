@@ -331,10 +331,10 @@ featured_image: ../assets/images/featured/bird.JPG
   <br>
   <div class="contents">
     <span class=box>研究</span> 高温低圧型変成岩の形成史と鉱物学
-    <!-- <br> -->
-    <!-- <span class=box>趣味</span> 陸上競技、スキー -->
-    <!-- <span class=box>好きな時代</span> NOW -->
-    <!-- <span class=box>好きな鉱物</span> 辰砂 -->
+    <br>
+    <span class=box>趣味</span> 
+    <span class=box>好きな時代</span> 白亜紀
+    <span class=box>好きな鉱物</span> かんらん石
   </div>
 </div>
 
