@@ -6,8 +6,8 @@ language: ja
 featured_image: ../assets/images/posts/2026-04-16-byebyekun.jpg
 summary: 2026年4月16日、 特別研究生として滞在していた中国科学技術大学のKun Chen君が帰国しました。
 author: 辻森　樹
-categories: イベント
-tags: [イベント]
+categories: Member
+tags: [Member]
 ---
 
 
