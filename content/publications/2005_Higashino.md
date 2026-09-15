@@ -5,7 +5,7 @@ authors:
 - Tatsuki Tsujimori
 - Tetsumaru Itaya
 date: "2005-04-01"
-doi: "10.2465/jmps.171006"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -32,7 +32,7 @@ featured: false
 links:
  - name: "Link"
    url: "http://www.pref.ishikawa.lg.jp/hakusan/publish/report/report32.html#rep32-1"
-# url_pdf: 'pdf/JMPS112(2017)181-3.pdf'
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

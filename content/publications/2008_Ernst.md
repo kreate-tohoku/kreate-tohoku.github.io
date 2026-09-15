@@ -2,7 +2,11 @@
 title: "Orogeny and metallogenesis along the margin of eastern Asia: Permo-Triassic subduction-zone metamorphism, crustal accretion, and exhumation"
 
 authors:
+- W. G. Ernst
 - Tatsuki Tsujimori
+- R.-Y. Zhang
+- Juhn G. Liou
+
 date: "2008-01-01"
 doi: ""
 

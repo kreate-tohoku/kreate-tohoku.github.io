@@ -2,9 +2,9 @@
 title: "[口絵] ロシア極東タイガノス半島の付加体とオフィオライト [Pictorial —Accretionary complexes and ophiolites in Taigonos Peninsula, Far-Eastern Russia—]"
 authors:
 - Akira Ishiwatari
- -Sumio Miyashita
- -Daichi Saito
- -Tatsuki Tsujimori
+- Sumio Miyashita
+- Daichi Saito
+- Tatsuki Tsujimori
 date: "1998-01-01"
 doi: "10.5575/geosoc.104.I"
 

@@ -3,7 +3,7 @@ title: "Ion microprobe U-Th-Pb geochronology and study of micro-inclusions in zi
 
 authors:
 - Hafiz Ur Rehman
-- Katsur Kobayashi
+- Katsura Kobayashi
 - Tatsuki Tsujimori
 - Tsutomu Ota
 - Hiroshi Yamamoto

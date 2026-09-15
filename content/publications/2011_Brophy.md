@@ -1,5 +1,5 @@
 ---
-title: "In situ ion-microbe determination of trace element partition coefficients for hornblende, plagioclase, orthopyroxene and apatite in equilibrium with natural rhyolitic glass, Little Glass Mountain Rhyolite, California"
+title: "In situ ion-microprobe determination of trace element partition coefficients for hornblende, plagioclase, orthopyroxene and apatite in equilibrium with natural rhyolitic glass, Little Glass Mountain Rhyolite, California"
 
 authors:
 - James G. Brophy
@@ -8,7 +8,7 @@ authors:
 - Tatsuki Tsujimori
 - Eizo Nakamura
 date: "2011-11-01"
-doi: "10.1146/annurev.earth.35.031306.140146"
+doi: "10.2138/am.2011.3857"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +20,7 @@ doi: "10.1146/annurev.earth.35.031306.140146"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*American Mineralogist*, v. 92, no. 11-12, p. 1838-1850, https://doi.org/10.2138/am.2011.3857"
+publication: "*American Mineralogist*, v. 96, no. 11-12, p. 1838-1850, https://doi.org/10.2138/am.2011.3857"
 publication_short: ""
 
 abstract: "Partially crystalline hornblende gabbro inclusions from the Little Glass Mountain Rhyolite contain euhedral plagioclase, orthopyroxene, hornblende, and apatite crystals in contact with interstitial rhyolitic (71–76% SiO2) glass. Textural and mineral compositional data indicate that the gabbros crystallized sufficiently slowly that surface equilibrium was closely approached at the interface between crystals and the liquid. This rare occurrence represents a natural dynamic crystallization experiment with a “run time” that is not realistically achievable in the laboratory. SIMS analysis of mineral rim-glass pairs have permitted the determination of high-quality, equilibrium trace-element partition coefficients for all four minerals. These data augment the limited partition coefficient database for minerals in high-SiO2 rhyolitic systems. For all minerals, the D values are consistent with those anticipated from crystal-chemical considerations. These data further support a liquid SiO2 control on the REEs (and presumably other elements) partitioning wherein D values systematically increase with increasing liquid SiO2 content."
@@ -34,7 +34,7 @@ featured: false
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.2138/am.2011.38576"
+   url: "https://doi.org/10.2138/am.2011.3857"
 url_pdf: 'pdf/AmMin96(2011)1838-50.pdf'
 url_code: ''
 url_dataset: ''

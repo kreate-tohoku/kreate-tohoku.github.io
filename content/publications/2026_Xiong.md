@@ -6,7 +6,7 @@ authors:
 - Xin-Yue Qiao
 - Jia-Le Xu
 - Xue-Li Li
-- Marco Scambellurid
+- Marco Scambelluri
 - Tatsuki Tsujimori
 - Donato Belmonte
 

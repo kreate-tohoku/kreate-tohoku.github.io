@@ -3,9 +3,9 @@ title: "ロシア極東，タイガノス半島のエリストラートバ・オ
 authors:
 - Daichi Saito
 - Tatsuki Tsujimori
- -Akira Ishiwatari
- -Sumio Miyashita
- -Sergei D. Sokolov
+- Akira Ishiwatari
+- Sumio Miyashita
+- Sergei D. Sokolov
 date: "1999-12-01"
 doi: ""
 

@@ -4,7 +4,7 @@ authors:
 - Naoko Takahashi
 - Tatsuki Tsujimori
 - Seiji Kamada
-- Nakamura Michihiko
+- Michihiko Nakamura
 date: "2022-03-04"
 doi: "10.1007/s00410-022-01892-y"
 

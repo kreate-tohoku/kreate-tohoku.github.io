@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "《第3章 科学教育イニシアチブ(SEI)による変革の過程》, *in* カール・ワイマン 著、大森不二雄・杉本和弘・渡邉由美子 監修『科学立国のための大学教育改革−エビデンスに基づく科学教育の実践−』, 玉川大学出版, p. 51-82. ISBN-10: 9784472405983"
+publication: "《第3章 科学教育イニシアチブ(SEI)による変革の過程》, *in* カール・ワイマン 著、大森不二雄・杉本和弘・渡邉由美子 監修『科学立国のための大学教育改革−エビデンスに基づく科学教育の実践−』, 玉川大学出版, p. 51-82. ISBN-13: 9784472405983"
 publication_short: ""
 
 abstract: ""

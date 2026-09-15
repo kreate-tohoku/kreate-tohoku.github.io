@@ -4,7 +4,7 @@ authors:
 - Ryo Fukushima
 - Tatsuki Tsujimori
 - Nobuyoshi Miyajima
-- Tiziana Boffa-Ballara
+- Tiziana Boffa Ballaran
 - Giacomo Criniti
 - Catherine McCammon
 date: "2024-03-31"
@@ -20,7 +20,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2022*, p. 83–84"
+publication: "*BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2023*, p. 81–82"
 publication_short: ""
 
 abstract: ""

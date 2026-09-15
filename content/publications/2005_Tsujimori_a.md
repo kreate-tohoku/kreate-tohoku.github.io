@@ -31,7 +31,7 @@ featured: false
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.2747/0020-6814.47.10.1048"
+   url: "https://doi.org/10.2747/0020-6814.47.3.215"
 url_pdf: 'pdf/IGR47(2005)1048-57.pdf'
 url_code: ''
 url_dataset: ''

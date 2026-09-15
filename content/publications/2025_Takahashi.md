@@ -3,7 +3,7 @@ title: "Rutile solubility in aqueous sodium salt solutions at high pressures and
 authors:
 - Naoko Takahashi
 - Tatsuki Tsujimori
-- Seiji Kameda
+- Seiji Kamada
 - Michihiko Nakamura
 date: "2025-03-24"
 doi: "10.1186/s40645-025-00683-w"

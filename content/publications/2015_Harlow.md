@@ -32,7 +32,7 @@ featured: true
 
 links:
  - name: "Link"
-   url: "http://dx.doi.org/10.1146/annurev-earth-060614-10521"
+   url: "http://dx.doi.org/10.1146/annurev-earth-060614-105215"
 url_pdf: 'pdf/AREPS43(2015)105-138.pdf'
 url_code: ''
 url_dataset: ''

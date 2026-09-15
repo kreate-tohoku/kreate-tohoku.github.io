@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*日本海学研究業書7 (Nihonkaigaku Soushyo 7)*, Japan Sea Research Series, Toyama Prefecture, Toyama (Japan), 59 p"
+publication: "*日本海学研究叢書7 (Nihonkaigaku Soushyo 7)*, Japan Sea Research Series, Toyama Prefecture, Toyama (Japan), 59 p"
 publication_short: ""
 
 abstract: ""

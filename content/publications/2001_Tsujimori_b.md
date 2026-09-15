@@ -29,8 +29,8 @@ featured: false
 
 links:
 # - name: "Link"
-#   url: "https://doi.org/10.2465/jmps.171006"
-# url_pdf: 'pdf/JMPS112(2017)181-3.pdf'
+#   url: ""
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

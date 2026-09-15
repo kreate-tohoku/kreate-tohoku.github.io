@@ -1,5 +1,5 @@
 ---
-title:  "Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin"
+title:  "Regional-scale excess Ar wave in a Barrovian type metamorphic belt, eastern Tibetan Plateau"
 
 authors:
 - Tetsumaru Itaya

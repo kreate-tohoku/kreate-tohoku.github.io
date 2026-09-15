@@ -4,7 +4,7 @@ authors:
 - Tatsuki Tsujimori
 - N. Esaka
 - Akinlolu F. Abimbola
-- Hirotsugu Hiromitsu
+- Hirotsugu Nishido
 - Kiyotaka Ninagawa
 - Tetsumaru Itaya
 date: "1997-06-01"

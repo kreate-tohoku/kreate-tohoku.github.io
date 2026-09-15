@@ -2,7 +2,7 @@
 title: "Retrograde phases of former bridgmanite inclusions in superdeep diamonds"
 authors:
 - Dmitry Zedgenizov
-- Hirioyuki Kagi
+- Hiroyuki Kagi
 - Eiji Ohtani
 - Tatsuki Tsujimori
 - Kazuki Komatsu

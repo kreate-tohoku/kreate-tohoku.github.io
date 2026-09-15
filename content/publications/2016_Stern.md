@@ -31,7 +31,7 @@ featured: true
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.2465/jmps.170403"
+   url: "https://doi.org/10.1130/G38024.1"
 url_pdf: 'pdf/Geol44(2016)799-802.pdf'
 url_code: ''
 url_dataset: ''

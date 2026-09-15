@@ -3,7 +3,7 @@ title: "Extremely Fe-rich metamorphic sekaninaite in a sillimanite-grade schist 
 authors:
 - Tatsuki Tsujimori
 date: "2003-12-01"
-doi: "10.2465/jmps.171006"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -15,7 +15,7 @@ doi: "10.2465/jmps.171006"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*岡山理科大学自然科学研究所研究報告 (Bulletin of Research Institute of Natural Sciences, Okayama University of Science)*, v. 29, p. 51-60"
+publication: "*岡山理科大学自然科学研究所研究報告 (Bulletin of Research Institute of Natural Sciences, Okayama University of Science)*, v. 29, p. 51-56"
 publication_short: ""
 
 abstract: ""
@@ -29,8 +29,8 @@ featured: false
 
 links:
 # - name: "Link"
-#   url: "https://doi.org/10.2465/jmps.171006"
-url_pdf: 'pdf/BRINS30(2004)51-60.pdf'
+#   url: ""
+url_pdf: 'pdf/BRINS29(2003)51-6.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

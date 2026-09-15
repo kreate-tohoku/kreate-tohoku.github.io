@@ -1,9 +1,9 @@
 ---
-title: "[口絵] 九州，天草下島の含藍晶石緑れん石角閃岩類 [Pictorial —Kyanite-bearing epidote amphibolites from Amakusa-shimonoshima, Kyusyu, Southwest Japan—]"
+title: "[口絵] 九州，天草下島の含藍晶石緑れん石角閃岩類 [Pictorial —Kyanite-bearing epidote amphibolites from Amakusa-shimoshima, Kyushu, Southwest Japan—]"
 authors:
 - Kenji Takeda
-- Tetsumaru Itaya
 - Tatsuki Tsujimori
+- Tetsumaru Itaya
 date: "2004-07-01"
 doi: "10.5575/geosoc.110.7.XIII_XIX"
 

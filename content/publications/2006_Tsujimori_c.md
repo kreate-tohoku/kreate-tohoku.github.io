@@ -4,7 +4,7 @@ title: "Franciscan eclogite revisited: Reevaluation of the P-T evolution of tect
 authors:
 - Tatsuki Tsujimori
 - Keisaku Matsumoto
-- John Wakanayashi
+- John Wakabayashi
 - Juhn G. Liou
 date: "2006-09-01"
 doi: "10.1007/s00710-006-0157-1"

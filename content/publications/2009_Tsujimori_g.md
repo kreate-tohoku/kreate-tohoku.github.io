@@ -1,5 +1,5 @@
 ---
-title:  "周防帯 §4.5.11 岡山県勝山－大佐地域 (第4章変成岩と変成作用) [§4.5.11 Suo metamorphic belt: Katsuyama-Osa area, Tottori Prefecture (SW Japan)]"
+title:  "周防帯 §4.5.11 岡山県勝山－大佐地域 (第4章変成岩と変成作用) [§4.5.11 Suo metamorphic belt: Katsuyama-Osa area, Okayama Prefecture (SW Japan)]"
 
 authors:
 - Tatsuki Tsujimori

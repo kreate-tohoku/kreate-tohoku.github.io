@@ -4,7 +4,7 @@ title: "造山帯中の高圧低温変成岩を伴う蛇紋岩メランジュ [B
 authors:
 - Tatsuki Tsujimori
 date: "2010-03-01"
-doi: "10.1146/annurev.earth.35.031306.140146"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: "*月刊地球 [Chikyu Monthly (Gekkan Chikyu)]*, v. 32, no. 3, p. 189-195"
 publication_short: ""
 
-abstract: "Convergent plate motion at ∼320–210 Ma generated the Tongbai-Dabie-Sulu (east-central China)-Imjingang-Gyeonggi (central Korea)-Renge-Suo (Southwestern Japan)-Sikhote-Alin orogen along the paleo-Pacific edge of cratonal Asia. This amalgamated belt reflects collision between the Sino-Korean and Yangtze cratons on the SW portion, and accretion of outboard oceanic arcs ± sialic fragments against the NE margin. Subducted Proterozoic-Paleozoic continental and oceanic crustal complexes underwent high- and ultrahigh-pressure metamorphism at low to moderate temperatures. Tectonic slices of sialic crust episodically disengaged from the downgoing plate and, driven by buoyancy, ascended rapidly to midcrustal levels from depths exceeding 90–200 km after continental collision in east-central China plus or minus Korea, and from ∼30–50 km after arrival of far-traveled oceanic terranes in SW Japan and the Russian Far East. On achieving neutral buoyancy and stalling out at 10–20 km depth, later doming, gravitational collapse, and erosion exposed parts of the high- and ultrahigh-pressure complexes. This curvilinear orogen has been segmented and offset by major and minor transverse faults. Also, regional backarc spreading opened marginal basins behind the Permo-Triassic convergent suture zone, further disturbing portions oceanward."
+abstract: "造山帯に産する高圧低温変成岩を伴う蛇紋岩メランジュは地質学的な背景や構成岩の性質によっていくつかの型に分けられる．本論はプレート収束域における固体地球プロセスの理解を目的とした蛇紋岩メランジュの解析において，今後，注目あるいは解決すべき問題について述べる."
 
 # Summary. An optional shortened abstract.
 # summary: 

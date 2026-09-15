@@ -20,9 +20,8 @@ doi: ""
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "地球史マップ：誕生・進化・流転の全記録, 日経ナショナルジオグラフィック, 322 p., ISBN:978-4863135932"
+publication: "地球史マップ　誕生・進化・流転の全記録, 日経ナショナルジオグラフィック, 322 p., ISBN:978-4863135932"
 publication_short: ""
-
 abstract: "圧倒的な情報量。一目で理解できるわかりやすさ。大人も子供も使える、一生ものの情報地図が登場！　プレートの過去と未来、火山の噴火、大気の循環、生命の歴史、サピエンスの拡散と交雑、都市化、戦争と環境破壊――。考古学者、天体物理学者、生物学者、気候学者、歴史学者、惑星学者など30人以上の専門家が協力して作り上げた決定版。300枚の地図で、45億年にわたる地球のすべてを描きます。"
 
 # Summary. An optional shortened abstract.

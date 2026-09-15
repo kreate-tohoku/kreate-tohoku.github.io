@@ -1,7 +1,7 @@
 ---
 title: "Boninite–ophiolite assemblages – the specific formations of ensimatic island arc systems"
 authors:
-- Sergei S. Vysotskiy
+- Sergei V. Vysotskiy
 - Sergei S. Shcheka
 - Tatsuki Tsujimori
 date: "1999-01-01"

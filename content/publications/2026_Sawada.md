@@ -7,11 +7,12 @@ authors:
 - Hirotsugu Nishido
 - Katsuyuki Yamashita
 - Syuhei Ohgo
+- Osamu Okano
 - Xiaoyu Zhang
 - Barry Roser
 
-date: "2026-04-17"
-doi: "https://doi.org/10.1016/j.lithos.2026.108564"
+date: "2026-04-30"
+doi: "10.1016/j.lithos.2026.108564"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +24,7 @@ doi: "https://doi.org/10.1016/j.lithos.2026.108564"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Lithos*, in press, 108564, https://doi.org/10.1016/j.lithos.2026.108564"
+publication: "*Lithos*, v. 536-537, 108564, https://doi.org/10.1016/j.lithos.2026.108564"
 publication_short: ""
 
 abstract: "The Hakuta basalts are Quaternary volcanic-front basalts in the subduction zone of the Chugoku region of SW Japan, and are characterized by unusually high Sr concentrations of 1700–4100 µg/g. The basalts are hydrous and contain amphibole. Inclusions of Sr-rich zeolite (chabazite-Ca) and glass, and S-rich materials occur within olivine and clinopyroxene phenocrysts, indicating the presence of an Sr-rich melt or fluid in the primary magma. The basalts are enriched in Sr, Ba, Pb, and LREEs. Isotopic data define distinct magma groups, with limited variation in Sr isotopic ratios but relatively large variability in Nd isotopic ratios. This suggests that Sr-bearing fluids were more abundant in the source region during basalt magma generation than Nd-bearing solid components. Carbon isotope values (δ13C = -27 to -22 ‰) suggest a contribution from subducted marine sediments. Zones of high seismic Poisson’s ratio anomalies beneath the Hakuta basalt field suggest the presence of fluids. Hydrous Sr-bearing metamorphic minerals, such as lawsonite and epidote, derived from altered oceanic crust within the subducted Philippine Sea slab, together with CO2 and SO3 derived from ocean-floor sediments, were heated by mantle upwelling. These components formed a fluid ascending through the mantle wedge. When the fluid reached a high-temperature zone, the mantle peridotite underwent open-system partial melting, producing basaltic magma. Subsequent addition of the fluid to the magma produced hydrous basaltic magma enriched in Sr and other incompatible elements, with the addition of trace elements supplied by slab-derived fluids in chemical disequilibrium with the mantle.

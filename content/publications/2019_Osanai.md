@@ -1,5 +1,5 @@
 ---
-title: "変成岩と変成作用 (1.鉱物 [地球編：表層])"
+title: "変成岩の分類 (1.鉱物 [地球編：表層])"
 authors:
 - Yasuhito Osanai
 - Takao Hirajima
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "《1. 鉱物/地球編：表層「変成岩の分類」》, *in* 一般社団法人 日本鉱物科学会 編集『鉱物・宝石の科学事典』, 朝倉書店, p. 174-180. ISBN:978-4254162766"
+publication: "《1. 鉱物/地球編：表層「変成岩の分類」》, *in* 一般社団法人 日本鉱物科学会 編集『鉱物・宝石の科学事典』, 朝倉書店, p. 174-180. ISBN:978-4254162769"
 publication_short: ""
 
 abstract: ""

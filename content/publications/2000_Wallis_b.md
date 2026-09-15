@@ -2,11 +2,11 @@
 title: "Eclogite and related metamorphism in the Sanbagawa belt, Southwest Japan"
 authors:
 - Simon Wallis
-- Tatsuki Tsujimori
-- Masaki Enami
 - Akira Takasu
+- Masaki Enami
+- Tatsuki Tsujimori
 date: "2000-09-01"
-doi: "10.2465/jmps.171006"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

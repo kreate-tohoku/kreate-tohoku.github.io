@@ -5,7 +5,7 @@ authors:
 - Akira Ishiwatari
 - Shohei Banno
 date: "2000-01-01"
-doi: ":10.5575/geosoc.106.I"
+doi: "10.5575/geosoc.106.I"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

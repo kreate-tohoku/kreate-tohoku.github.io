@@ -6,7 +6,7 @@ authors:
 - Tatsuki Tsujimori
 - Chin-Ho Tsai
 date: "2014-10-01"
-doi: "10.1146/annurev.earth.35.031306.140146"
+doi: "10.1016/j.jseaes.2012.07.015"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

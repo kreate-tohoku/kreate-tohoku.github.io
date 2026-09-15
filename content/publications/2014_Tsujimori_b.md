@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*地質技術 [Engineering Geology of Japan (Chishitsu Gijyutsu)]*, v. 4, no. 5, p. 29-53."
+publication: "*地質技術 [Engineering Geology of Japan (Chishitsu Gijyutsu)]*, v. 4, p. 29-53."
 publication_short: ""
 
 abstract: "西南日本の高圧変成帯および弱変成付加体から報告されている K-Ar（および，Ar/Ar）年代を地質単元毎にコンパイルし，その年代値をデータファイルとして公開した．"

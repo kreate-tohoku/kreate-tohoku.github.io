@@ -1,5 +1,5 @@
 ---
-title: "Eldridge M. Moores名誉教授を慎む"
+title: "Eldridge M. Moores名誉教授を悼む"
 authors:
 - Yujiro Ogawa
 - Tatsuki Tsujimori
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "日本地質学会ニュース誌 (*The Geological Society of Japan News*), v. 22, no. 11, p. 10"
+publication: "日本地質学会ニュース誌 (*The Geological Society of Japan News*), v. 21, no. 11, p. 10"
 publication_short: ""
 
 abstract: ""

@@ -2,10 +2,10 @@
 title: "Evidences for multistage and polychronous alkaline-ultrabasic Mesozoic magmatism in area of alluvial diamondiferous placers of the Anabar river basin (eastern slope of the Anabar shield)"
 authors:
 - Vladimir G. Malkovets
-- Stanislavovich V. Shatsky
+- Vladislav S. Shatsky
 - Alexei I. Dak
 - Anastasia A. Gibsher
-- Viktorovich I. Yakovle
+- Igor V. Yakovle
 - Elen A. Belousova
 - Tatsuki Tsujimori
 - Nikolai V. Sobolev

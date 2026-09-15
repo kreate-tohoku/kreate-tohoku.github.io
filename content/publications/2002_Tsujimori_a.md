@@ -15,7 +15,7 @@ doi: "10.2747/0020-6814.44.9.797"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Geology Review*, v. v. 44, no. 9, p. 797-818, https://doi.org/10.2747/0020-6814.44.9.797"
+publication: "*International Geology Review*, v. 44, no. 9, p. 797-818, https://doi.org/10.2747/0020-6814.44.9.797"
 publication_short: ""
 
 abstract: ""

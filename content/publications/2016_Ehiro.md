@@ -6,7 +6,7 @@ authors:
 - Kazuhiro Tsukada
 - Manchuk Nuramkhaan
 date: "2016-01-01"
-doi: "10.1144/GOJ.3"
+doi: "10.1144/GOJ.2"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"

@@ -2,7 +2,7 @@
 title: "Chapter 6. Sm-Nd and Lu-Hf isotope geochemistry of the Himalayan high- and ultrahigh-pressure eclogites, Kaghan valley, Pakistan—"
 authors:
 - Hafiz Ur Rehman
-- Katsur Kobayashi
+- Katsura Kobayashi
 - Tatsuki Tsujimori
 - Tsutomu Ota
 - Hiroshi Yamamoto

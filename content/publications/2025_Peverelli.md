@@ -1,5 +1,5 @@
 ---
-title: "Cold-subduction biogeodynamics boost deep energy delivery to the forearc"
+title: "Cold-subduction biogeodynamics boosts deep energy delivery to the forearc"
 authors:
 - Veronica Peverelli
 - Orlando Sébastien Olivieri

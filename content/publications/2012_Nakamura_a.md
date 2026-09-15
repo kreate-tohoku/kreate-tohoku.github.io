@@ -1,5 +1,5 @@
 ---
-title:  "Permo-Triassic collision, ultrahigh-pressure metamorphism, and tectonic exhumation along the East Asian continental margin"
+title:  "Space environment of an asteroid preserved on micrograins returned by the Hayabusa spacecraft"
 
 authors:
 - Eizo Nakamura
@@ -33,7 +33,7 @@ doi: "10.1073/pnas.1116236109"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the National Academy of Science*, v. 109, no. 11, p. E624-E629, https://doi.org/10.1073/pnas.1116236109"
+publication: "*Proceedings of the National Academy of Sciences*, v. 109, no. 11, p. E624-E629, https://doi.org/10.1073/pnas.1116236109"
 publication_short: ""
 
 abstract: "Records of micrometeorite collisions at down to submicron scales were discovered on dust grains recovered from near-Earth asteroid 25143 (Itokawa). Because the grains were sampled from very near the surface of the asteroid, by the Hayabusa spacecraft, their surfaces reflect the low-gravity space environment influencing the physical nature of the asteroid exterior. The space environment was examined by description of grain surfaces and asteroidal scenes were reconstructed. Chemical and O isotope compositions of five lithic grains, with diameters near 50 μm, indicate that the uppermost layer of the rubble-pile-textured Itokawa is largely composed of equilibrated LL-ordinary-chondrite-like material with superimposed effects of collisions. The surfaces of the grains are dominated by fractures, and the fracture planes contain not only sub-μm-sized craters but also a large number of sub-μm- to several-μm-sized adhered particles, some of the latter composed of glass. The size distribution and chemical compositions of the adhered particles, together with the occurrences of the sub-μm-sized craters, suggest formation by hypervelocity collisions of micrometeorites at down to nm scales, a process expected in the physically hostile environment at an asteroid’s surface. We describe impact-related phenomena, ranging in scale from 10-9 to 104 meters, demonstrating the central role played by impact processes in the long-term evolution of planetary bodies. Impact appears to be an important process shaping the exteriors of not only large planetary bodies, such as the moon, but also low-gravity bodies such as asteroids."

@@ -15,7 +15,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*地質技術 [Engineering Geology of Japan (Chishitsu Gijyutsu)]*, p. 29-53."
+publication: "*地質技術 [Engineering Geology of Japan (Chishitsu Gijyutsu)]*, 創刊準備号, p. 56–64."
 publication_short: ""
 
 abstract: ""

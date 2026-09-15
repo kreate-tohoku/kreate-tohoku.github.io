@@ -3,7 +3,7 @@ title: "Reappraisal of the oldest high-pressure type schist in Japan: New zircon
 authors:
 - Shota Matsunaga
 - Tatsuki Tsujimori
-- Atsushi Miyashiyta
+- Atsushi Miyashita
 - Shogo Aoki
 - Kazumasa Aoki
 - Daniel Pastor-Galán

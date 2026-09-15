@@ -4,7 +4,7 @@ authors:
 - Akira Ishiwatari
 - Tatsuki Tsujimori
 date: "1999-02-01"
-doi: "10.5026/jgeography.119.294"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ doi: "10.5026/jgeography.119.294"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*地学雑誌 [Journal of Geography (Chigaku Zasshi)]*, v. 102, no. 2, p. III-IV, https://doi.org/10.5026/jgeography.119.294"
+publication: "*地学雑誌 [Journal of Geography (Chigaku Zasshi)]*, v. 108, no. 2, p. III-IV, https://doi.org/10.5026/jgeography.119.294"
 publication_short: ""
 
 abstract: ""
@@ -30,8 +30,8 @@ featured: false
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.5026/jgeography.119.294"
-# url_pdf: 'pdf/JMPS112(2017)181-3.pdf'
+   url: ""
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -32,7 +32,7 @@ featured: false
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.2465/jmps.170403"
+   url: "https://doi.org/10.1080/00206814.2016.1213142"
 url_pdf: 'pdf/IGR59(2017)1621-31.pdf'
 url_code: ''
 url_dataset: ''

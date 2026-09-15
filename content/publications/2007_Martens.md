@@ -13,7 +13,7 @@ authors:
 - Giuseppe Giunta
 - Hans Avé Lallemant
 date: "2007-12-01"
-doi: "10.1146/annurev.earth.35.031306.140146"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -40,7 +40,7 @@ featured: false
 links:
  - name: "Link"
    url: "http://www.ugr.es/~agcasco/igcp546/2WS_guate_07.htm"
-# url_pdf: 'pdf/AREPS35(2007)73-110.pdf'
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

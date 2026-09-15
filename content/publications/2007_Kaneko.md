@@ -10,7 +10,7 @@ authors:
 - Akira Ishikawa
 - Kazuaki Okamoto
 date: "2007-01-01"
-doi: "10.1016/j.gr.2006.04.01"
+doi: "10.1016/j.gr.2006.04.013"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ featured: false
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.1016/j.gr.2006.04.01"
+   url: "https://doi.org/10.1016/j.gr.2006.04.013"
 url_pdf: 'pdf/GR11(2007)218-33.pdf'
 url_code: ''
 url_dataset: ''

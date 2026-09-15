@@ -1,5 +1,5 @@
 ---
-title: "Very-low-temperature record in subduction process: A review of worldwide lawsonite eclogites"
+title: "Very-low-temperature record of the subduction process: A review of worldwide lawsonite eclogites"
 authors:
 - Tatsuki Tsujimori
 - Virginia B. Sisson

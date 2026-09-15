@@ -15,7 +15,7 @@ doi: "10.1180/minmag.1997.061.409.07"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mineralogical Magazine*, v. 61, no. 6, p. 845-852, 181-183, https://doi.org/10.1180/minmag.1997.061.409.07"
+publication: "*Mineralogical Magazine*, v. 61, no. 6, p. 845–852, https://doi.org/10.1180/minmag.1997.061.409.07"
 publication_short: ""
 
 abstract: "Omphacite (Jd46.1–52.0Ae0–8.4Aug48.0–51.2) and diopside (Jd4.3–6.3Ae0–0.4Aug93.6–95.6) coexist in a vein cutting an omphacitite block in a serpentinite melange of the Oeyama ophiolite, central Chugoku Mountains. The compositional gap between omphacite and diopside is significantly wider than for other omphacitediopside pairs reported in the literature. The intergrowth texture of the omphacite-diopside vein suggests that the clinopyroxene pair was contemporaneously crystallized in the fracture from a Ca-bearing, alkali-rich fluid in a sub-solvus condition. Such a fluid may have been introduced from the surrounding serpentinized clinopyroxene-bearing harzburgite. The stability of omphacite and Al-rich pumpellyite in the matrix and the omphacite-diopside vein indicate that the earlier matrix recrystallization and later fracture filling may have both taken place under high-P-T condition during the melange-forming stage."

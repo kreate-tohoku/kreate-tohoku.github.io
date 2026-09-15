@@ -7,7 +7,7 @@ authors:
 - Tatsuki Tsujimori
 - Carmela Tupaz
 - Daisuke Araoka
-- Aoki Shogo
+- Shogo Aoki
 - Elisante E. Mshiu
 date: "2024-07-26"
 doi: "10.1007/s00126-024-01295-y"

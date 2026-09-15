@@ -3,6 +3,7 @@ title: "Significance of the Ca-Na pyroxene-lawsonite-chlorite assemblage in blue
 
 authors:
 - Tatsuki Tsujimori
+- Juhn G. Liou
 date: "2007-05-01"
 doi: "10.2747/0020-6814.49.5.416"
 
@@ -16,7 +17,7 @@ doi: "10.2747/0020-6814.49.5.416"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Geology Review*, v. 49, no. 5, p. 415-430, https://doi.org/10.2747/0020-6814.49.5.416"
+publication: "*International Geology Review*, v. 49, no. 5, p. 416-430, https://doi.org/10.2747/0020-6814.49.5.416"
 publication_short: ""
 
 abstract: "Paleozoic lawsonite-bearing low-grade metabasalts with rare flattened pillow structures occur in the Chugoku Mountains, Southwest Japan. The meta-mafic rocks are divided into meta-pillow basalt core (PBC), meta-pillow basalt rim (PBR), and metabasaltic breccia (BB). The PBC have MORB-like major and trace element concentrations, contain 5 wt% water, and a Na-amphibole-free mineral assemblage: Ca-Na pyroxene (maximum 29% jadeite component) + lawsonite + chlorite + quartz. In contrast, the PBR and BB contain a lawsonite-blueschist-facies mineral assemblage: Na-amphibole ± lawsonite + pumpellyite ± chlorite + albite + quartz. Parageneses and compositions of minerals yield equilibrium P-T conditions of T< 280°C and P = 0.6-0.7 GPa for all three rock types. Phase relations in the 2Al-Ca-2Fe3+-(Fe+Mg) tetrahedron suggest that the Na-amphibole-free mineral assemblage in PBC occurs only under relatively oxidized conditions. This mineral assemblage has been described from low-grade metabasalts in several high-P-low-T terranes, and might be a low-T equivalent of the lawsonite eclogite mineral assemblage. We propose that interaction of fluids with subducting old oceanic crust first produces the Ca-Na pyroxene + lawsonite + chlorite assemblage by hydration reactions at shallow depths in a cold subduction zone. With subduction to greater depths, such intensely hydrated metabasalts with the Na-amphibole-free mineral assemblage transforms to lawsonite eclogite below 300°C."

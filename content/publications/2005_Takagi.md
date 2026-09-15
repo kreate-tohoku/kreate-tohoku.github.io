@@ -16,7 +16,7 @@ doi: "10.5575/geosoc.111.4.XI_XII"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*地質学雑誌 (Journal of the Geological Society of Japan)*, v. 110, no. 4, p. XI-XII, https://doi.org/10.5575/geosoc.111.4.XI_XII"
+publication: "*地質学雑誌 (Journal of the Geological Society of Japan)*, v. 111, no. 4, p. XI-XII, https://doi.org/10.5575/geosoc.111.4.XI_XII"
 publication_short: ""
 
 abstract: ""
