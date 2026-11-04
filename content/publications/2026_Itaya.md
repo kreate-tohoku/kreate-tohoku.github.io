@@ -32,7 +32,7 @@ featured: false
 links:
  - name: "Link"
    url: "https://geohiruzen.co.jp/?p=577"
-# url_pdf: 'pdf/'
+url_pdf: 'pdf/地質技術16(2026)19-28.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
